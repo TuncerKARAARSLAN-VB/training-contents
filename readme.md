@@ -1,19 +1,4 @@
-# Hakkımda
-
-Merhaba! Ben Tuncer KARAARSLAN, yazılım geliştirme alanında 25 yılı aşkın deneyime sahip bir bilgisayar mühendisiyim. Kariyerime 1991 yılında başladım ve o günden bu yana Microsoft teknolojileri üzerine çeşitli projelerde yer aldım. .NET mimarilerinde geniş bir bilgi birikimim var ve Windows, web, mobil teknolojiler gibi farklı platformlarda yazılımlar geliştirdim. Son yıllarda gömülü yazılım geliştirme alanlarında ve sanallaştırma alanlarında da oldukça geniş deneyimlere sahip oldum. Geçmişte uzun yıllar eğitmenlik tecrübelerimi de profillerimden görebilirsiniz. Sektörel çok fazla deneyimlere sahibim. Sizler için hazırladığım kurumsal eğitim içerikleri umarım hoşunuza gider. Kısaca kendimden bahsetmeye devam etmek isterim.
-
-Yazılım mimarisi, teknik liderlik ve proje yönetimi konularında uzmanlaşarak, birçok firmada takım liderliği ve direktörlük görevlerinde bulundum. Özellikle e-ticaret platformları ve ERP sistemleri entegrasyonları konusundaki deneyimimle, işletmelerin dijital dönüşüm süreçlerine katkı sağladım.
-
-Gelişen teknolojilere ayak uydurarak, Linux, Docker ve siber güvenlik alanlarında kendimi sürekli olarak güncelliyorum. Ayrıca, yapay zeka ve IoT projeleri üzerinde çalışarak bu alanlarda da tecrübelerimi artırmaya devam ediyorum.
-
-Benimle ilgili çok detaylı bilgileri linkedin profilimden edinebilirsiniz. Bağlantı kurmak isterseniz, benimle GitHub ve LinkedIn üzerinden iletişime geçebilirsiniz:
-
-- [LinkedIn Profilim](https://www.linkedin.com/in/tuncerkaraarslan/)
-- [GitHub Profilim](https://github.com/TuncerKARAARSLAN-VB)
-
-Yeni projeler, özel kurumsal eğitim talepleriniz ve iş birlikleri için her zaman iletişime açığım. Birlikte başarılı işler yapmayı dört gözle bekliyorum!
-
-## 2025 Yılı Eğitimlerimiz
+# 2025 Yılı Eğitimlerimiz
 
 2025 yılı için hazırladığımız kurumsal eğitim içerikleri ile ilgili heyecanımızı sizlerle paylaşmaktan mutluluk duyuyoruz. Eğitimlerimiz, çalışanlarınızın yetkinliklerini artırmaya, ekip ruhunu güçlendirmeye ve kurumunuzun hedeflerine ulaşmasına katkı sağlamak amacıyla tasarlandı.
 
@@ -51,3 +36,19 @@ Peki neleri talep edebilirsiniz?
 - **Kuruma Özel İçerikler**: Eğitim içeriklerine kurumunuza özel logolar ve senaryolar eklenmesini isteyebilirsiniz.
 
 Bu talepler doğrultusunda, eğitimleri sizin kurumunuza özel hazırlayıp sunmaktan memnuniyet duyarız. Hedefleriniz doğrultusunda özelleştirilmiş eğitimlerle kurumunuzun gelişimine katkı sağlayacak çözümler üretmek için sabırsızlanıyoruz. Gelin birlikte başarılara imza atalım!
+
+## Hakkımda
+
+Merhaba! Ben Tuncer KARAARSLAN, yazılım geliştirme alanında 25 yılı aşkın deneyime sahip bir bilgisayar mühendisiyim. Kariyerime 1991 yılında başladım ve o günden bu yana Microsoft teknolojileri üzerine çeşitli projelerde yer aldım. .NET mimarilerinde geniş bir bilgi birikimim var ve Windows, web, mobil teknolojiler gibi farklı platformlarda yazılımlar geliştirdim. Son yıllarda gömülü yazılım geliştirme alanlarında ve sanallaştırma alanlarında da oldukça geniş deneyimlere sahip oldum. Geçmişte uzun yıllar eğitmenlik tecrübelerimi de profillerimden görebilirsiniz. Sektörel çok fazla deneyimlere sahibim. Sizler için hazırladığım kurumsal eğitim içerikleri umarım hoşunuza gider. Kısaca kendimden bahsetmeye devam etmek isterim.
+
+Yazılım mimarisi, teknik liderlik ve proje yönetimi konularında uzmanlaşarak, birçok firmada takım liderliği ve direktörlük görevlerinde bulundum. Özellikle e-ticaret platformları ve ERP sistemleri entegrasyonları konusundaki deneyimimle, işletmelerin dijital dönüşüm süreçlerine katkı sağladım.
+
+Gelişen teknolojilere ayak uydurarak, Linux, Docker ve siber güvenlik alanlarında kendimi sürekli olarak güncelliyorum. Ayrıca, yapay zeka ve IoT projeleri üzerinde çalışarak bu alanlarda da tecrübelerimi artırmaya devam ediyorum.
+
+Benimle ilgili çok detaylı bilgileri linkedin profilimden edinebilirsiniz. Bağlantı kurmak isterseniz, benimle GitHub ve LinkedIn üzerinden iletişime geçebilirsiniz:
+
+- [LinkedIn Profilim](https://www.linkedin.com/in/tuncerkaraarslan/)
+- [GitHub Profilim](https://github.com/TuncerKARAARSLAN-VB)
+
+Yeni projeler, özel kurumsal eğitim talepleriniz ve iş birlikleri için her zaman iletişime açığım. Birlikte başarılı işler yapmayı dört gözle bekliyorum!
+
