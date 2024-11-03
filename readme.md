@@ -20,6 +20,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 - **[Kurum Çalışanları için Yapay Zeka ve Çalışan Performansının Artırılması](./kurum-calisanlari-icin-yapay-zeka-ve-calisan-performansinin-artirilmasi/content.md)**
 - **[Go ile API Geliştirme, Microservis Mimarisi ve Yayınlama (Kubernetes, Docker, OpenShift)](./go-ile-api-gelistirme-microservis-mimarisi-ve-yayinlama-kubernetes-docker-openshift/content.md)**
 - **[Kurumsal Yapay Zeka Kodlama, Neden Kurumlarda ChatGpt Kullanmamalıyız](./kurumsal-yapay-zeka-kodlama-neden-kurumlarda-chatgpt-kullanmamalıyiz/content.md)**
+- **[Milyonlarca Cihazdan Veri Toplama ve Gerçek Zamanlı Analiz: Modern Yazılım Geliştirme Yöntemleri](./milyonlarca-cihazdan-veri-toplama-ve-gercek-zamanli-analiz-modern-yazilim-gelistirme-yontemleri/content.md)**
 
 Bu eğitimlerle, ekiplerinizin motivasyonunu artırmayı, iş süreçlerini optimize etmeyi ve sektördeki yeniliklere ayak uydurmayı hedefliyoruz. Sizleri dünya standartlarında yetkin kurumlar haline getirmek için eğitim içeriklerimizi güncelliyor ve yeni eğitimler hazırlıyoruz. Sizlere yazılım eğitimleri hazırlamadık. Ülkemizin eksik olduğu konularda sizlerin yeni dünya hakkında farkındalığınızı arttırmaya çalışıyoruz.
 
