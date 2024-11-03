@@ -8,19 +8,19 @@ Bu yıl, kurumunuza değer katacak ve çalışanlarınızın gelişimini destekl
 
 Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayınız.
 
-- **[Sıfırdan Zirveye Docker ile Sanallaştırma](./sifirdan-zirveye-docker-ile-sanallastirma/content.md)**
-- **[Sıfırdan Zirveye Kubernetes Eğitimi](./sifirdan-zirveye-kubernetes-egitimi/content.md)**
-- **[Yazılımcılar için CI/CD Eğitimi - Tüm Yönleri İle Yüksek Güvenlikli Yazılım Geliştirme Teknikleri](./yazilimcilar-icin-ci-cd-egitimi-tum-yonleri-ile-yuksek-guvenlikli-yazilim-gelistirme-teknikleri/)**
-- **[Yüksek Trafikli Sistem Mimarileri ve Kesintisiz Sistemler](./yuksek-trafigi-sistem-mimarileri-ve-kesintisiz-sistemler/)**
-- **[İleri Seviye CI/CD Eğitimi ve Kubernetes, Docker, Openshift Deployment](./ileri-seviye-ci-cd-egitimi-kubernetes-docker-openshift-deployment/content.md)**
-- **[Bilinmeyen Yönleri ile Red Hat ve Openshift Eğitimi](./bilinmeyen-yonleri-ile-red-hat-ve-openshift-egitimi/content.md)**
-- **[Kurum Çalışanları için Siber Güvenlik Eğitimi](./kurum-calisanlari-icin-siber-guvenlik-egitimi/content.md)**
-- **[İleri Seviye Siber Güvenlik  Eğitimi](./ileri-seviye-siber-guvenlik-egitimi/content.md)**
-- **[Yöneticiler için Yapay Zeka ve Kurumları Yarına Hazırlama](./yoneticiler-icin-yapay-zeka-ve-kurumlari-yarina-hazirlama/)**
-- **[Kurum Çalışanları için Yapay Zeka ve Çalışan Performansının Artırılması](./kurum-calisanlari-icin-yapay-zeka-ve-calisan-performansinin-artirilmasi/content.md)**
-- **[Go ile API Geliştirme, Microservis Mimarisi ve Yayınlama (Kubernetes, Docker, OpenShift)](./go-ile-api-gelistirme-microservis-mimarisi-ve-yayinlama-kubernetes-docker-openshift/content.md)**
-- **[Kurumsal Yapay Zeka Kodlama, Neden Kurumlarda ChatGpt Kullanmamalıyız](./kurumsal-yapay-zeka-kodlama-neden-kurumlarda-chatgpt-kullanmamalıyiz/content.md)**
-- **[Milyonlarca Cihazdan Veri Toplama ve Gerçek Zamanlı Analiz: Modern Yazılım Geliştirme Yöntemleri](./milyonlarca-cihazdan-veri-toplama-ve-gercek-zamanli-analiz-modern-yazilim-gelistirme-yontemleri/content.md)**
+- **[01 - Sıfırdan Zirveye Docker ile Sanallaştırma](./sifirdan-zirveye-docker-ile-sanallastirma/content.md)**
+- **[02 - Sıfırdan Zirveye Kubernetes Eğitimi](./sifirdan-zirveye-kubernetes-egitimi/content.md)**
+- **[03 - Yazılımcılar için CI/CD Eğitimi - Tüm Yönleri İle Yüksek Güvenlikli Yazılım Geliştirme Teknikleri](./yazilimcilar-icin-ci-cd-egitimi-tum-yonleri-ile-yuksek-guvenlikli-yazilim-gelistirme-teknikleri/)**
+- **[04 - Yüksek Trafikli Sistem Mimarileri ve Kesintisiz Sistemler](./yuksek-trafigi-sistem-mimarileri-ve-kesintisiz-sistemler/)**
+- **[05 - İleri Seviye CI/CD Eğitimi ve Kubernetes, Docker, Openshift Deployment](./ileri-seviye-ci-cd-egitimi-kubernetes-docker-openshift-deployment/content.md)**
+- **[06 - Bilinmeyen Yönleri ile Red Hat ve Openshift Eğitimi](./bilinmeyen-yonleri-ile-red-hat-ve-openshift-egitimi/content.md)**
+- **[07 - Kurum Çalışanları için Siber Güvenlik Eğitimi](./kurum-calisanlari-icin-siber-guvenlik-egitimi/content.md)**
+- **[08 - İleri Seviye Siber Güvenlik  Eğitimi](./ileri-seviye-siber-guvenlik-egitimi/content.md)**
+- **[09 - Yöneticiler için Yapay Zeka ve Kurumları Yarına Hazırlama](./yoneticiler-icin-yapay-zeka-ve-kurumlari-yarina-hazirlama/)**
+- **[10 - Kurum Çalışanları için Yapay Zeka ve Çalışan Performansının Artırılması](./kurum-calisanlari-icin-yapay-zeka-ve-calisan-performansinin-artirilmasi/content.md)**
+- **[11 - Go ile API Geliştirme, Microservis Mimarisi ve Yayınlama (Kubernetes, Docker, OpenShift)](./go-ile-api-gelistirme-microservis-mimarisi-ve-yayinlama-kubernetes-docker-openshift/content.md)**
+- **[12 - Kurumsal Yapay Zeka Kodlama, Neden Kurumlarda ChatGpt Kullanmamalıyız](./kurumsal-yapay-zeka-kodlama-neden-kurumlarda-chatgpt-kullanmamalıyiz/content.md)**
+- **[13 - Milyonlarca Cihazdan Veri Toplama ve Gerçek Zamanlı Analiz: Modern Yazılım Geliştirme Yöntemleri](./milyonlarca-cihazdan-veri-toplama-ve-gercek-zamanli-analiz-modern-yazilim-gelistirme-yontemleri/content.md)**
 
 Bu eğitimlerle, ekiplerinizin motivasyonunu artırmayı, iş süreçlerini optimize etmeyi ve sektördeki yeniliklere ayak uydurmayı hedefliyoruz. Sizleri dünya standartlarında yetkin kurumlar haline getirmek için eğitim içeriklerimizi güncelliyor ve yeni eğitimler hazırlıyoruz. Sizlere yazılım eğitimleri hazırlamadık. Ülkemizin eksik olduğu konularda sizlerin yeni dünya hakkında farkındalığınızı arttırmaya çalışıyoruz.
 
