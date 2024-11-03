@@ -1,147 +1,93 @@
 ## Eğitim Programı: Sıfırdan Zirveye Docker ile Sanallaştırma
 
-### Eğitim Süresi: 5 Gün
-- **Toplam Ders Süresi:** 5 gün x 6 ders = 30 ders
-- **Ders Süresi:** Her ders 50 dakika
-- **Eğitim Saatleri:** 10:00 - 17:00
-- **Ara:** Her gün 1 saat öğle arası (12:00 - 13:00)
+### Eğitim Süresi:
+- **5 Gün**
+- **Ders Süresi:** 50 dakika
+- **Eğitim Saati:** 10:00 - 17:00
 
-> ***Ücretlendirme için lütfen [linkedin](https://www.linkedin.com/in/tuncerkaraarslan/) üzerinden iletişime geçin. Size özel içeriklere ve sürenin 1 hafta yerine sürenin planlanmasına göre fiyatlandırmada değişiklikler olacaktır.***
+### Eğitim Hedefi:
+Bu eğitim, katılımcılara docker temel prensiplerini, mimarisini ve uygulama senaryolarını öğretmeyi amaçlamaktadır. Eğitim sonunda katılımcılar, kendi docker  yapılandırmalarını oluşturabilecek, yönetebilecek ve uygulama dağıtımlarını gerçekleştirebilecek düzeye geleceklerdir.
 
-### Eğitim Günleri ve İçerikleri
+### Gün 1: Docker'a Giriş ve Temel Kavramlar
+- **Docker Nedir?**
+  - Sanallaştırma nedir? Docker'ın sanallaştırma üzerindeki yeri.
+  - Docker'ın avantajları ve dezavantajları.
+  
+- **Docker Mimarisini Anlamak**
+  - Docker bileşenleri: Docker Engine, Docker Hub, Docker Compose.
+  - Container ve image kavramları.
+  
+- **Docker Kurulumu**
+  - Docker'ı farklı platformlarda kurmak: Windows, macOS, Linux.
+  - Docker CLI kullanarak ilk container oluşturma.
 
----
+### Gün 2: Docker İmajları ve Container Yönetimi
+- **Docker İmajlarıyla Çalışmak**
+  - Docker imajı nedir? İmaj oluşturma ve yönetim.
+  - Dockerfile ile custom imaj yaratma.
+  
+- **Container Yönetimi**
+  - Container oluşturma, başlatma, durdurma ve silme.
+  - Container loglarını inceleme.
+  - Container ağ ayarları ve dosya sistemleri.
 
-### **1. Gün: Docker Temelleri**
+- **Docker Hub ile İmaj Paylaşımı**
+  - Docker Hub’a giriş ve imaj yükleme.
+  - İmajları çekme ve güncelleme.
 
-**10:00 - 10:50** | **Docker Nedir?**  
-- Docker'ın tanımı ve avantajları
-- Sanallaştırma ile konteynerleştirme arasındaki farklar
+### Gün 3: Gelişmiş Docker Özellikleri
+- **Docker Compose Kullanımı**
+  - Docker Compose ile çoklu container yönetimi.
+  - docker-compose.yml dosyasının yapılandırılması.
+  
+- **Persisten Data Yönetimi**
+  - Docker Volume nedir? Verilerin kalıcılığı.
+  - Volume ve bind mount kullanımı.
+  
+- **Ağ Yönetimi**
+  - Docker ağ yapısı: bridge, host, overlay ağlar.
+  - Container’lar arası iletişim sağlama.
 
-**11:00 - 11:50** | **Docker Kurulumu**  
-- Docker’ın sistem gereksinimleri
-- Docker kurulumu ve temel yapılandırma
-- Codespace ortamının tanıtımı
+### Gün 4: Docker ile Uygulama Geliştirme
+- **Uygulama İmajları Oluşturma**
+  - Uygulama imajları oluşturma ve dağıtma.
+  - Örnek bir web uygulaması container'ı oluşturma.
+  
+- **Test Süreçleri**
+  - Uygulama testleri için Docker kullanımı.
+  - Container içindeki uygulama loglarının analizi.
 
-**12:00 - 13:00** | **Öğle Arası**
+- **Hata Ayıklama**
+  - Container'larda hata ayıklama yöntemleri.
+  - Docker CLI ile sorun giderme.
 
-**13:00 - 13:50** | **Temel Docker Komutları**  
-- Docker CLI kullanımı
-- Konteyner oluşturma ve yönetme
+### Gün 5: Orkestrasyon ve DevOps Entegrasyonu
+- **Kubernetes ile Docker Entegrasyonu**
+  - Kubernetes’in Docker ile birlikte kullanımı.
+  - Basit bir Kubernetes cluster kurulumu ve Docker container'larının yönetimi.
+  
+- **CI/CD Süreçlerinde Docker Kullanımı**
+  - Docker'ın sürekli entegrasyon ve sürekli dağıtım süreçlerindeki rolü.
+  - GitHub Actions veya Jenkins ile Docker ile CI/CD oluşturma.
 
-**14:00 - 14:50** | **Docker İmajları ve Registry**  
-- Docker imajlarının ne olduğu
-- Docker Hub kullanarak imaj çekme ve yükleme
+- **Uygulama Dağıtımı ve Yönetimi**
+  - Uygulama güncellemeleri ve roll-back süreçleri.
+  - Üretim ortamında Docker ile uygulama yönetimi.
 
-**15:00 - 15:50** | **Dockerfile Nedir?**  
-- Dockerfile oluşturma ve kullanma
-- Temel komutlar ve yapılandırmalar
+### Eğitim Metodolojisi
+- **Teorik Bilgiler**: Her günün başlangıcında teorik bilgilerin aktarılması.
+- **Pratik Uygulamalar**: Katılımcıların kendi bilgisayarlarında uygulamalı çalışmaları.
+- **Soru-Cevap**: Her günün sonunda katılımcıların sorularının cevaplanması.
+- **Geribildirim**: Katılımcıların eğitim süresince aldıkları geribildirimler.
 
----
+### Katılımcı Profili
+- Yazılım geliştiriciler, sistem yöneticileri, DevOps mühendisleri ve IT profesyonelleri.
 
-### **2. Gün: İleri Düzey Docker Kullanımı**
+### Eğitim Sonrası Beklentiler
+- Katılımcılar, Docker ile sanallaştırma süreçlerini tam olarak kavrayacak, uygulama geliştirme ve yönetme yetkinliğine sahip olacaklardır. Eğitim sonunda katılımcılara sertifika verilecektir. 
 
-**10:00 - 10:50** | **Konteyner Ağları**  
-- Ağ yapılandırması
-- Farklı ağ modları (bridge, host, overlay)
+Bu eğitim programı ile katılımcıların Docker teknolojisini derinlemesine öğrenmesi ve gerçek dünya uygulamalarında kullanabilmesi hedeflenmektedir.
 
-**11:00 - 11:50** | **Veri Yönetimi**  
-- Docker volume ve bind mounts
-- Veri kalıcılığı ve veri yönetimi
+ ## 12 Günlük Eğitim
 
-**12:00 - 13:00** | **Öğle Arası**
-
-**13:00 - 13:50** | **Kapsayıcı Güvenliği**  
-- Docker konteyner güvenliği
-- En iyi güvenlik uygulamaları
-
-**14:00 - 14:50** | **Docker Compose ile Çalışma**  
-- Docker Compose nedir?
-- Çok konteynerli uygulamalar oluşturma
-
-**15:00 - 15:50** | **Uygulama Geliştirme Senaryoları**  
-- Gerçek hayattan örnek senaryolar
-- Proje uygulamaları üzerinde çalışmak
-
----
-
-### **3. Gün: Docker ile CI/CD Entegrasyonu**
-
-**10:00 - 10:50** | **CI/CD Nedir?**  
-- Sürekli entegrasyon ve sürekli dağıtım kavramları
-- Docker ile CI/CD süreçleri
-
-**11:00 - 11:50** | **Jenkins ile Docker Entegrasyonu**  
-- Jenkins kurulum ve yapılandırma
-- Docker kullanarak pipeline oluşturma
-
-**12:00 - 13:00** | **Öğle Arası**
-
-**13:00 - 13:50** | **GitLab CI ile Docker Entegrasyonu**  
-- GitLab CI kurulum ve yapılandırma
-- Docker kullanarak otomasyon süreçleri
-
-**14:00 - 14:50** | **Docker Swarm Nedir?**  
-- Docker Swarm ile yüksek erişilebilirlik
-- Swarm modunda uygulama dağıtımı
-
-**15:00 - 15:50** | **Uygulama Yönetimi ve İzleme**  
-- Uygulama yönetim araçları (Portainer, Rancher)
-- İzleme ve günlükleme çözümleri
-
----
-
-### **4. Gün: Orkestrasyon ve Dağıtık Sistemler**
-
-**10:00 - 10:50** | **Kubernetes Giriş**  
-- Kubernetes mimarisi
-- Kubernetes ile konteyner yönetimi
-
-**11:00 - 11:50** | **Kubernetes Kurulumu**  
-- Minikube ve k3s kullanarak kurulum
-- İlk uygulamanızı dağıtma
-
-**12:00 - 13:00** | **Öğle Arası**
-
-**13:00 - 13:50** | **Pod ve Servis Kavramları**  
-- Pod nedir? Servisler ve türleri
-- Konteynerler arası iletişim
-
-**14:00 - 14:50** | **Kubernetes ile Dağıtım Stratejileri**  
-- Rolling update ve rollback stratejileri
-- Hedeflenmiş kaynak yönetimi
-
-**15:00 - 15:50** | **Uygulama Senaryoları**  
-- Gerçek yaşam senaryoları üzerinden uygulamalar
-- Çözüm odaklı yaklaşımlar
-
----
-
-### **5. Gün: İleri Düzey Konular ve Proje Uygulamaları**
-
-**10:00 - 10:50** | **Docker ve Kubernetes ile Monitoring**  
-- İzleme araçları ve çözümleri (Prometheus, Grafana)
-- Uygulama performansını izleme
-
-**11:00 - 11:50** | **Gelişmiş Güvenlik Önlemleri**  
-- Güvenlik uygulamaları ve önerileri
-- Uygulama güvenliği ve güvenli imajlar
-
-**12:00 - 13:00** | **Öğle Arası**
-
-**13:00 - 13:50** | **Proje Uygulama Çalışması**  
-- Katılımcılarla grup çalışmaları
-- Gerçek dünya senaryoları üzerinde uygulama geliştirme
-
-**14:00 - 14:50** | **Eğitim Değerlendirmesi ve Geri Bildirim**  
-- Eğitim değerlendirmesi
-- Katılımcıların görüş ve önerileri
-
-**15:00 - 15:50** | **Sertifika Töreni ve Kapanış**  
-- Katılımcılara teşekkür, kapanış konuşması ve iletişim bilgilerinin paylaşılması 
-
----
-
-### Eğitim İçeriği ve Hedefleri
-
-Bu eğitim programı, katılımcıların Docker ve konteyner teknolojileri konusunda sağlam bir temel oluşturmalarını, ileri düzey konuları anlamalarını ve gerçek dünya uygulamaları ile deneyim kazanmalarını sağlamayı amaçlamaktadır. Eğitim sonunda katılımcılar, Docker ve Kubernetes ile uygulama geliştirme ve yönetme becerilerini geliştirmiş olacaklardır.
+> Aynı eğitim içeriği haftada 3en az gün olacak şekilde 12 günlük eğitim olarak da verilebilmektedir. Aynı konu başlıkları ile ancak ekibin kod yazarak eğitmenle birlikte çalıştığı bir ortamda verilmektedir. Bu sayede eğitime katılan katılımcılar eğitimde en yüksek deneyim seviyesine erişmektedirler. Bu eğitimden sonra katılımcılar,  Docker ile sanallaştırma süreçlerini tam olarak kavrayacak, uygulama geliştirmeye başlayabilecekler. Kurumsal eğitim taleplerinde max 10 kişilik sınıflarda uzaktan etkileşimli içerikleriklerle verilebilmektedir.  Eğitimler 12 gün içinde tamamlanmaktadır.
