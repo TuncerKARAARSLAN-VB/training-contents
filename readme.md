@@ -10,7 +10,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 
 - **[01 - Sıfırdan Zirveye Docker ile Sanallaştırma](./sifirdan-zirveye-docker-ile-sanallastirma/content.md)**
 - **[02 - Sıfırdan Zirveye Kubernetes Eğitimi](./sifirdan-zirveye-kubernetes-egitimi/content.md)**
-- **[03 - Yazılımcılar için CI/CD Eğitimi - Tüm Yönleri İle Yüksek Güvenlikli Yazılım Geliştirme Teknikleri](./yazilimcilar-icin-ci-cd-egitimi-tum-yonleri-ile-yuksek-guvenlikli-yazilim-gelistirme-teknikleri/)**
+- **[03 - Yazılımcılar için CI/CD Eğitimi - Tüm Yönleri İle Yüksek Güvenlikli Yazılım Geliştirme Teknikleri](./yazilimcilar-icin-ci-cd-egitimi-tum-yonleri-ile-yuksek-guvenlikli-yazilim-gelistirme-teknikleri/content.md)**
 - **[04 - Yüksek Trafikli Sistem Mimarileri ve Kesintisiz Sistemler](./yuksek-trafigi-sistem-mimarileri-ve-kesintisiz-sistemler/)**
 - **[05 - İleri Seviye CI/CD Eğitimi ve Kubernetes, Docker, Openshift Deployment](./ileri-seviye-ci-cd-egitimi-kubernetes-docker-openshift-deployment/content.md)**
 - **[06 - Bilinmeyen Yönleri ile Red Hat ve Openshift Eğitimi](./bilinmeyen-yonleri-ile-red-hat-ve-openshift-egitimi/content.md)**

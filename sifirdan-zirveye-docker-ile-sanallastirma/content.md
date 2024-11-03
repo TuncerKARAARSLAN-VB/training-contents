@@ -3,11 +3,13 @@
 ### Eğitim Süresi:
 
 **Format 1**
+
 - **5 Gün**
 - **Ders Süresi:** 50 dakika
 - **Eğitim Saati:** 10:00 - 17:00
 
 **Format 2**
+
 - **12 Gün**
 - **Ders Süresi:** 50 dakika
 - **Eğitim Saati:** 10:00 - 17:00
@@ -95,6 +97,9 @@ Bu eğitim, katılımcılara docker temel prensiplerini, mimarisini ve uygulama 
 
 Bu eğitim programı ile katılımcıların Docker teknolojisini derinlemesine öğrenmesi ve gerçek dünya uygulamalarında kullanabilmesi hedeflenmektedir.
 
- ## 12 Günlük Eğitim
+### Hedef Kitle:
 
-> Aynı eğitim içeriği haftada 3en az gün olacak şekilde 12 günlük eğitim olarak da verilebilmektedir. Aynı konu başlıkları ile ancak ekibin kod yazarak eğitmenle birlikte çalıştığı bir ortamda verilmektedir. Bu sayede eğitime katılan katılımcılar eğitimde en yüksek deneyim seviyesine erişmektedirler. Bu eğitimden sonra katılımcılar,  Docker ile sanallaştırma süreçlerini tam olarak kavrayacak, uygulama geliştirmeye başlayabilecekler. Kurumsal eğitim taleplerinde max 10 kişilik sınıflarda uzaktan etkileşimli içerikleriklerle verilebilmektedir.  Eğitimler 12 gün içinde tamamlanmaktadır.
+- Yazılım Geliştiriciler
+- Sistem Yöneticileri
+- DevOps Mühendisleri
+- IT Profesyonelleri
