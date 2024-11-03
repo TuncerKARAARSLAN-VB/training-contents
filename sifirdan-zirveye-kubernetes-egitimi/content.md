@@ -1,4 +1,4 @@
-## Sıfırdan Zirveye Kubernetes Eğitimi
+# Sıfırdan Zirveye Kubernetes Eğitimi
 
 **Format 1**
 

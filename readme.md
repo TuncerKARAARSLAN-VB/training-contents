@@ -16,7 +16,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 - **[06 - Bilinmeyen Yönleri ile Red Hat ve Openshift Eğitimi](./bilinmeyen-yonleri-ile-red-hat-ve-openshift-egitimi/content.md)**
 - **[07 - Kurum Çalışanları için Siber Güvenlik Eğitimi](./kurum-calisanlari-icin-siber-guvenlik-egitimi/content.md)**
 - **[08 - İleri Seviye Siber Güvenlik  Eğitimi](./ileri-seviye-siber-guvenlik-egitimi/content.md)**
-- **[09 - Yöneticiler için Yapay Zeka ve Kurumları Yarına Hazırlama](./yoneticiler-icin-yapay-zeka-ve-kurumlari-yarina-hazirlama/)**
+- **[09 - Yöneticiler için Yapay Zeka ve Kurumları Yarına Hazırlama](./yoneticiler-icin-yapay-zeka-ve-kurumlari-yarina-hazirlama/content.md)**
 - **[10 - Kurum Çalışanları için Yapay Zeka ve Çalışan Performansının Artırılması](./kurum-calisanlari-icin-yapay-zeka-ve-calisan-performansinin-artirilmasi/content.md)**
 - **[11 - Go ile API Geliştirme, Microservis Mimarisi ve Yayınlama (Kubernetes, Docker, OpenShift)](./go-ile-api-gelistirme-microservis-mimarisi-ve-yayinlama-kubernetes-docker-openshift/content.md)**
 - **[12 - Kurumsal Yapay Zeka Kodlama, Neden Kurumlarda ChatGpt Kullanmamalıyız](./kurumsal-yapay-zeka-kodlama-neden-kurumlarda-chatgpt-kullanmamalıyiz/content.md)**

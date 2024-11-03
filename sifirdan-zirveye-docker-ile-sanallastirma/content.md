@@ -1,4 +1,4 @@
-## Eğitim Programı: Sıfırdan Zirveye Docker ile Sanallaştırma
+# Sıfırdan Zirveye Docker ile Sanallaştırma
 
 ### Eğitim Süresi:
 
