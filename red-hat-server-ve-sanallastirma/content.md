@@ -22,6 +22,7 @@
 - Yedekleme ve kurtarma işlemlerini yapabilme
 - Git versiyon kontrol sisteminin kullanımını öğrenme
 - **Docker ve Kubernetes kurulumu ve yönetimini öğrenme**
+- **Vagrant ile sanal makineler üzerinde uygulama ve test ortamları oluşturabilme**
 - Uygulama kurulumları ve güncelleme işlemlerini yapabilme
 
 ---
@@ -46,122 +47,126 @@
   - Zaman ayarları
   - Kullanıcı oluşturma
 
-#### 3. Temel Linux Komutları
+#### 3. Vagrant ile Sanal Makine Kurulumu ve Yönetimi
+
+- Vagrant nedir ve nasıl kullanılır?
+- **Vagrant ile RHEL sanal makinesi oluşturma**
+    - Vagrantfile oluşturma
+    - Sanal makine başlatma
+    ```bash
+    vagrant init centos/7
+    vagrant up
+    ```
+- SSH ile sanal makineye bağlanma
+    ```bash
+    vagrant ssh
+    ```
+- Sanal makineleri durdurma ve silme
+    ```bash
+    vagrant halt
+    vagrant destroy
+    ```
+- Multi-machine Vagrant yapılandırması
+
+#### 4. Temel Linux Komutları
 
 - Dosya ve dizin yönetimi
 - Dosya izinleri ve sahiplik
 - Temel sistem bilgisi komutları (`uname`, `top`, `df`, `free`, vb.)
 - Gelişmiş dosya yönetimi komutları (`find`, `grep`, `tar`, `rsync`)
 
-#### 4. Paket Yönetimi
+#### 5. Paket Yönetimi
 
 - DNF ve YUM paket yöneticileri
 - Paket kurma, kaldırma ve güncelleme
 - Bağımlılık yönetimi
 - Yazılım kaynaklarını yönetme
 
-#### 5. Uygulama Kurulumları ve Güncelleme
+#### 6. Uygulama Kurulumları ve Güncelleme
 
 - Uygulama kurulum yöntemleri
   - Yazılım kaynaklarından uygulama kurulumu
   - RPM paketleri ile kurulum
 - Güncellemelerin yönetimi
-
     ```bash
     dnf update
     ```
-
   - Belirli bir paketin güncellenmesi
-
     ```bash
     dnf upgrade paket_adi
     ```
-
 - Uygulama kaldırma işlemleri
-  - Uygulama kaldırma
-
     ```bash
     dnf remove paket_adi
     ```
 
-#### 6. Ağ Yönetimi
+#### 7. Ağ Yönetimi
 
 - Temel ağ kavramları (IP, DNS, DHCP)
 - Ağ arayüzlerinin yapılandırılması
 - Firewall ve güvenlik ayarları
 - Ağ izleme ve sorun giderme araçları (`ping`, `traceroute`, `netstat`)
 
-#### 7. Kullanıcı ve Grub Yönetimi
+#### 8. Kullanıcı ve Grub Yönetimi
 
 - Kullanıcı ekleme, silme ve düzenleme
 - Grupların yönetimi
 - Kullanıcı ve grup izinleri
 - Sudo ve root erişimi
 
-#### 8. Sistem Güvenliği
+#### 9. Sistem Güvenliği
 
 - SELinux hakkında bilgi
 - Güvenlik duvarı yapılandırması
 - SSH ile güvenli uzaktan erişim
 - Güncellemelerin ve yamaların yönetimi
 
-#### 9. Yedekleme ve Kurtarma
+#### 10. Yedekleme ve Kurtarma
 
 - Yedekleme stratejileri
 - `tar` ve `rsync` kullanarak yedekleme
 - Sistem kurtarma yöntemleri
 - Boot ortamı ve kurtarma diskleri
 
-#### 10. Sistem İzleme ve Performans Yönetimi
+#### 11. Sistem İzleme ve Performans Yönetimi
 
 - Sistem izleme araçları (top, htop, vmstat)
 - Disk kullanımını izleme (df, du)
 - Sistem performansını artırma stratejileri
 - Log dosyalarının yönetimi
 
-#### 11. Uygulama Yönetimi
+#### 12. Uygulama Yönetimi
 
 - Web sunucusu (Apache/Nginx) kurulumu ve yapılandırması
 - Veritabanı sunucusu (MySQL/PostgreSQL) kurulumu
 - Basit uygulama dağıtım senaryoları
 
-#### 12. Git Kurulumu ve Kullanımı
+#### 13. Git Kurulumu ve Kullanımı
 
 - Git’in temel kavramları (repository, commit, branch, merge)
 - Git kurulumu
-
     ```bash
     dnf install git
     ```
-
 - Yeni bir repository başlatma
-
     ```bash
     git init
     ```
-
 - Dosya ekleme ve commit yapma
-
     ```bash
     git add dosya_adi
     git commit -m "İlk commit"
     ```
-
 - Uzak repository ile çalışma
-  - Uzak repository ekleme
-
     ```bash
     git remote add origin uzak_repository_url
     ```
-
-  - Değişiklikleri itme ve çekme
-
     ```bash
     git push origin master
     git pull origin master
     ```
 
-#### 13. Docker Kurulumu ve Temel Kullanımı
+#### 14. Docker Kurulumu ve Temel Kullanımı
 
 - Docker nedir ve neden kullanılır?
 - Docker mimarisi
@@ -173,20 +178,15 @@
 - Konteynerlerin izlenmesi ve yönetimi
 - Docker üzerinde basit uygulama dağıtımı
 
-#### 14. Kubernetes Kurulumu ve Yönetimi
+#### 15. Kubernetes Kurulumu ve Yönetimi
 
 - Kubernetes’in tanımı ve mimarisi
 - Kubernetes kurulumu (Docker, kubelet, kubeadm, kubectl)
 - Kubernetes kümesi oluşturma ve yönetme
-  - `kubectl` ile yönetim (Namespace, Pod, servis, deployment)
-    - Örnek: Pod oluşturma ve yönetimi
-      ```bash
-      kubectl create deployment my-app --image=my-image
-      ```
-    - Servis oluşturma ve yönetimi
-      ```bash
-      kubectl expose deployment my-app --type=LoadBalancer --port=80
-      ```
+    ```bash
+    kubectl create deployment my-app --image=my-image
+    kubectl expose deployment my-app --type=LoadBalancer --port=80
+    ```
 - Kubernetes üzerinde uygulama dağıtımı
 - Temel sorun giderme ve izleme komutları (`kubectl logs`, `kubectl get pods`)
 
@@ -204,4 +204,4 @@
 - Önceki Linux deneyimi, tercih sebebi fakat zorunlu değildir
 - Kendi dizüstü bilgisayar veya sanal makine (Vagrant, VirtualBox) ile RHEL kurulumu yapılmış olması önerilir.
 
-Bu eğitim paketi, katılımcılara Red Hat Linux, Docker ve Kubernetes yönetim becerilerini kazandırmayı amaçlar. Eğitim sonunda, RHEL sistemlerinin etkin bir şekilde yönetilmesi, Docker ve Kubernetes ortamlarının kurulması ve yönetimi konularında bilgi sahibi olunması hedeflenir.
+Bu eğitim paketi, katılımcılara Red Hat Linux, Docker, Kubernetes ve Vagrant gibi teknolojiler üzerinde derinlemesine bilgi ve beceri kazandırmayı hedefler.
