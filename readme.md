@@ -38,6 +38,20 @@ Peki neleri talep edebilirsiniz?
 
 Bu talepler doğrultusunda, eğitimleri sizin kurumunuza özel hazırlayıp sunmaktan memnuniyet duyarız. Hedefleriniz doğrultusunda özelleştirilmiş eğitimlerle kurumunuzun gelişimine katkı sağlayacak çözümler üretmek için sabırsızlanıyoruz. Gelin birlikte başarılara imza atalım!
 
+## 5 Günlük ve 12 Günlük Eğitim Arasındaki Fark
+
+Tüm eğitimlerimiz 5 günlük ve 12 günlük formatta verilmektedir. Eğitim içerikleri aynı, ancak 12 günlük eğitimde kurumsal sorunlarında konuşulduğu, örneklerin özelleşebildiği bir çalışma ortamı sağlanmaktadır.
+
+Tüm eğitim içerikleri yapay zeka destekli kendi başına öğrenmek teknikleri ie anlatılmakta ve katılımcıların gelecek iş hayatlarında eğitim aldıkları konularda kendilerini güncelleyebilmeleri ve her türlü sorunun altından kalkmalarına yardımcı olacak bir eğitim içeriği ile eğitilmelerini sağlamaktadır. Özellikle 12 günlük eğitimde eğitmen ile katılımcılar çok yönlü sorun çözme ve sorunların altından kalkabilme yetkinliklerine de sahip olmaktadır.
+
+## 5 Günlük Eğitim
+
+> Planlanan eğitim içeriği hafta içi 5 günde tamamlanmaktadır. Eğitim öncesinde talep edilen kurumsal eğitim sunum formatında ve istenilen örnek senaryolar ile eğitim anlatılmaktadır. Bu eğitim formatında eğitim içeriği anlatılırken eğitmen bol örnekler ile konuyu pekiştirmektedir.
+
+## 12 Günlük Eğitim
+
+> Aynı eğitim içeriği haftada 3 gün olacak şekilde 12 günlük eğitim olarak da verilebilmektedir. 5 günlük eğitim formatına ek olarak eğitmen tüm katıcılımlar ile ortak kod yazmakta, hands-on apırlıklı bir eğitim olmaktadır. Aynı konu başlıkları ile ancak ekibin kod yazarak eğitmenle birlikte çalıştığı bir ortamda verilmektedir. Bu sayede eğitime katılan katılımcılar eğitimde en yüksek deneyim seviyesine erişmektedirler. Bu eğitimden sonra katılımcılar,  Docker ile sanallaştırma süreçlerini tam olarak kavrayacak, uygulama geliştirmeye başlayabilecekler. Kurumsal eğitim taleplerinde max 10 kişilik sınıflarda uzaktan etkileşimli içerikleriklerle verilebilmektedir.  Eğitimler 12 gün içinde tamamlanmaktadır.
+
 ## Hakkımda
 
 Merhaba! Ben Tuncer KARAARSLAN, yazılım geliştirme alanında 25 yılı aşkın deneyime sahip bir bilgisayar mühendisiyim. Kariyerime 1991 yılında başladım ve o günden bu yana Microsoft teknolojileri üzerine çeşitli projelerde yer aldım. .NET mimarilerinde geniş bir bilgi birikimim var ve Windows, web, mobil teknolojiler gibi farklı platformlarda yazılımlar geliştirdim. Son yıllarda gömülü yazılım geliştirme alanlarında ve sanallaştırma alanlarında da oldukça geniş deneyimlere sahip oldum. Geçmişte uzun yıllar eğitmenlik tecrübelerimi de profillerimden görebilirsiniz. Sektörel çok fazla deneyimlere sahibim. Sizler için hazırladığım kurumsal eğitim içerikleri umarım hoşunuza gider. Kısaca kendimden bahsetmeye devam etmek isterim.
@@ -52,4 +66,3 @@ Benimle ilgili çok detaylı bilgileri linkedin profilimden edinebilirsiniz. Ba�
 - [GitHub Profilim](https://github.com/TuncerKARAARSLAN-VB)
 
 Yeni projeler, özel kurumsal eğitim talepleriniz ve iş birlikleri için her zaman iletişime açığım. Birlikte başarılı işler yapmayı dört gözle bekliyorum!
-
