@@ -15,9 +15,11 @@
 - **Eğitim Saati:** 10:00 - 17:00
 
 ### Eğitim Hedefi:
+
 Bu eğitim, katılımcılara docker temel prensiplerini, mimarisini ve uygulama senaryolarını öğretmeyi amaçlamaktadır. Eğitim sonunda katılımcılar, kendi docker  yapılandırmalarını oluşturabilecek, yönetebilecek ve uygulama dağıtımlarını gerçekleştirebilecek düzeye geleceklerdir.
 
 ### Gün 1: Docker'a Giriş ve Temel Kavramlar
+
 - **Docker Nedir?**
   - Sanallaştırma nedir? Docker'ın sanallaştırma üzerindeki yeri.
   - Docker'ın avantajları ve dezavantajları.
@@ -31,6 +33,7 @@ Bu eğitim, katılımcılara docker temel prensiplerini, mimarisini ve uygulama 
   - Docker CLI kullanarak ilk container oluşturma.
 
 ### Gün 2: Docker İmajları ve Container Yönetimi
+
 - **Docker İmajlarıyla Çalışmak**
   - Docker imajı nedir? İmaj oluşturma ve yönetim.
   - Dockerfile ile custom imaj yaratma.
@@ -45,6 +48,7 @@ Bu eğitim, katılımcılara docker temel prensiplerini, mimarisini ve uygulama 
   - İmajları çekme ve güncelleme.
 
 ### Gün 3: Gelişmiş Docker Özellikleri
+
 - **Docker Compose Kullanımı**
   - Docker Compose ile çoklu container yönetimi.
   - docker-compose.yml dosyasının yapılandırılması.
@@ -58,6 +62,7 @@ Bu eğitim, katılımcılara docker temel prensiplerini, mimarisini ve uygulama 
   - Container’lar arası iletişim sağlama.
 
 ### Gün 4: Docker ile Uygulama Geliştirme
+
 - **Uygulama İmajları Oluşturma**
   - Uygulama imajları oluşturma ve dağıtma.
   - Örnek bir web uygulaması container'ı oluşturma.
@@ -71,6 +76,7 @@ Bu eğitim, katılımcılara docker temel prensiplerini, mimarisini ve uygulama 
   - Docker CLI ile sorun giderme.
 
 ### Gün 5: Orkestrasyon ve DevOps Entegrasyonu
+
 - **Kubernetes ile Docker Entegrasyonu**
   - Kubernetes’in Docker ile birlikte kullanımı.
   - Basit bir Kubernetes cluster kurulumu ve Docker container'larının yönetimi.
@@ -84,15 +90,18 @@ Bu eğitim, katılımcılara docker temel prensiplerini, mimarisini ve uygulama 
   - Üretim ortamında Docker ile uygulama yönetimi.
 
 ### Eğitim Metodolojisi
+
 - **Teorik Bilgiler**: Her günün başlangıcında teorik bilgilerin aktarılması.
 - **Pratik Uygulamalar**: Katılımcıların kendi bilgisayarlarında uygulamalı çalışmaları.
 - **Soru-Cevap**: Her günün sonunda katılımcıların sorularının cevaplanması.
 - **Geribildirim**: Katılımcıların eğitim süresince aldıkları geribildirimler.
 
 ### Katılımcı Profili
+
 - Yazılım geliştiriciler, sistem yöneticileri, DevOps mühendisleri ve IT profesyonelleri.
 
 ### Eğitim Sonrası Beklentiler
+
 - Katılımcılar, Docker ile sanallaştırma süreçlerini tam olarak kavrayacak, uygulama geliştirme ve yönetme yetkinliğine sahip olacaklardır. Eğitim sonunda katılımcılara sertifika verilecektir. 
 
 Bu eğitim programı ile katılımcıların Docker teknolojisini derinlemesine öğrenmesi ve gerçek dünya uygulamalarında kullanabilmesi hedeflenmektedir.

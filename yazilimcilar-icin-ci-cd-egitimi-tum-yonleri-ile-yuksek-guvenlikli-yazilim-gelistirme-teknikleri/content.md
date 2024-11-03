@@ -18,6 +18,7 @@
 Bu eğitim, yazılımcılara sürekli entegrasyon (CI) ve sürekli dağıtım (CD) süreçlerini yüksek güvenlik standartları ile entegre bir şekilde kullanmalarını sağlamayı amaçlamaktadır. Eğitim sonunda katılımcılar, modern yazılım geliştirme süreçlerinde CI/CD uygulamalarını etkin bir şekilde kullanabilecek, güvenli yazılım geliştirme teknikleri hakkında bilgi sahibi olacak ve yazılımlarını güvenli bir şekilde dağıtma becerisi kazanacaklardır.
 
 ## Eğitim İçeriği:
+
 - **Gün 1: CI/CD’ye Giriş**
   - CI/CD nedir? Temel kavramlar ve önemi
   - Yazılım geliştirme yaşam döngüsü ve DevOps felsefesi
@@ -52,12 +53,14 @@ Bu eğitim, yazılımcılara sürekli entegrasyon (CI) ve sürekli dağıtım (C
   - Eğitim değerlendirmesi ve geribildirim oturumu
 
 ## Eğitim Yöntemi:
+
 - **Teorik Bilgi:** Güncel bilgiler ve konseptlerin anlatımı.
 - **Uygulamalı Örnekler:** Gerçek senaryolarla pratik uygulamalar.
 - **Etkileşimli Tartışmalar:** Katılımcıların fikirlerini paylaşabileceği oturumlar.
 - **Vaka Çalışmaları:** Katılımcıların kendi projelerine uygulayabilecekleri gerçek dünya örnekleri.
 
 ## Hedef Kitle:
+
 - Yazılımcılar ve geliştiriciler
 - DevOps mühendisleri
 - Yazılım mimarları
@@ -65,6 +68,7 @@ Bu eğitim, yazılımcılara sürekli entegrasyon (CI) ve sürekli dağıtım (C
 - Yazılım test uzmanları
 
 ### Beklentilerimiz:
+
 - Katılımcıların temel yazılım geliştirme bilgisine sahip olmaları.
 - Versiyon kontrol sistemlerine (özellikle Git) aşina olmaları.
 - CI/CD süreçlerine ve yazılım güvenliğine ilgi duymaları.
