@@ -52,6 +52,14 @@ Tüm eğitim içerikleri yapay zeka destekli kendi başına öğrenmek teknikler
 
 > Aynı eğitim içeriği haftada 3 gün olacak şekilde 12 günlük eğitim olarak da verilebilmektedir. 5 günlük eğitim formatına ek olarak eğitmen tüm katıcılımlar ile ortak kod yazmakta, hands-on apırlıklı bir eğitim olmaktadır. Aynı konu başlıkları ile ancak ekibin kod yazarak eğitmenle birlikte çalıştığı bir ortamda verilmektedir. Bu sayede eğitime katılan katılımcılar eğitimde en yüksek deneyim seviyesine erişmektedirler. Bu eğitimden sonra katılımcılar,  Docker ile sanallaştırma süreçlerini tam olarak kavrayacak, uygulama geliştirmeye başlayabilecekler. Kurumsal eğitim taleplerinde max 10 kişilik sınıflarda uzaktan etkileşimli içerikleriklerle verilebilmektedir.  Eğitimler 12 gün içinde tamamlanmaktadır.
 
+## Yerinde Danışmanlık
+
+Eğer arzu ederseniz, benimle 4-8-16-32 haftalık sözleşme yaparak sizinle birlikte mesai yapma talebinde de bulunabilirsiniz. Sizinle birlikte tam mesai saatlerinde sizin lokasyonunuzda sizin istediğiniz çalışma odasında birlikte çalışabiliriz. Bunun için gerekli gizlilik anlaşmaları imzalanacaktır. Yerinde kod protiği yapabilir, projelerinize destek olabilirim. Ekiplerinize yerinde özel eğitimleri verebilirim. Bu  sayede ekipleriniz daha hızlı gelişebilir, daha hızlı projeleri teslim edebilirsiniz. Hatta yeni mimarilerin kurulması ve devreye alınmasında sizlere yerinde destek sağlayabilirim. 
+
+## Birlikte Çalışma
+
+Eğer arzu ederseniz, sizin hayalinizdeki projeyi  birlikte yapabiliriz. Projeleriniz için birlikte çalışabiliriz. Sizin lokasyonunuzda ve gizlilik anlaşması imzalanarak sizinle tam mesai yapabiliriz. 4-8-16-32 haftalık sözleşme yaparak sizin projelerinize sizin lokasyonunuzda destek sağlayabilirim. İsterseniz eğitimleri de sizin lokasyonlarınızda sağlayabiliriz.  Ekiplerinize yerinde özel eğitimleri verebiliriz. İsterseniz proje ortaklığı fikirlerini de açığım. Gizlilik anlaşma çerçevesinde projelerinizi dinleyip, ortak geliştirme fikirlerini de açığım.
+
 ## Hakkımda
 
 Merhaba! Ben Tuncer KARAARSLAN, yazılım geliştirme alanında 25 yılı aşkın deneyime sahip bir bilgisayar mühendisiyim. Kariyerime 1991 yılında başladım ve o günden bu yana Microsoft teknolojileri üzerine çeşitli projelerde yer aldım. .NET mimarilerinde geniş bir bilgi birikimim var ve Windows, web, mobil teknolojiler gibi farklı platformlarda yazılımlar geliştirdim. Son yıllarda gömülü yazılım geliştirme alanlarında ve sanallaştırma alanlarında da oldukça geniş deneyimlere sahip oldum. Geçmişte uzun yıllar eğitmenlik tecrübelerimi de profillerimden görebilirsiniz. Sektörel çok fazla deneyimlere sahibim. Sizler için hazırladığım kurumsal eğitim içerikleri umarım hoşunuza gider. Kısaca kendimden bahsetmeye devam etmek isterim.
