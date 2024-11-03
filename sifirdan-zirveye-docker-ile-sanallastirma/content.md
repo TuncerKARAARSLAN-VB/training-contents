@@ -98,7 +98,10 @@ Bu eğitim, katılımcılara docker temel prensiplerini, mimarisini ve uygulama 
 
 ### Katılımcı Profili
 
-- Yazılım geliştiriciler, sistem yöneticileri, DevOps mühendisleri ve IT profesyonelleri.
+- Yazılım geliştiriciler
+- Sistem yöneticileri
+- DevOps mühendisleri
+- IT profesyonelleri.
 
 ### Eğitim Sonrası Beklentiler
 
