@@ -4,7 +4,17 @@ Eğitimde yapay zeka araçları kullanılarak ekip üyelerinin kendilerini gelec
 
 Eğitim içeriği çok detaylı hazırlanmış, hafta içi 5 eğitim gününden toplamda 8 hafta planlanmıştır. Eğitim günde 4 saat olarak planlanıp toplamda 10 haftaya çıkartılabilir. Bu durumda günlük eğitim fiyatları değişmeyecektir. Eğitimler uzaktan online yapılacak ve bunun için gerekli tüm altlıklar eğitimen tarafından sağlanacaktır.
 
-**Eğitim İçeriği:** Büyük Trafikli Sistemler Geliştirme (ASP.NET Core, gRPC, RabbitMQ, Token-Based Authentication, Mobil Uygulama Entegrasyonu ve Kubernetes)
+## Eğitim Süresi:
+
+- **5 Gün**
+- **Ders Süresi:** 50 dakika
+- **Eğitim Saati:** 10:00 - 17:00
+
+**Format 2**
+
+- **12 Gün**
+- **Ders Süresi:** 50 dakika
+- **Eğitim Saati:** 10:00 - 17:00
 
 ### **1. Codespace ve Cursor Eğitimi**
 
