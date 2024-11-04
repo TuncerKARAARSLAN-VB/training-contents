@@ -1,65 +1,120 @@
-# Yüksek Trafikli Sistem Mimarileri ve Kesintisiz Sistemler
+# Enerji Firmaları İçin Mimari Geliştirme ve Sürekli Kendini Yetiştirebilen Ekipler
 
-## Eğitim Süresi:
+Eğitimde yapay zeka araçları kullanılarak ekip üyelerinin kendilerini gelecekte sürekli yetiştirebilmeleri sağlanacaktır.
 
-- **5 Gün**
-- **Ders Süresi:** 50 dakika
-- **Eğitim Saati:** 10:00 - 17:00
+Eğitim içeriği çok detaylı hazırlanmış, hafta içi 5 eğitim gününden toplamda 8 hafta planlanmıştır. Eğitim günde 4 saat olarak planlanıp toplamda 10 haftaya çıkartılabilir. Bu durumda günlük eğitim fiyatları değişmeyecektir. Eğitimler uzaktan online yapılacak ve bunun için gerekli tüm altlıklar eğitimen tarafından sağlanacaktır.
 
-**Format 2**
+**Eğitim İçeriği:** Büyük Trafikli Sistemler Geliştirme (ASP.NET Core, gRPC, RabbitMQ, Token-Based Authentication, Mobil Uygulama Entegrasyonu ve Kubernetes)
 
-- **12 Gün**
-- **Ders Süresi:** 50 dakika
-- **Eğitim Saati:** 10:00 - 17:00
+### **1. Codespace ve Cursor Eğitimi**
 
-## Eğitim Hedefi:
+   - **Geliştirme Ortamlarının Tanıtımı**
+     - Git ile versiyon kontrolü ve kod yönetimi.
+     - Codespace üzerinde çalışma ve proje yönetimi.
+   - **Cursor ile İşbirliği ve Kod İncelemesi**
+     - Gerçek zamanlı işbirliği ve kod inceleme süreçleri.
+     - Cursor kullanarak proje yönetimi ve görev dağılımı.
 
-Bu eğitim programının amacı, katılımcılara yüksek trafikli sistem mimarilerinin tasarımını ve yönetimini öğretmektir. Katılımcılar, yüksek ölçeklenebilirlik, performans ve güvenilirlik sağlamak için en iyi uygulamaları öğrenerek, kesintisiz sistemler oluşturma becerilerini geliştireceklerdir. Eğitim sonunda katılımcılar, mevcut sistemlerinin performansını artıracak ve kesintisiz hizmet sunan sistemler geliştirme yetkinliği kazanacaklardır.
+### **2. Giriş ve Temel Kavramlar**
 
-## Eğitim İçeriği:
+   - **Büyük Trafikli Sistemlerin Tanımı ve Gereksinimleri**
+     - Eşzamanlı 1 milyon sayaç iletişiminin yönetimi.
+     - Her sayaçtan gelen yüzlerce farklı bilgi türünün tanımlanması ve işlenmesi.
+     - Veri akışının optimize edilmesi için teknikler.
+   - **Yük Dengeleme ve Ölçeklendirme Stratejileri**
+     - Sayaç verilerinin farklı tüketicilere yönlendirilmesi ve yük dengelemesi.
+     - Mikroservis mimarisi ile ilgili en iyi uygulamalar.
 
-- **Gün 1: Yüksek Trafikli Sistemlere Giriş**
-  - Yüksek trafikli sistemler nedir? Temel kavramlar ve gereksinimler
-  - Yüksek trafik senaryolarının analizi
-  - Sistem mimarisi ve tasarım prensipleri
+### **3. Token-Based Authentication**
 
-- **Gün 2: Ölçeklenebilirlik ve Performans Yönetimi**
-  - Dikey ve yatay ölçeklenebilirlik
-  - Performans izleme ve analitik
-  - Yük dengeleme teknikleri ve araçları
+   - **Kimlik Doğrulama ve Yetkilendirme**
+     - Token sürelerinin yönetimi ve yenileme stratejileri, büyük veri akışı için.
+     - Mobil uygulamalarda güvenli kimlik doğrulama yöntemleri.
+   - **Güvenlik En İyi Uygulamaları**
+     - Mesajların güvenli bir şekilde iletilmesi için token güvenliği.
 
-- **Gün 3: Dağıtık Sistem Mimarileri**
-  - Dağıtık sistemlerin mimarisi ve özellikleri
-  - Mikro hizmet mimarisi nedir? Avantajları ve dezavantajları
-  - İletişim protokolleri ve veri yönetimi
+### **4. RabbitMQ ile Mesajlaşma ve Dağıtık Sistemler**
 
-- **Gün 4: Kesintisiz Sistemler ve Yedeklilik**
-  - Kesintisiz sistemlerin önemi ve gereklilikleri
-  - Yedeklilik ve hata toleransı sağlama yöntemleri
-  - Yedekleme ve felaket kurtarma planları
+   - **Mesaj Kuyrukları ve RabbitMQ’ya Giriş**
+     - Sayaçlardan gelen verilerin yönetimi için RabbitMQ kuyruk tasarımı.
+   - **Mesaj Kuyruğu Tasarım Desenleri**
+     - Farklı iş tiplerine göre kuyruğa mesaj yönlendirme.
+     - Sayaç arızası veya enerji tüketimi gibi durumlar için özel iş akışlarının tanımlanması.
+   - **Uygulama Alanları**
+     - Sayaçların arıza durumunu algıladığında başlatılan özel iş akışları.
 
-- **Gün 5: Gerçek Hayattan Örnekler ve Uygulama**
-  - Gerçek dünya senaryoları: Başarı hikayeleri ve dersler
-  - Uygulama geliştirme atölyesi: Yüksek trafikli bir sistem tasarımı
-  - Gelecekteki trendler ve yenilikler
+### **5. ASP.NET Core ile Yüksek Performanslı Web API Geliştirme**
 
-## Eğitim Yöntemi:
+   - **Önbellekleme Stratejileri**
+     - Sıkça kullanılan sayaç verilerinin önbelleğe alınması.
+   - **Middleware ve Performans Optimizasyonu**
+     - Gerçek zamanlı veri akışı için optimizasyon teknikleri.
 
-- **Teorik Bilgi:** Güncel bilgiler ve konseptlerin anlatımı.
-- **Uygulamalı Örnekler:** Gerçek senaryolarla pratik uygulamalar.
-- **Etkileşimli Tartışmalar:** Katılımcıların fikirlerini paylaşabileceği oturumlar.
-- **Atölye Çalışmaları:** Takım bazlı uygulama geliştirme ve proje tasarımı.
+### **6. gRPC ile Yüksek Performanslı İletişim**
 
-## Hedef Kitle:
+   - **gRPC İstemci ve Sunucu Geliştirme**
+     - Sayaç verilerinin verimli bir şekilde aktarılması için gRPC kullanımı.
+   - **Performans Optimizasyonu**
+     - Verilerin hızlı iletimi için gRPC’de kullanılan serileştirme teknikleri.
 
-- Yazılım geliştirme ekipleri
-- Sistem mimarları ve mühendisleri
-- IT yöneticileri ve proje yöneticileri
-- Operasyon ve destek ekipleri
-- Yüksek trafikli sistemlerle çalışmak isteyen tüm profesyoneller
+### **7. Mobil Uygulama Entegrasyonu**
 
-### Beklentilerimiz:
+   - **Android Native ile Mobil Arayüz Geliştirme**
+     - Mobil uygulama ile sunucu arasındaki iletişim için gerekli API’lerin geliştirilmesi.
+     - Gerçek zamanlı veri akışı için mobil uygulama optimizasyonları.
+   - **Mobil Arayüzlerde Güvenlik**
+     - Mobil uygulama üzerinde token tabanlı kimlik doğrulama yöntemleri.
 
-- Katılımcıların temel yazılım geliştirme ve sistem tasarımı bilgisine sahip olmaları.
-- Dağıtık sistemlere ve yüksek performansa ilgi duymaları.
-- Takım çalışmasına yatkın olmaları ve yeni teknolojileri öğrenmeye istekli olmaları.
+### **8. RabbitMQ ile Arka Plan İşlemleri**
+
+   - **Background Task Yönetimi**
+     - Farklı iş tiplerine göre işleyici tüketicilerin yönetimi.
+   - **Mesaj Kuyruğunda Hata Yönetimi**
+     - Özel hata yönetimi senaryoları ve Dead Letter Queue (DLQ) kullanımı.
+
+### **9. Mikroservis Mimarisi ve Dağıtık Sistemler**
+
+   - **Mikroservis Mimarisi Tasarımı**
+     - Sayaç verileriyle ilgili bağımsız mikroservislerin tasarımı.
+   - **API Gateway ve Yük Dengeleme**
+     - Yüksek trafikli sistemlerde API Gateway kullanımı.
+
+### **10. Banka Tahsilat İşlemleri**
+
+   - **Banka Entegrasyonu**
+     - Banka API’leri ile güvenli tahsilat işlemlerinin yönetimi.
+   - **Güvenlik Önlemleri**
+     - Tahsilat işlemlerinde veri güvenliği ve uyum standartları.
+
+### **11. CI/CD ve DevOps Süreçleri**
+
+   - **CI/CD Pipeline Kurulumu**
+     - RabbitMQ ve gRPC ile geliştirilen mikroservislerin otomatik dağıtımı.
+   - **Docker ve Kubernetes ile Servis Yönetimi**
+     - RabbitMQ ve mikroservislerin Kubernetes üzerinde ölçeklenmesi.
+     - Kubernetes üzerinde pod yönetimi, hizmet keşfi ve yük dengelemesi.
+     - Kubernetes kaynak yönetimi ve ölçeklendirme stratejileri.
+
+### **12. Performans ve Yük Testleri**
+
+   - **Yük Testi ve Performans Analizi**
+     - 1 milyon sayaçtan gelen verilerin yük testleri.
+   - **Sistemi Ölçeklendirme Stratejileri**
+     - RabbitMQ’nun yatay ölçeklendirilmesi.
+     - Kubernetes üzerinde otomatik ölçeklendirme ve kaynak izleme.
+
+### **13. Güvenlik ve RabbitMQ**
+
+   - **gRPC ve RabbitMQ Güvenliği**
+     - mTLS kullanarak sayaç verilerinin güvenli bir şekilde iletilmesi.
+   - **Veri Şifreleme ve Koruma**
+     - Önemli veri türlerinin korunması için en iyi uygulamalar.
+
+### **14. Proje ve Gerçek Hayat Uygulamaları**
+
+   - **Gerçek Hayattan Proje Senaryosu**
+     - Elektrik dağıtım şirketleri için gerçek zamanlı sayaç verilerinin işlenmesi.
+   - **Final Projesi**
+     - Yüksek trafikli bir sistemin tasarımı ve uygulanması.
+
+Bu eğitim içeriği, katılımcılara büyük trafikli sistemlerin geliştirilmesi için gerekli tüm becerileri kazandırmayı amaçlayarak, pratik uygulama fırsatları ve gerçek dünya senaryolarını anlamalarına yardımcı olacaktır. Kubernetes üzerindeki kurulum ve yönetim detayları, sistemin ölçeklenebilirliğini ve performansını artıracak önemli unsurları içermektedir.
