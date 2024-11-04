@@ -6,6 +6,8 @@ Eğitim içeriği çok detaylı hazırlanmış, hafta içi 5 eğitim gününden 
 
 ## Eğitim Süresi:
 
+**Format 1**
+
 - **5 Gün**
 - **Ders Süresi:** 50 dakika
 - **Eğitim Saati:** 10:00 - 17:00
