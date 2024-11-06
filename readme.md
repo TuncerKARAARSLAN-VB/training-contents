@@ -116,7 +116,7 @@ Gelişen teknolojilere ayak uydurarak, Linux, Docker ve siber güvenlik alanlar�
 
 Benimle ilgili çok detaylı bilgileri linkedin profilimden edinebilirsiniz. Bağlantı kurmak isterseniz, benimle GitHub ve LinkedIn üzerinden iletişime geçebilirsiniz:
 
-- <a href="https://www.linkedin.com/in/tuncerkaraarslan/" target="linkedin">LinkedIn Profilim</a>
-- <a href="https://github.com/TuncerKARAARSLAN-VB" target="github">GitHub Profilim</a>
+- [LinkedIn Profilim](https://www.linkedin.com/in/tuncerkaraarslan/)
+- [GitHub Profilim](https://github.com/TuncerKARAARSLAN-VB)
 
 Yeni projeler, özel kurumsal eğitim talepleriniz ve iş birlikleri için her zaman iletişime açığım. Birlikte başarılı işler yapmayı dört gözle bekliyorum!
