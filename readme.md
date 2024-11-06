@@ -22,7 +22,6 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 - **[01 - Kod Kalite ve Ölçümleme](./kod-kalite-ve-olcumleme-egitimi/readme.md)**
 - **[02 - Yüksek Güvenlikli Kod ve Uygulama Geliştirme](./yuksek-guvenlikli-kod-ve-uygulama-gelistirme/readme.md)**
 
-
 ### C - Proje Yönetimi Eğitilerimiz
 
 - **[1 - Agile, Scrum, Kanban - Çevik Proje Yönetimi](cevik-proje-yonetimi/readme.md)**

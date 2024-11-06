@@ -17,12 +17,15 @@
 - **Eğitim Saati:** 10:00 - 17:00
 
 ### 1. Dersin Genel Tanıtımı
+
 Bu bölümde, kursun genel amacı ve Agile metodolojisinin neden önemli olduğu açıklanacak. Katılımcılar, yazılım geliştirme süreçlerinde neden Agile'a geçiş yapmaları gerektiğini öğrenecekler.
 
 ### 2. Agile'a Giden Yol
+
 Agile'a geçişin nasıl bir yolculuk olduğu ve neden bu dönüşümün gerekli olduğuna dair genel bir bakış sunulacak.
 
 ### 3. Yazılım Geliştirme
+
 Yazılım geliştirme süreçlerinin tarihsel gelişimi ve mevcut metodolojiler incelenecek.
 
 - **Yazılım Geliştirmenin Evrimi**
@@ -32,6 +35,7 @@ Yazılım geliştirme süreçlerinin tarihsel gelişimi ve mevcut metodolojiler 
 - **Yan Bilgi: Değer Nedir?**
 
 ### 4. Agile Felsefesi
+
 Agile'ın temel değerleri ve prensipleri ile uygulamaları kapsamlı bir şekilde açıklanacak.
 
 - **Agile Değerleri**
@@ -55,6 +59,7 @@ Agile'ın temel değerleri ve prensipleri ile uygulamaları kapsamlı bir şekil
 - **Başarılı Bir Dönüşüm**
 
 ### 5. Proje Metodolojinizi Geliştirmek
+
 Agile projeleri yönetiminde kullanılan yöntemlerin evrimi.
 
 - **Dersin Tanıtımı**
@@ -65,6 +70,7 @@ Agile projeleri yönetiminde kullanılan yöntemlerin evrimi.
 - **Modül Değerlendirmesi**
 
 ### 6. Proje Ortamlarında Değer Yaratma
+
 Agile projelerinde değer yaratmanın yolları.
 
 - **Modül Tanıtımı**
@@ -76,6 +82,7 @@ Agile projelerinde değer yaratmanın yolları.
 - **Modül Değerlendirmesi**
 
 ### 7. Yüksek Performanslı Takımlar Oluşturma ve Hizmet Etme
+
 Yüksek performanslı takımlar oluşturmanın temelleri.
 
 - **Modül Tanıtımı**
@@ -86,6 +93,7 @@ Yüksek performanslı takımlar oluşturmanın temelleri.
 - **Agile Takım İletişimi**
 
 ### 8. Sonuç
+
 Eğitimin genel bir özeti yapılacak, katılımcılara öğrendiklerini nasıl uygulayacakları konusunda öneriler sunulacak.
 
 ### Katılımcı Profili
