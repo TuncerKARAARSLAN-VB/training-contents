@@ -1,5 +1,7 @@
 # Enerji Firmaları İçin Mimari Geliştirme ve Sürekli Kendini Yetiştirebilen Ekipler
 
+![](features-teams.webp)
+
 Eğitimde yapay zeka araçları kullanılarak ekip üyelerinin kendilerini gelecekte sürekli yetiştirebilmeleri sağlanacaktır.
 
 Eğitim içeriği çok detaylı hazırlanmış, hafta içi 5 eğitim gününden toplamda 8 hafta planlanmıştır. Eğitim günde 4 saat olarak planlanıp toplamda 10 haftaya çıkartılabilir. Bu durumda günlük eğitim fiyatları değişmeyecektir. Eğitimler uzaktan online yapılacak ve bunun için gerekli tüm altlıklar eğitimen tarafından sağlanacaktır.
