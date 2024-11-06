@@ -1,5 +1,37 @@
 # Sıfırdan Zirveye Kubernetes Eğitimi
 
+## **Kubernetes Eğitimleri ve Danışmanlık Hizmetlerimizin Kurumlarınıza Katacağı Değer**
+
+Günümüzde dijital dönüşüm ve teknoloji odaklı inovasyon, her alanda işletmelerin rekabetçi kalabilmesi için önemli bir faktör haline gelmiştir. Bu bağlamda, bulut tabanlı çözümler ve mikroservis mimarisi, modern yazılım geliştirme süreçlerinin temelini oluşturuyor. Kubernetes, bu süreçlerin yönetimini ve ölçeklendirilmesini kolaylaştırarak, firmaların verimliliğini artırır. Eğitimlerimiz, kurumların Kubernetes’i etkin bir şekilde kullanabilmesini sağlayarak operasyonel verimliliklerini en üst düzeye çıkarır.
+
+**Eğitim Programımızın Kurumunuza Sağlayacağı Yararlar**
+
+1. **Kubernetes’e Derinlemesine Hakimiyet**: Eğitimimiz, Kubernetes’in temel kavramlarından ileri düzey yönetim süreçlerine kadar geniş bir yelpazeyi kapsar. Bu, kurumların mevcut altyapılarında daha verimli ve sürdürülebilir çözümler üretmesine olanak sağlar. Kubernetes’in Pod, ReplicaSet, Deployment, Service gibi temel bileşenlerinin nasıl yönetileceğini öğrenen ekipler, daha hızlı ve etkili uygulama dağıtımları gerçekleştirebilir.
+
+2. **Uygulama Yönetiminde Etkinlik**: Kubernetes, mikroservislerin yönetimi konusunda önemli avantajlar sunar. Eğitimimizde, StatefulSet ve DaemonSet gibi ileri düzey yönetim araçlarını öğrenerek, uygulamaların yönetimini daha esnek ve ölçeklenebilir hale getirebilirsiniz. Pod yaşam döngüsü, restart politikaları ve hizmet türleri gibi detaylı konularla uygulama yönetiminde uzmanlaşacaksınız.
+
+3. **Yüksek Güvenlik ve İzleme**: Kubernetes güvenliği, firmalar için kritik öneme sahiptir. RBAC ve güvenlik politikalarıyla, Kubernetes altyapınızın güvenliğini en yüksek seviyeye taşıyabilirsiniz. Eğitimimizde ayrıca, Prometheus ve Grafana ile izleme yaparak, sistem sağlığını proaktif şekilde kontrol etme yeteneği kazanırsınız. Bunun yanı sıra, ELK Stack ve alternatif günlükleme çözümleriyle uygulama ve altyapı izlemeyi daha etkin hale getirebilirsiniz.
+
+4. **Kubernetes En İyi Uygulamalarına Yönelik Stratejiler**: Eğitim programımız, CI/CD entegrasyonu ve GitOps gibi modern yazılım geliştirme süreçlerini Kubernetes ile nasıl optimize edebileceğinizi öğretir. Ayrıca, Helm kullanarak uygulama yönetiminde kolaylık sağlarken, Kubernetes’in kaynak yönetimi ve otomasyonu ile verimliliği artırabilirsiniz.
+
+5. **Yedekleme, Geri Yükleme ve Yükseltme Stratejileri**: Eğitimde ayrıca, Kubernetes cluster’ınızın yedeklenmesi ve güncellenmesi konusunda kapsamlı bilgiler edineceksiniz. Velero ile yedekleme ve geri yükleme işlemleri, sistem kesintilerinin önüne geçmek için kritik bir yöntemdir.
+
+## **Danışmanlık Hizmetlerimizle Destek**
+
+Eğitimlerinizi aldığınızda, uygulamalı danışmanlık desteğimizle, öğrendiklerinizi kurumsal projelerinize entegre edebilirsiniz. **Kubernetes danışmanlık hizmetlerimiz**, şu alanlarda kapsamlı destek sağlar:
+
+- **Altyapı Kurulumu ve Yapılandırması**: Kubernetes’in kurulumunu ve altyapınızı kurma sürecinde en verimli çözümü sunarak, ihtiyacınıza uygun yapılandırmalar sağlarız. Ayrıca, multi-node cluster kurulumları ve managed Kubernetes hizmetlerini (GKE, EKS, AKS) sağlama konusunda rehberlik ederiz.
+  
+- **Kapsamlı İzleme ve Güvenlik**: Kubernetes altyapınızın izlenmesi, güvenlik denetimlerinin yapılması ve en iyi güvenlik uygulamalarının uygulanması için size özel çözümler sunarız.
+
+- **Yüksek Verimlilik İçin Optimizasyon**: Kaynak yönetimi, autoscaling stratejileri ve uygulama senaryolarını optimize ederek, verimliliği arttırır, maliyetleri düşürür ve performans artırıcı çözümler sunarız.
+
+- **Çoklu Cluster Yönetimi**: Kubernetes’de çoklu cluster yönetimi ve KubeFed entegrasyonu konusunda size destek vererek, büyük ölçekli projelerde de başarı sağlarsınız.
+
+Kubernetes konusunda kapsamlı eğitim ve profesyonel danışmanlık hizmetlerimizle, dijital dönüşüm yolculuğunuzda sizi bir adım öne taşıyoruz. Kurumunuzun potansiyelini en üst seviyeye çıkarmak için Kubernetes’i etkin kullanmaya bugün başlayın!
+
+## Eğitim Formatlarımız
+
 **Format 1**
 
 - **5 Gün**
@@ -12,7 +44,18 @@
 - **Ders Süresi:** 50 dakika
 - **Eğitim Saati:** 10:00 - 17:00
 
-### Eğitim Hedefi:
+## Danışmanlık Formatlarımız
+
+Bu paketleri tümüyle yeni teknolojiye geçiş aşamasındaki kurumlara tavsiye ediyoruz. BU paketin en büyük özelliği, sizinle birlikte hareket ediyoruz ve sizin ekibinizin bir parçası gibi sizin için sürekli arge yaparak olası tüm sorunları aşmanızı ve yol almanızı sağlıyoruz. Projenizin fail etmesi riskini ortadan kaldırıyoruz. Çünkü bu paketlerde sizin için çalışan arka plandaki dev bir ekibe sahip oluyorsunuz. Sorunlarınız bizim sorunlarımız oluyor.  Bu paketlerin en büyük özelliği, sizin için sürekli arge yapan ve tüm sorunları aşmanızı sağlayan bir ekiple birlikte çalışma konforunu kurumunuza sağlıyoruz.
+
+- **8 Haftalık Paket**
+- **16 Haftalık Paket**
+- **24 Haftalık Paket**
+- 4 haftadan kısa olamamak üzere sizin lokasyonunuzda sizin mesai saatlerinde sizlerle çalışma yapıyoruz.
+- İsterseniz 1 günden kısa olmamak üzere, uzaktan destek olarak da paket sürelerinizi değerlendirebiliyorsunuz
+- Paket sürelerinizi isterseniz çok çeşitli eğitim içeriklerimiz ile kurum içi eğitimler olarak kullanabilirsiniz.
+
+## Eğitim Hedefi:
 
 Bu eğitim, katılımcılara Kubernetes’in temel prensiplerini, mimarisini ve uygulama senaryolarını öğretmeyi amaçlamaktadır. Eğitim sonunda katılımcılar, kendi Kubernetes küme yapılandırmalarını oluşturabilecek, yönetebilecek ve uygulama dağıtımlarını gerçekleştirebilecek düzeye geleceklerdir.
 
