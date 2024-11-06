@@ -8,7 +8,7 @@ Bu yıl, kurumunuza değer katacak ve çalışanlarınızın gelişimini destekl
 
 Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayınız.
 
-İsterseniz eğitimleri [özelleştirebilirsiniz](#özelleştirme-fırsatları). [5 ve 12 günlük eğitim formatları](#5-günlük-ve-12-günlük-eğitim-arasındaki-fark) için listenin sonundki bölümü okuyabilirsiniz. 
+İsterseniz eğitimleri [özelleştirebilirsiniz](#özelleştirme-fırsatları). [5 ve 12 günlük eğitim formatları](#5-günlük-ve-12-günlük-eğitim-arasındaki-fark) için listenin sonundki bölümü okuyabilirsiniz.
 
 ### A - Sanallaştırma ve CI/CD Eğitimlerimiz
 
@@ -45,9 +45,9 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 ### F - Yeni Nesil Yazılım Eğitimleri
 
 - **[01 - Go ile Microservis Mimarisi ve Yayınlama (Kubernetes, Docker, OpenShift)](./go-ile-api-gelistirme-microservis-mimarisi-ve-yayinlama-kubernetes-docker-openshift/readme.md)**
-- **[02 - Python ile Microservis Mimarisi ve Yayınlama (Kubernetes, Docker, OpenShift)](./go-ile-api-gelistirme-microservis-mimarisi-ve-yayinlama-kubernetes-docker-openshift/readme.md)**
-- **[03 - C# ile Microservis Mimarisi ve Yayınlama (Kubernetes, Docker, OpenShift)](./go-ile-api-gelistirme-microservis-mimarisi-ve-yayinlama-kubernetes-docker-openshift/readme.md)**
-- **[04 - Java Spring ile Microservis Mimarisi ve Yayınlama (Kubernetes, Docker, OpenShift)](./go-ile-api-gelistirme-microservis-mimarisi-ve-yayinlama-kubernetes-docker-openshift/readme.md)**
+- **[02 - Python ile Microservis Mimarisi ve Yayınlama (Kubernetes, Docker, OpenShift)](./python-ile-api-gelistirme-microservis-mimarisi-ve-yayinlama-kubernetes-docker-openshift/readme.md)**
+- **[03 - C# ile Microservis Mimarisi ve Yayınlama (Kubernetes, Docker, OpenShift)](./csharp-ile-api-gelistirme-microservis-mimarisi-ve-yayinlama-kubernetes-docker-openshift/readme.md)**
+- **[04 - Java Spring ile Microservis Mimarisi ve Yayınlama (Kubernetes, Docker, OpenShift)](./java-spring-ile-api-gelistirme-microservis-mimarisi-ve-yayinlama-kubernetes-docker-openshift/readme.md)**
 
 ### G - Siber Güvenlik Eğitimlerimiz
 

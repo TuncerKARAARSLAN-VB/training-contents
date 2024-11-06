@@ -64,3 +64,5 @@ Bu eğitim, yöneticilere yapay zekanın (YZ) iş dünyasındaki rolünü, strat
 
 - Katılımcıların iş dünyasında stratejik karar alma süreçlerinde yer alıyor olmaları.
 - Yapay zeka teknolojileri hakkında temel bilgiye sahip olmaları ve kendi sektörlerinde inovasyonu teşvik etmek için isteklilik göstermeleri.
+
+[Eğitim ana materyalleri, sadece eğitmenler için](https://github.com/TuncerKARAARSLAN-VB/training-kit-yoneticiler-icin-yapay-zeka-kurumlari-yarinlara-hazirlama)

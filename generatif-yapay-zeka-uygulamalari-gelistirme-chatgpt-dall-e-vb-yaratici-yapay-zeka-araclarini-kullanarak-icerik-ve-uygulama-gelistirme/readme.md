@@ -145,6 +145,4 @@
 - Gelecek öğrenme yolları: İleri yapay zeka eğitimi ve kaynaklar
 - Eğitimin tamamlanması ve geri bildirimler
 
----
-
-Bu kapsamlı eğitim programı, katılımcılara ChatGPT, DALL·E ve diğer generatif yapay zeka araçlarını kullanarak yaratıcı projeler geliştirme yetkinliği kazandırmayı hedefler. Hem teori hem de uygulama odaklı bir yaklaşım benimsenerek, yapay zekanın potansiyelini tam anlamıyla kullanmayı öğrenecekleri bir süreç sunar.
+[Eğitim ana materyalleri, sadece eğitmenler için](https://github.com/TuncerKARAARSLAN-VB/training-kit-generatif-yapay-zeka-uygulamalari-gelistirme)

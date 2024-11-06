@@ -44,3 +44,5 @@ Bu eğitimi başarıyla tamamlayan katılımcılar;
 - **Kurum Çalışanları:** Günlük iş akışlarında yapay zeka teknolojilerini daha verimli kullanmak isteyen çalışanlar.
 - **Takım Liderleri ve Yönetici Adayları:** YZ ile çalışan performansını artırma, takım içi süreçleri optimize etme ve stratejik karar alma becerilerini geliştirmek isteyen liderler.
 - **İnsan Kaynakları ve Eğitim Uzmanları:** YZ’nin eğitim ve performans değerlendirme süreçlerinde nasıl kullanıldığını öğrenmek isteyen İK uzmanları.
+
+[Eğitim ana materyalleri, sadece eğitmenler için](https://github.com/TuncerKARAARSLAN-VB/training-kit-kurum-calisanlari-icin-yapay-zeka)

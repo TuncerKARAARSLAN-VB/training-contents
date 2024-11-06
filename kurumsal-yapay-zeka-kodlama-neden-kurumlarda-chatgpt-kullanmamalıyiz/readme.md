@@ -75,3 +75,5 @@ Bu eğitimi tamamlayan katılımcılar:
 - **Veri Bilimcileri ve Analistler:** Veri analizi ve yapay zeka uygulamalarıyla ilgilenen profesyoneller.
 - **İK Uzmanları ve Yöneticiler:** Yapay zeka sistemlerinin insan kaynakları süreçlerine entegrasyonunu öğrenmek isteyen profesyoneller.
 - **Yönetim ve Strateji Geliştiricileri:** Kurumların yapay zeka stratejilerini belirlemek ve yönlendirmek isteyen yöneticiler.
+
+[Eğitim ana materyalleri, sadece eğitmenler için](https://github.com/TuncerKARAARSLAN-VB/training-kit-kurumsal-yapay-zeka-kodlama)

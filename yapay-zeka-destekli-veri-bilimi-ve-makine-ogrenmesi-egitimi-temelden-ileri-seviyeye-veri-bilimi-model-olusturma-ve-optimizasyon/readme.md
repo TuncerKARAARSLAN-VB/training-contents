@@ -167,6 +167,4 @@
 - Eğitmen rehberliği ve mentorluk desteği
 - Final sınavı ve sertifika değerlendirmesi
 
----
-
-Bu eğitim, temelden başlayarak ileri seviyeye kadar tüm konuları kapsar. Hem teorik bilgiler hem de pratik projeler sayesinde öğrenciler, yapay zeka destekli veri bilimi ve makine öğrenmesi konularında tam donanımlı hale gelirler.
+[Eğitim ana materyalleri, sadece eğitmenler için](https://github.com/TuncerKARAARSLAN-VB/training-kit-yapay-zeka-destekli-veri-bilimi-temelden-ileri-seviyeye)

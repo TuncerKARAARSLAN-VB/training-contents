@@ -80,3 +80,5 @@ Bu eğitimi tamamlayan katılımcılar;
 - **DevOps Uzmanları:** Kubernetes ve OpenShift ile container orkestrasyonu ve CI/CD süreçlerini yönetmek isteyen DevOps profesyonelleri.
 - **Sistem Mimarları:** Microservis mimarisi ile yüksek ölçeklenebilir ve esnek sistemler tasarlamak isteyen mimarlar.
 - **Teknik Yöneticiler:** Modern yazılım geliştirme süreçlerinde yer almak ve ekibine bu teknolojileri entegre etmek isteyen yöneticiler.
+
+[Eğitim ana materyalleri, sadece eğitmenler için](https://github.com/TuncerKARAARSLAN-VB/training-kit-go-ile-mikro-servis-mimarisi)

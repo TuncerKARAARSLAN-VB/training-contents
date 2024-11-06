@@ -205,3 +205,5 @@
 - Kendi dizüstü bilgisayar veya sanal makine (Vagrant, VirtualBox) ile RHEL kurulumu yapılmış olması önerilir.
 
 Bu eğitim paketi, katılımcılara Red Hat Linux, Docker, Kubernetes ve Vagrant gibi teknolojiler üzerinde derinlemesine bilgi ve beceri kazandırmayı hedefler.
+
+[Eğitim ana materyalleri, sadece eğitmenler için](https://github.com/TuncerKARAARSLAN-VB/training-kit-red-hat-server-ve-sanallastirma)

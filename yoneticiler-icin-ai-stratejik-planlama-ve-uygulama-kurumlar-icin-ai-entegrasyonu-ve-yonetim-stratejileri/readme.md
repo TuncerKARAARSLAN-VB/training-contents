@@ -140,3 +140,5 @@
 - AI projelerinin etkili bir şekilde yönetimi ve performans değerlendirme yöntemlerinin öğrenilmesi.
   
 Bu eğitim, yöneticilere AI'nın iş süreçlerine stratejik entegrasyonu konusunda sağlam bir temel sağlayacak ve kurumlarının gelecekteki yapay zeka yatırımlarını daha etkin yönetmeleri için gereken bilgi ve becerileri kazandıracaktır.
+
+[Eğitim ana materyalleri, sadece eğitmenler için](https://github.com/TuncerKARAARSLAN-VB/training-kit-yoneticiler-icin-yapay-zekayla-stratejik-planlama-yonetim-stratejileri-uretme)

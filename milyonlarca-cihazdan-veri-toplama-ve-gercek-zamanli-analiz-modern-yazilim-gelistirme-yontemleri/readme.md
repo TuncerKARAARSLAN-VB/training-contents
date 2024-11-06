@@ -75,3 +75,5 @@ Bu eğitimi tamamlayan katılımcılar:
 - **Veri Bilimcileri ve Analistler:** Veri toplama ve analiz süreçlerinde görev alan profesyoneller.
 - **Proje Yöneticileri:** IoT projelerini yöneten veya yönlendiren yöneticiler.
 - **IT Yöneticileri ve Mühendisleri:** Veri güvenliği ve gizliliği konularında bilgi sahibi olmak isteyen IT uzmanları.
+
+[Eğitim ana materyalleri, sadece eğitmenler için](https://github.com/TuncerKARAARSLAN-VB/training-kit-milyonlarca-cihazdan-veri-toplama-modern-yazilim-gelistirme-yontemleri)

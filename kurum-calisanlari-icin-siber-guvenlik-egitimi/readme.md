@@ -73,3 +73,5 @@ Bu eğitim, kurum çalışanlarının temel siber güvenlik farkındalığını 
 
 - Katılımcıların temel bilgisayar bilgisine sahip olması.
 - Siber güvenlik konularında öğrenmeye açık olmaları ve farkındalık oluşturmayı hedeflemeleri.
+
+[Eğitim ana materyalleri, sadece eğitmenler için](https://github.com/TuncerKARAARSLAN-VB/training-kit-kurum-calisanlarina-siber-guvenlik)

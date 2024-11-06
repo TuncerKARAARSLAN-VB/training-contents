@@ -137,3 +137,5 @@
 - Eğitimin değerlendirilmesi ve geri bildirim toplama
 - Katılımcıların projelerinin sunumu ve sertifikasyon
 - Gelecek
+
+[Eğitim ana materyalleri, sadece eğitmenler için](https://github.com/TuncerKARAARSLAN-VB/training-kit-yapay-zeka-ile-kisilestirilmis-musteri-deneyimi-gelistirme)

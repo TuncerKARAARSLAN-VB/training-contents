@@ -145,6 +145,4 @@
 - Sertifikasyon ve eğitimin değerlendirilmesi
 - Gelecek otomasyon ve AI projeleri için öneriler
 
----
-
-Bu eğitim programı, katılımcılara RPA ve yapay zeka teknolojilerini kullanarak iş süreçlerini otomatikleştirme ve verimliliği artırma becerisi kazandırmayı amaçlar. Katılımcılar, hem teorik hem de uygulamalı olarak RPA araçlarını kullanmayı öğrenecek, yapay zeka ile iş analitiği ve süreç optimizasyonu konularında bilgi sahibi olacaklardır.
+[Eğitim ana materyalleri, sadece eğitmenler için](https://github.com/TuncerKARAARSLAN-VB/training-kit-is-analitigi-icin-yapay-zeka-robotic-process-automation)

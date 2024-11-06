@@ -118,3 +118,5 @@ Eğitim içeriği çok detaylı hazırlanmış, hafta içi 5 eğitim gününden 
      - Yüksek trafikli bir sistemin tasarımı ve uygulanması.
 
 Bu eğitim içeriği, katılımcılara büyük trafikli sistemlerin geliştirilmesi için gerekli tüm becerileri kazandırmayı amaçlayarak, pratik uygulama fırsatları ve gerçek dünya senaryolarını anlamalarına yardımcı olacaktır. Kubernetes üzerindeki kurulum ve yönetim detayları, sistemin ölçeklenebilirliğini ve performansını artıracak önemli unsurları içermektedir.
+
+[Eğitim ana materyalleri, sadece eğitmenler için](https://github.com/TuncerKARAARSLAN-VB/training-kit-enerji-firmalari-icin-mimari-gelistirmeler)

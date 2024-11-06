@@ -1,5 +1,7 @@
 # Sıfırdan Zirveye Docker ile Sanallaştırma
 
+![](containers.webp)
+
 ### Eğitim Süresi:
 
 **Format 1**

@@ -71,3 +71,5 @@ Bu eğitim, siber güvenlik alanında ileri seviye bilgi ve becerilere sahip olm
 
 - Katılımcıların temel siber güvenlik bilgilerine sahip olması ve daha önce güvenlik açıkları veya ağ güvenliği üzerinde çalışmış olmaları.
 - Eğitim sırasında aktif katılım göstermeleri ve pratik senaryolar üzerinde uygulamalar yapmaları.
+
+[Eğitim ana materyalleri, sadece eğitmenler için](https://github.com/TuncerKARAARSLAN-VB/training-kit-ileri-seviye-siber-guvenlik)

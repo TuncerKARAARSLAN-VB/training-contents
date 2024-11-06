@@ -143,6 +143,4 @@
 - NLP ve yapay zeka entegrasyonunda fırsatlar ve zorluklar
 - Yapay zeka ve NLP’nin iş dünyasında ve farklı sektörlerdeki uygulamaları
 
----
-
-Bu eğitim, doğal dil işleme alanındaki kavramların yanı sıra derin öğrenme ve yapay zeka ile uygulamalı projeler geliştirmeyi hedeflemektedir. Hem temel NLP tekniklerinden başlayarak, hem de gelişmiş NLP modelleriyle gerçek dünya uygulamalarını kapsayan bir içerik sunar.
+[Eğitim ana materyalleri, sadece eğitmenler için](https://github.com/TuncerKARAARSLAN-VB/training-kit-is-gucu-yonetiminde-yapay-zeka-insan-kaynaklari-cozumleri)
