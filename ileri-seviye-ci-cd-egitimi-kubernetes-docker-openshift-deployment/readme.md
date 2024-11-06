@@ -1,5 +1,7 @@
 # İleri Seviye CI/CD Eğitimi ve Kubernetes, Docker, OpenShift Deployment
 
+![](ileri-seviye-ci-cd.webp)
+
 ## Eğitim Süresi:
 
 **Format 1**

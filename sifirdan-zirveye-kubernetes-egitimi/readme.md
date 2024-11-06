@@ -1,5 +1,7 @@
 # Sıfırdan Zirveye Kubernetes Eğitimi
 
+![](kubernetes.webp)
+
 ## **Kubernetes Eğitimleri ve Danışmanlık Hizmetlerimizin Kurumlarınıza Katacağı Değer**
 
 Günümüzde dijital dönüşüm ve teknoloji odaklı inovasyon, her alanda işletmelerin rekabetçi kalabilmesi için önemli bir faktör haline gelmiştir. Bu bağlamda, bulut tabanlı çözümler ve mikroservis mimarisi, modern yazılım geliştirme süreçlerinin temelini oluşturuyor. Kubernetes, bu süreçlerin yönetimini ve ölçeklendirilmesini kolaylaştırarak, firmaların verimliliğini artırır. Eğitimlerimiz, kurumların Kubernetes’i etkin bir şekilde kullanabilmesini sağlayarak operasyonel verimliliklerini en üst düzeye çıkarır.

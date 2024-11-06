@@ -1,4 +1,10 @@
+# Yükzek Güvenlikli Kod ve Uygulama Geliştirmek
+
+![](yuksek-guvenlikli-kod-gelistirme.webp)
+
 Kod güvenliği ve yüksek güvenlikli uygulama geliştirme eğitimi için aşağıdaki kapsamlı eğitim içeriği önerilebilir. Bu eğitim, yazılım geliştiricilerin güvenli kod yazma becerilerini geliştirmeye ve güvenli uygulama geliştirme süreçlerini öğrenmeye odaklanacaktır.
+
+
 
 ### 1. **Giriş ve Temel Kavramlar**
    - Kod güvenliği ve güvenlik açıklarının tanımı

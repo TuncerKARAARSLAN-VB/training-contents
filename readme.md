@@ -26,10 +26,10 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 ### C - Proje Yönetimi Eğitilerimiz
 
 - **[1 - Agile, Scrum, Kanban - Çevik Proje Yönetimi](cevik-proje-yonetimi/readme.md)**
-- **[#2 - DevOps Proje Yönetimi]()**
-- **[#3 - Feature Driven Development - FDD Proje Yönetimi]()**
-- **[#4 - Validation and Verification - V-Model Proje Yönetimi]()**
-- **[#5 - Rapily Application Development - RAD Proje Yönetimi]()**
+- **[#2 - DevOps Proje Yönetimi](devops-proje-yonetimi/readme.md)**
+- **[#3 - Feature Driven Development - FDD Proje Yönetimi](fdd-proje-yonetimi/readme.md)**
+- **[#4 - Validation and Verification - V-Model Proje Yönetimi](vmodel-proje-yonetimi/readme.md)**
+- **[#5 - Rapily Application Development - RAD Proje Yönetimi](rad-proje-yonetimi/readme.md)**
 
 ### D - Linux Eğitimlerimiz
 

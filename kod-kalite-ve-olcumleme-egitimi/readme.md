@@ -1,3 +1,7 @@
+# Kod Kalite ve Ölçümleme
+
+![](code-quality.webp)
+
 ### 1. **Kod Kalitesi Nedir?**
    - Kod kalitesinin tanımı
    - Kod kalitesinin yazılım projelerindeki önemi

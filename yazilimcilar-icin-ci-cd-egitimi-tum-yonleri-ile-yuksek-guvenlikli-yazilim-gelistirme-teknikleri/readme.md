@@ -1,5 +1,7 @@
 # Yazılımcılar için CI/CD Eğitimi - Tüm Yönleri ile Yüksek Güvenlikli Yazılım Geliştirme Teknikleri
 
+![](ci-cd.webp)
+
 ## Eğitim Süresi:
 
 **Format 1**

@@ -1,5 +1,7 @@
 # **Agile Proje Yönetimi**
 
+![](agile.webp)
+
 ### Eğitim Süresi:
 
 **Format 1**
