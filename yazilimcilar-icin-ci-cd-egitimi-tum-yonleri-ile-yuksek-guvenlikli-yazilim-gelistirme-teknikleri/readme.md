@@ -73,3 +73,5 @@ Bu eğitim, yazılımcılara sürekli entegrasyon (CI) ve sürekli dağıtım (C
 - Versiyon kontrol sistemlerine (özellikle Git) aşina olmaları.
 - CI/CD süreçlerine ve yazılım güvenliğine ilgi duymaları.
 - Takım çalışmasına yatkın olmaları ve grup çalışmasına katılım göstermeye istekli olmaları.
+
+[Eğitim ana materyalleri, sadece eğitmenler için](https://github.com/TuncerKARAARSLAN-VB/training-kit-yazilimcilar-icin-ileri-seviye-ci-cd-egitimi)

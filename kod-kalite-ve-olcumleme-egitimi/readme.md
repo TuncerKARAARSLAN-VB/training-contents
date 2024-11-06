@@ -70,4 +70,4 @@
    - Eğitimden elde edilen önemli çıkarımlar
    - Katılımcılara yönelik son öneriler ve kaynaklar
 
-Bu içerik, yazılım geliştirme ekiplerine kod kalitesini nasıl ölçüp iyileştirebileceklerini öğretmeye yönelik kapsamlı bir eğitim programı sunar.
+[Eğitim ana materyalleri, sadece eğitmenler için](https://github.com/TuncerKARAARSLAN-VB/training-kit-kod-kalite-ve-olcumleme)

@@ -119,3 +119,5 @@ Bu eğitim programı ile katılımcıların Docker teknolojisini derinlemesine �
 - Sistem Yöneticileri
 - DevOps Mühendisleri
 - IT Profesyonelleri
+
+[Eğitim ana materyalleri, sadece eğitmenler için](https://github.com/TuncerKARAARSLAN-VB/training-kit-ileri-seviye-docker-egitimi)

@@ -13,7 +13,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 - **[01 - Sıfırdan Zirveye Docker ile Sanallaştırma](./sifirdan-zirveye-docker-ile-sanallastirma/readme.md)**
 - **[02 - Sıfırdan Zirveye Kubernetes Eğitimi](./sifirdan-zirveye-kubernetes-egitimi/readme.md)**
 - **[03 - Yazılımcılar için CI/CD Eğitimi - Tüm Yönleri İle Yüksek Güvenlikli Yazılım Geliştirme Teknikleri](./yazilimcilar-icin-ci-cd-egitimi-tum-yonleri-ile-yuksek-guvenlikli-yazilim-gelistirme-teknikleri/readme.md)**
-- **[04 - İleri Seviye CI/CD Eğitimi ve Kubernetes, Docker, Openshift Deployment](./ileri-seviye-ci-cd-egitimi-kubernetes-docker-openshift-deployment/readme.md)**
+- **[04 - Sistem Yöneticileri ve Mimamlar için İleri Seviye CI/CD Eğitimi ve Kubernetes, Docker, Openshift Deployment](./ileri-seviye-ci-cd-egitimi-kubernetes-docker-openshift-deployment/readme.md)**
 
 ### B - Yazılım Süreçleri Eğitimlerimiz
 
@@ -24,10 +24,10 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 ### C - Proje Yönetimi Eğitilerimiz
 
 - **[1 - Agile, Scrum, Kanban - Çevik Proje Yönetimi](cevik-proje-yonetimi/readme.md)**
-- **[2 - DevOps Proje Yönetimi]()**
-- **[3 - Feature Driven Development - FDD Proje Yönetimi]()**
-- **[4 - Validation and Verification - V-Model Proje Yönetimi]()**
-- **[5 - Rapily Application Development - RAD Proje Yönetimi]()**
+- **[#2 - DevOps Proje Yönetimi]()**
+- **[#3 - Feature Driven Development - FDD Proje Yönetimi]()**
+- **[#4 - Validation and Verification - V-Model Proje Yönetimi]()**
+- **[#5 - Rapily Application Development - RAD Proje Yönetimi]()**
 
 ### D - Linux Eğitimlerimiz
 

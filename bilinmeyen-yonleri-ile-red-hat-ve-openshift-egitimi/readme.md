@@ -83,4 +83,4 @@ Bu eğitim, katılımcıların Red Hat ve OpenShift teknolojilerini ileri düzey
 - Temel seviyede konteyner ve Kubernetes bilgisi önerilir, ancak zorunlu değildir.
 - Aktif katılım ve öğrenme isteği.
 
-Bu eğitim ile AlmaLinux'un güçlü altyapısını kullanarak sistemlerinizi kurmayı ve OpenShift ile bu sistemler üzerinde konteyner tabanlı uygulamaları nasıl yönetip optimize edeceğinizi öğreneceksiniz. Almalinux ile Redhat aynı alt yapı ve kodlara sahiptir. Almalinux üzerinde alacağınız eğitimler lisanslı redhat üzerinde de aynı deneyimler olacak. Ne bir eksik ne bir fazla.
+[Eğitim ana materyalleri, sadece eğitmenler için](https://github.com/TuncerKARAARSLAN-VB/training-kit-bilinmeyen-yonleriyle-red-hat-openshift)

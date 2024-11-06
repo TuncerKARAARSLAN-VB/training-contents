@@ -64,3 +64,5 @@ Bu eğitim, katılımcılara sürekli entegrasyon ve sürekli dağıtım (CI/CD)
 - Katılımcıların temel programlama ve sistem yönetimi bilgisine sahip olmaları.
 - CI/CD ve konteyner teknolojilerine ilgi duymaları.
 - Takım çalışmasına yatkın olmaları ve aktif katılım göstermeye istekli olmaları.
+
+[Eğitim ana materyalleri, sadece eğitmenler için](https://github.com/TuncerKARAARSLAN-VB/training-kit-ileri-seviye-ci-cd-egitimi)

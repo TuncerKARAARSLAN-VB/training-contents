@@ -80,4 +80,4 @@ Kod güvenliği ve yüksek güvenlikli uygulama geliştirme eğitimi için aşa�
    - Katılımcılara güvenlik konusunda sürekli öğrenme kaynakları ve öneriler
    - Güvenli yazılım geliştirme sürecinin sürekli iyileştirilmesi için öneriler
 
-Bu eğitim içeriği, yazılım geliştiricilerin güvenlik konularında bilgi sahibi olmalarını ve güvenli kod yazma becerilerini geliştirmelerini amaçlar. Eğitimin sonunda katılımcılar, güvenli uygulama geliştirme süreçlerini anlayacak ve bu süreçleri projelerine uygulayabilecek yeterlilikte olacaklardır.
+[Eğitim ana materyalleri, sadece eğitmenler için](https://github.com/TuncerKARAARSLAN-VB/training-kit-yuksek-guvenlikli-kod-ve-uygulama-gelistirme)

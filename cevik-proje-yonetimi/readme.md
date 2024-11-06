@@ -98,6 +98,4 @@ Eğitimin genel bir özeti yapılacak, katılımcılara öğrendiklerini nasıl 
 8. **Yeni Mezunlar ve Stajyerler:** Proje yönetimi ve yazılım geliştirme alanında kariyer yapmayı hedefleyen yeni mezunlar veya stajyerler.
 9. **Danışmanlar:** Müşterilerine Agile dönüşüm süreçlerinde rehberlik etmek isteyen danışmanlar.
 
----
-
-Bu eğitim yapısı, katılımcıların Agile metodolojisinin yanı sıra proje yönetimi becerilerini de geliştirmelerine yardımcı olacaktır. Her bölümde, interaktif örnekler ve uygulamalı aktiviteler eklenerek öğrenmenin pekiştirilmesi sağlanabilir.
+[Eğitim ana materyalleri, sadece eğitmenler için](https://github.com/TuncerKARAARSLAN-VB/training-kit-cevik-proje-yonetimi)
