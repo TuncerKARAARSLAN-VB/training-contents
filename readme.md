@@ -8,6 +8,8 @@ Bu yıl, kurumunuza değer katacak ve çalışanlarınızın gelişimini destekl
 
 Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayınız.
 
+İsterseniz eğitimleri [özelleştirebilirsiniz](#özelleştirme-fırsatları). [5 ve 12 günlük eğitim formatları](#5-günlük-ve-12-günlük-eğitim-arasındaki-fark) için listenin sonundki bölümü okuyabilirsiniz. 
+
 ### A - Sanallaştırma ve CI/CD Eğitimlerimiz
 
 - **[01 - Sıfırdan Zirveye Docker ile Sanallaştırma](./sifirdan-zirveye-docker-ile-sanallastirma/readme.md)**
