@@ -18,76 +18,80 @@
 
 Bu eğitim, katılımcılara docker temel prensiplerini, mimarisini ve uygulama senaryolarını öğretmeyi amaçlamaktadır. Eğitim sonunda katılımcılar, kendi docker  yapılandırmalarını oluşturabilecek, yönetebilecek ve uygulama dağıtımlarını gerçekleştirebilecek düzeye geleceklerdir.
 
-### Gün 1: Docker'a Giriş ve Temel Kavramlar
+### 1. Gün: Docker'a Giriş ve Kurulum
 
-- **Docker Nedir?**
-  - Sanallaştırma nedir? Docker'ın sanallaştırma üzerindeki yeri.
-  - Docker'ın avantajları ve dezavantajları.
-  
-- **Docker Mimarisini Anlamak**
-  - Docker bileşenleri: Docker Engine, Docker Hub, Docker Compose.
-  - Container ve image kavramları.
-  
+- **Docker Nedir ve Neden Kullanılır?**
+  - Docker’ın temel kavramları
+  - Konteynerleşme ile sanallaştırma arasındaki farklar
+  - Docker’ın avantajları ve kullanım senaryoları
+  - Docker’ın hikayesi, documentary
+
 - **Docker Kurulumu**
-  - Docker'ı farklı platformlarda kurmak: Windows, macOS, Linux.
-  - Docker CLI kullanarak ilk container oluşturma.
+  - Windows işletim sisteminde Docker kurulumu
+  - MacOS işletim sistemlerinde Docker kurulumu
+  - Linux işletim sisteminde Docker kurulumu
+  - Docker Desktop ve Docker Toolbox Kullanımı
+  - Docker için Sistem Gereksinimleri
 
-### Gün 2: Docker İmajları ve Container Yönetimi
+---
 
-- **Docker İmajlarıyla Çalışmak**
-  - Docker imajı nedir? İmaj oluşturma ve yönetim.
-  - Dockerfile ile custom imaj yaratma.
-  
-- **Container Yönetimi**
-  - Container oluşturma, başlatma, durdurma ve silme.
-  - Container loglarını inceleme.
-  - Container ağ ayarları ve dosya sistemleri.
+### 2. Gün: Docker Temel Kavramlar ve Uygulamalı Çalışmalar
 
-- **Docker Hub ile İmaj Paylaşımı**
-  - Docker Hub’a giriş ve imaj yükleme.
-  - İmajları çekme ve güncelleme.
+- **Temel Docker Kavramları**
+  - Temel Docker CLI Komutları
+  - Container management (starting, stopping, deleting)
+  - Docker Image Management: Creating, Deleting, and Pulling Images
+  - Kendi özel imajınızı oluşturma
+  - Docker image güncelleme
 
-### Gün 3: Gelişmiş Docker Özellikleri
+- **Uygulamalı Çalışmalar**
+  - Basit bir uygulamanın konteynerleştirilmesi
+  - Veritabanı konteyneri oluşturma ve yönetme
+  - Çoklu konteyner uygulamaları için Docker Compose kullanımı
 
-- **Docker Compose Kullanımı**
-  - Docker Compose ile çoklu container yönetimi.
-  - docker-compose.yml dosyasının yapılandırılması.
-  
-- **Persisten Data Yönetimi**
-  - Docker Volume nedir? Verilerin kalıcılığı.
-  - Volume ve bind mount kullanımı.
-  
-- **Ağ Yönetimi**
-  - Docker ağ yapısı: bridge, host, overlay ağlar.
-  - Container’lar arası iletişim sağlama.
+---
 
-### Gün 4: Docker ile Uygulama Geliştirme
+### 3. Gün: Docker Compose ve İleri Seviye Kullanım
 
-- **Uygulama İmajları Oluşturma**
-  - Uygulama imajları oluşturma ve dağıtma.
-  - Örnek bir web uygulaması container'ı oluşturma.
-  
-- **Test Süreçleri**
-  - Uygulama testleri için Docker kullanımı.
-  - Container içindeki uygulama loglarının analizi.
+- **Docker Compose**
+  - Docker Compose nedir ve nasıl çalışır?
+  - Docker ve Docker Compose Arasındaki Farklar Nelerdir?
+  - Docker Compose ile Tek Servis Uygulaması Oluşturma
+  - Docker Compose ile Çoklu Servis Uygulaması Tasarlama
+  - Docker Compose ile Çoklu Servis Uygulaması Tasarlama ve Kalıcı Ortak Dosya Alanı
+  - YAML Formatı ve Kullanımı
+  - Servis, Ağ ve Hacim Tanımlamaları
 
-- **Hata Ayıklama**
-  - Container'larda hata ayıklama yöntemleri.
-  - Docker CLI ile sorun giderme.
+---
 
-### Gün 5: Orkestrasyon ve DevOps Entegrasyonu
+### 4. Gün: Docker Swarm ve Ağ Yapılandırması
 
-- **Kubernetes ile Docker Entegrasyonu**
-  - Kubernetes’in Docker ile birlikte kullanımı.
-  - Basit bir Kubernetes cluster kurulumu ve Docker container'larının yönetimi.
-  
-- **CI/CD Süreçlerinde Docker Kullanımı**
-  - Docker'ın sürekli entegrasyon ve sürekli dağıtım süreçlerindeki rolü.
-  - GitHub Actions veya Jenkins ile Docker ile CI/CD oluşturma.
+- **Docker Swarm**
+  - Docker Swarm nedir ve avantajları
+  - Docker ve Docker Swarm Arasındaki Farklar
+  - Swarm modunu aktif etme, Docker ile uygulama dağıtımı
+  - Docker Swarm ile Servis Tanımlama, Güncelleme, Durdurma
+  - Servis yönetimi ve ölçeklendirme
 
-- **Uygulama Dağıtımı ve Yönetimi**
-  - Uygulama güncellemeleri ve roll-back süreçleri.
-  - Üretim ortamında Docker ile uygulama yönetimi.
+- **Docker Ağ Yapılandırması**
+  - Docker ağlarının temel kavramları
+  - IP yapılandırması ve konteynerler arası iletişim
+  - Özel ağlar oluşturma ve yönetme
+  - Bridge Ağı, Host Ağı, Macvlan Ağı
+
+---
+
+### 5. Gün: Monitoring, Logging ve İleri Seviye Konular
+
+- **Monitoring ve Logging**
+  - Prometheus’un temel kavramları ve nasıl çalıştığı
+  - Grafana ile veri görselleştirme ve dashboard oluşturma
+  - Docker konteynerlerinde log yönetimi
+  - Elasticsearch ile logging
+  - Kibana ile logging
+
+- **Docker üzerinde Almalinux**
+  - Docker üzerinde Almalinux kurulumu ve kullanımı
 
 ### Eğitim Metodolojisi
 

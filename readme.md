@@ -8,29 +8,63 @@ Bu yıl, kurumunuza değer katacak ve çalışanlarınızın gelişimini destekl
 
 Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayınız.
 
+### A - Sanallaştırma ve CI/CD Eğitimlerimiz
+
 - **[01 - Sıfırdan Zirveye Docker ile Sanallaştırma](./sifirdan-zirveye-docker-ile-sanallastirma/readme.md)**
 - **[02 - Sıfırdan Zirveye Kubernetes Eğitimi](./sifirdan-zirveye-kubernetes-egitimi/readme.md)**
 - **[03 - Yazılımcılar için CI/CD Eğitimi - Tüm Yönleri İle Yüksek Güvenlikli Yazılım Geliştirme Teknikleri](./yazilimcilar-icin-ci-cd-egitimi-tum-yonleri-ile-yuksek-guvenlikli-yazilim-gelistirme-teknikleri/readme.md)**
-- **[04 - Yüksek Trafikli Sistem Mimarileri ve Kesintisiz Sistemler](./yuksek-trafigi-sistem-mimarileri-ve-kesintisiz-sistemler/readme.md)**
-- **[05 - İleri Seviye CI/CD Eğitimi ve Kubernetes, Docker, Openshift Deployment](./ileri-seviye-ci-cd-egitimi-kubernetes-docker-openshift-deployment/readme.md)**
-- **[06 - Bilinmeyen Yönleri ile Red Hat ve Openshift Eğitimi](./bilinmeyen-yonleri-ile-red-hat-ve-openshift-egitimi/readme.md)**
-- **[07 - Kurum Çalışanları için Siber Güvenlik Eğitimi](./kurum-calisanlari-icin-siber-guvenlik-egitimi/readme.md)**
-- **[08 - İleri Seviye Siber Güvenlik  Eğitimi](./ileri-seviye-siber-guvenlik-egitimi/readme.md)**
-- **[09 - Yöneticiler için Yapay Zeka ve Kurumları Yarına Hazırlama](./yoneticiler-icin-yapay-zeka-ve-kurumlari-yarina-hazirlama/readme.md)**
-- **[10 - Kurum Çalışanları için Yapay Zeka ve Çalışan Performansının Artırılması](./kurum-calisanlari-icin-yapay-zeka-ve-calisan-performansinin-artirilmasi/readme.md)**
-- **[11 - Go ile API Geliştirme, Microservis Mimarisi ve Yayınlama (Kubernetes, Docker, OpenShift)](./go-ile-api-gelistirme-microservis-mimarisi-ve-yayinlama-kubernetes-docker-openshift/readme.md)**
-- **[12 - Kurumsal Yapay Zeka Kodlama, Neden Kurumlarda ChatGpt Kullanmamalıyız](./kurumsal-yapay-zeka-kodlama-neden-kurumlarda-chatgpt-kullanmamalıyiz/readme.md)**
-- **[13 - Milyonlarca Cihazdan Veri Toplama ve Gerçek Zamanlı Analiz: Modern Yazılım Geliştirme Yöntemleri](./milyonlarca-cihazdan-veri-toplama-ve-gercek-zamanli-analiz-modern-yazilim-gelistirme-yontemleri/readme.md)**
-- **[14 - Red Hat Enterprise Server Eğitimi](red-hat-server-ve-sanallastirma/readme.md)**
-- **[15 - Enerji Firmaları İçin Mimari Geliştirme ve Sürekli Kendini Yetiştirebilen Ekipler](enerji-firmalari-icin-mimari-gelistirme-ve-surekli-kendini-yetistirebilen-takimlar/readme.md)**
-- **[16 - Çevik Proje Yönetimi](cevik-proje-yonetimi/readme.md)**
-- **[17 - Yöneticiler için AI Stratejik Planlama ve Uygulama – Kurumlar için AI entegrasyonu ve yönetim stratejileri](yoneticiler-icin-ai-stratejik-planlama-ve-uygulama-kurumlar-icin-ai-entegrasyonu-ve-yonetim-stratejileri/readme.md)**
-- **[18 - Yapay Zeka Destekli Veri Bilimi ve Makine Öğrenmesi Eğitimi – Temelden ileri seviyeye veri bilimi, model oluşturma ve optimizasyon](yapay-zeka-destekli-veri-bilimi-ve-makine-ogrenmesi-egitimi-temelden-ileri-seviyeye-veri-bilimi-model-olusturma-ve-optimizasyon/readme.md)**
-- **[19 - Generatif Yapay Zeka Uygulamaları Geliştirme (ChatGPT, DALL·E, vb.) – Yaratıcı yapay zeka araçlarını kullanarak içerik ve uygulama geliştirme](generatif-yapay-zeka-uygulamalari-gelistirme-chatgpt-dall-e-vb-yaratici-yapay-zeka-araclarini-kullanarak-icerik-ve-uygulama-gelistirme/readme.md)**
-- **[20 - İş Analitiği için Yapay Zeka ve RPA (Robotic Process Automation) Eğitimi – Kurumlar için otomasyon ve iş süreçlerinin verimliliğini artırma](is-analitigi-icin-yapay-zeka-ve-rpa-robotic-process-automation-egitimi-kurumlar-icin-otomasyon-ve-is-sureclerinin-verimliligini-artirma/readme.md)**
-- **[21 - Yapay Zeka ile Kişiselleştirilmiş Müşteri Deneyimi Geliştirme – AI ile müşteri hizmetleri ve CRM'de inovatif yaklaşımlar](yapay-zeka-ile-kisisellestirilmis-musteri-deneyimi-gelistirme-ai-ile-musteri-hizmetleri-ve-crmde-inovatif-yaklasimlar/readme.md)**
-- **[22 - NLP (Doğal Dil İşleme) Projeleri için Geliştirme ve Uygulama Eğitimi – Sohbet botları ve metin analizleri için NLP temelli uygulamalar](nlp-dogal-dil-isleme-projeleri-icin-gelistirme-ve-uygulama-egitimi-sohbet-botlari-ve-metin-analizleri-icin-nlp-temelli-uygulamalar/readme.md)**
-- **[23 - İş Gücü Yönetiminde Yapay Zeka ve İnsan Kaynakları Çözümleri – AI ile işe alım, yetenek yönetimi ve çalışan verimliliği](is-gucu-yonetiminde-yapay-zeka-ve-insan-kaynaklari-cozumleri-ai-ile-ise-alim-yetenek-yonetimi-ve-calisan-verimliligi/readme.md)**
+- **[04 - İleri Seviye CI/CD Eğitimi ve Kubernetes, Docker, Openshift Deployment](./ileri-seviye-ci-cd-egitimi-kubernetes-docker-openshift-deployment/readme.md)**
+
+### B - Yazılım Süreçleri Eğitimlerimiz
+
+- **[01 - Kod Kalite ve Ölçümleme](./kod-kalite-ve-olcumleme-egitimi/readme.md)**
+- **[02 - Yüksek Güvenlikli Kod ve Uygulama Geliştirme](./yuksek-guvenlikli-kod-ve-uygulama-gelistirme/readme.md)**
+
+
+### C - Proje Yönetimi Eğitilerimiz
+
+- **[1 - Agile, Scrum, Kanban - Çevik Proje Yönetimi](cevik-proje-yonetimi/readme.md)**
+- **[2 - DevOps Proje Yönetimi]()**
+- **[3 - Feature Driven Development - FDD Proje Yönetimi]()**
+- **[4 - Validation and Verification - V-Model Proje Yönetimi]()**
+- **[5 - Rapily Application Development - RAD Proje Yönetimi]()**
+
+### D - Linux Eğitimlerimiz
+
+- **[01 - Bilinmeyen Yönleri ile Red Hat ve Openshift Eğitimi](./bilinmeyen-yonleri-ile-red-hat-ve-openshift-egitimi/readme.md)**
+- **[02 - Red Hat Enterprise Server Eğitimi](red-hat-server-ve-sanallastirma/readme.md)**
+
+### E - Özel Çözümler Gerektiren Eğitimler
+
+- **[01 - Yüksek Trafikli Sistem Mimarileri ve Kesintisiz Sistemler](./yuksek-trafigi-sistem-mimarileri-ve-kesintisiz-sistemler/readme.md)**
+- **[02 - Milyonlarca Cihazdan Veri Toplama ve Gerçek Zamanlı Analiz: Modern Yazılım Geliştirme Yöntemleri](./milyonlarca-cihazdan-veri-toplama-ve-gercek-zamanli-analiz-modern-yazilim-gelistirme-yontemleri/readme.md)**
+- **[03 - Enerji Firmaları İçin Mimari Geliştirme ve Sürekli Kendini Yetiştirebilen Ekipler](enerji-firmalari-icin-mimari-gelistirme-ve-surekli-kendini-yetistirebilen-takimlar/readme.md)**
+
+### F - Yeni Nesil Yazılım Eğitimleri
+
+- **[01 - Go ile Microservis Mimarisi ve Yayınlama (Kubernetes, Docker, OpenShift)](./go-ile-api-gelistirme-microservis-mimarisi-ve-yayinlama-kubernetes-docker-openshift/readme.md)**
+- **[02 - Python ile Microservis Mimarisi ve Yayınlama (Kubernetes, Docker, OpenShift)](./go-ile-api-gelistirme-microservis-mimarisi-ve-yayinlama-kubernetes-docker-openshift/readme.md)**
+- **[03 - C# ile Microservis Mimarisi ve Yayınlama (Kubernetes, Docker, OpenShift)](./go-ile-api-gelistirme-microservis-mimarisi-ve-yayinlama-kubernetes-docker-openshift/readme.md)**
+- **[04 - Java Spring ile Microservis Mimarisi ve Yayınlama (Kubernetes, Docker, OpenShift)](./go-ile-api-gelistirme-microservis-mimarisi-ve-yayinlama-kubernetes-docker-openshift/readme.md)**
+
+### G - Siber Güvenlik Eğitimlerimiz
+
+- **[01 - Tüm Kurum Çalışanlarına Siber Güvenlik Eğitimi](./kurum-calisanlari-icin-siber-guvenlik-egitimi/readme.md)**
+- **[02 - Sistem Güvenlik ve Yazılım Mimarlarına İleri Seviye Siber Güvenlik  Eğitimi](./ileri-seviye-siber-guvenlik-egitimi/readme.md)**
+- **[03 - Yöneticiler için Yapay Zeka Destekli Siber Güvenlik Eğitimi](./yoneticiler-icin-yapay-zeka-ve-kurumlari-yarina-hazirlama/readme.md)**
+
+### H - Yapay Zeka Eğitimlerimiz
+
+- **[01 - Kurum Çalışanları için Yapay Zeka ve Çalışan Performansının Artırılması](./kurum-calisanlari-icin-yapay-zeka-ve-calisan-performansinin-artirilmasi/readme.md)**
+- **[02 - Kurumsal Yapay Zeka Kodlama, Neden Kurumlarda ChatGpt Kullanmamalıyız](./kurumsal-yapay-zeka-kodlama-neden-kurumlarda-chatgpt-kullanmamalıyiz/readme.md)**
+- **[03 - Yöneticiler için Yapay Zeka ve Kurumların Yarınlara Hazır Hale Getirilmesi](./yoneticiler-icin-yapay-zeka-ve-kurumlari-yarina-hazirlama/readme.md)**
+- **[04 - Yöneticiler için AI Stratejik Planlama ve Uygulama – Kurumlar için AI entegrasyonu ve yönetim stratejileri](yoneticiler-icin-ai-stratejik-planlama-ve-uygulama-kurumlar-icin-ai-entegrasyonu-ve-yonetim-stratejileri/readme.md)**
+- **[05 - Yapay Zeka Destekli Veri Bilimi ve Makine Öğrenmesi Eğitimi – Temelden ileri seviyeye veri bilimi, model oluşturma ve optimizasyon](yapay-zeka-destekli-veri-bilimi-ve-makine-ogrenmesi-egitimi-temelden-ileri-seviyeye-veri-bilimi-model-olusturma-ve-optimizasyon/readme.md)**
+- **[06 - Generatif Yapay Zeka Uygulamaları Geliştirme (ChatGPT, DALL·E, vb.) – Yaratıcı yapay zeka araçlarını kullanarak içerik ve uygulama geliştirme](generatif-yapay-zeka-uygulamalari-gelistirme-chatgpt-dall-e-vb-yaratici-yapay-zeka-araclarini-kullanarak-icerik-ve-uygulama-gelistirme/readme.md)**
+- **[07 - İş Analitiği için Yapay Zeka ve RPA (Robotic Process Automation) Eğitimi – Kurumlar için otomasyon ve iş süreçlerinin verimliliğini artırma](is-analitigi-icin-yapay-zeka-ve-rpa-robotic-process-automation-egitimi-kurumlar-icin-otomasyon-ve-is-sureclerinin-verimliligini-artirma/readme.md)**
+- **[08 - Yapay Zeka ile Kişiselleştirilmiş Müşteri Deneyimi Geliştirme – AI ile müşteri hizmetleri ve CRM'de inovatif yaklaşımlar](yapay-zeka-ile-kisisellestirilmis-musteri-deneyimi-gelistirme-ai-ile-musteri-hizmetleri-ve-crmde-inovatif-yaklasimlar/readme.md)**
+- **[09 - NLP (Doğal Dil İşleme) Projeleri için Geliştirme ve Uygulama Eğitimi – Sohbet botları ve metin analizleri için NLP temelli uygulamalar](nlp-dogal-dil-isleme-projeleri-icin-gelistirme-ve-uygulama-egitimi-sohbet-botlari-ve-metin-analizleri-icin-nlp-temelli-uygulamalar/readme.md)**
+- **[10 - İş Gücü Yönetiminde Yapay Zeka ve İnsan Kaynakları Çözümleri – AI ile işe alım, yetenek yönetimi ve çalışan verimliliği](is-gucu-yonetiminde-yapay-zeka-ve-insan-kaynaklari-cozumleri-ai-ile-ise-alim-yetenek-yonetimi-ve-calisan-verimliligi/readme.md)**
 
 Bu eğitimlerle, ekiplerinizin motivasyonunu artırmayı, iş süreçlerini optimize etmeyi ve sektördeki yeniliklere ayak uydurmayı hedefliyoruz. Sizleri dünya standartlarında yetkin kurumlar haline getirmek için eğitim içeriklerimizi güncelliyor ve yeni eğitimler hazırlıyoruz. Sizlere yazılım eğitimleri hazırlamadık. Ülkemizin eksik olduğu konularda sizlerin yeni dünya hakkında farkındalığınızı arttırmaya çalışıyoruz.
 
