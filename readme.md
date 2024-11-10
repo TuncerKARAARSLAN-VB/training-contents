@@ -16,6 +16,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 - **[02 - Sıfırdan Zirveye Kubernetes Eğitimi](./sifirdan-zirveye-kubernetes-egitimi/readme.md)**
 - **[03 - Yazılımcılar için CI/CD Eğitimi - Tüm Yönleri İle Yüksek Güvenlikli Yazılım Geliştirme Teknikleri](./yazilimcilar-icin-ci-cd-egitimi-tum-yonleri-ile-yuksek-guvenlikli-yazilim-gelistirme-teknikleri/readme.md)**
 - **[04 - Sistem Yöneticileri ve Mimamlar için İleri Seviye CI/CD Eğitimi ve Kubernetes, Docker, Openshift Deployment](./ileri-seviye-ci-cd-egitimi-kubernetes-docker-openshift-deployment/readme.md)**
+- [**DevSecOps Eğitimi Yazılım Geliştirme Süreçleri ve Güvenlik Entegre Süreçler ile Yazılım Geliştirme**](./devsecops/readme.md)
 
 ### B - Yazılım Süreçleri Eğitimlerimiz
 

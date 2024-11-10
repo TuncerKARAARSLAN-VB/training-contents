@@ -85,7 +85,7 @@ Bu eğitim, katılımcıların Red Hat ve OpenShift teknolojilerini ileri düzey
 - **Bulut Mühendisleri:** OpenShift’i bulut ortamlarında kullanmak isteyen bulut altyapı mühendisleri.
 - **Teknoloji Yöneticileri:** Kurumlarının AlmaLinux ve OpenShift tabanlı çözümlere geçişini yönetmek isteyen teknoloji liderleri.
 
-### Beklentilerimiz:
+## Katılımcılardan Beklentilerimiz:
 
 - Katılımcıların temel Linux bilgisine sahip olmaları.
 - Temel seviyede konteyner ve Kubernetes bilgisi önerilir, ancak zorunlu değildir.

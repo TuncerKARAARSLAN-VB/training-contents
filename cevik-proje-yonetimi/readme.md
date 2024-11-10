@@ -2,7 +2,7 @@
 
 ![](agile.webp)
 
-### Eğitim Süresi:
+## Eğitim Süresi:
 
 **Format 1**
 
@@ -18,7 +18,33 @@
 
 ## **Agile Yönetimi**
 
-Agile Proje Yönetimi, dinamik iş dünyasında daha hızlı, verimli ve esnek projeler geliştirebilmek için gerekli olan temel prensipleri ve metodolojileri öğreten kapsamlı bir eğitim programıdır. Bu eğitim, katılımcılara Agile dönüşümünü sağlamak, Scrum ve Kanban gibi uygulamalarla proje yönetiminde çevikliği artırmak için gerekli bilgi ve becerileri kazandırmayı hedefler.
+Agile Yönetimi, geleneksel ve hiyerarşik proje yönetimi yöntemlerinin sınırlamalarını aşarak, projelerin daha hızlı, esnek ve verimli bir şekilde yönetilmesini sağlayan bir yaklaşımı ifade eder. Hızla değişen iş dünyasında, müşteri taleplerine hızla uyum sağlamak ve rekabetçi kalmak için esneklik ve hızlı adaptasyon yeteneği oldukça önemlidir. Agile, bu ihtiyaçları karşılamak amacıyla geliştirilmiş bir yönetim felsefesidir ve projelerin her aşamasında sürekli iyileştirme, şeffaflık ve takım içi işbirliğini ön planda tutar.
+
+Agile Yönetimi, yazılım geliştirme dünyasında ortaya çıkmış olsa da, günümüzde çok farklı sektörlerde ve organizasyonel yapılarla uygulanmaya başlanmıştır. Bu yaklaşım, projelerin daha dinamik bir şekilde yönetilmesine olanak sağlar ve hedeflere ulaşmak için gerekli olan esnekliği sunar. Temel amacı, projelerin sürekli olarak gözden geçirilmesi, uyarlanması ve geliştirilmesidir. Geleneksel metodolojilerin aksine, Agile proje yönetimi, değişime ve belirsizliğe daha hızlı tepki verebilir.
+
+## **Eğitimin Hedefleri**
+
+1. **Agile Prensiplerini Anlamak ve Uygulamak**: Katılımcılar, Agile metodolojilerinin temel prensiplerini öğrenerek, bu prensipleri projelerinde nasıl uygulayacaklarını ve çevik bir yaklaşım benimsemelerini sağlayacak beceriler kazanacaklardır. Bu, proje ekiplerinin daha hızlı, esnek ve etkili bir şekilde çalışmasını mümkün kılacaktır.
+
+2. **Scrum ve Kanban Uygulamalarını Derinlemesine Öğrenmek**: Eğitim, Scrum ve Kanban gibi yaygın Agile yöntemlerini kapsamlı bir şekilde ele alacak ve katılımcıların bu yöntemleri projelerinde nasıl etkin bir şekilde kullanabileceklerini gösterecektir. Katılımcılar, Scrum’ın sprint bazlı çalışma modelini ve Kanban’ın görsel iş akışı yönetimini doğru bir şekilde uygulayabileceklerdir.
+
+3. **Çevik Takımlar Oluşturmak ve Yönetmek**: Agile proje yönetimi, takım üyelerinin özelleşmiş görevlerde yetkin olmalarını ve birbirleriyle sürekli iletişim içinde olmalarını gerektirir. Katılımcılar, çevik takımlar oluşturma ve bu takımları verimli bir şekilde yönetme konusunda derinlemesine bilgi edineceklerdir.
+
+4. **Agile Dönüşümünü Sağlamak**: Eğitim, organizasyonlarda Agile dönüşümünü nasıl gerçekleştirebileceğine dair stratejiler sunacak ve katılımcılara bu dönüşümü sağlamak için gerekli becerileri kazandıracaktır. Bu, değişim yönetimi, liderlik yaklaşımları ve organizasyonel kültür değişimlerinin nasıl ele alınacağına dair pratik bilgiler içerir.
+
+5. **İş Birliği ve İletişimi Güçlendirmek**: Agile, takım içi iş birliği ve etkili iletişimi ön planda tutar. Katılımcılar, proje yönetiminde açık ve etkin iletişimin nasıl kurulacağı ve işbirliğinin nasıl güçlendirileceği konularında beceri kazanacaklardır.
+
+6. **Değer Odaklı Proje Yönetimi**: Agile yönetimi, müşteri değeri ve iş sonuçlarına odaklanır. Katılımcılar, projelerde değer yaratmayı ve her adımda müşteri memnuniyetini artırmayı hedefleyen stratejileri nasıl uygulayacaklarını öğreneceklerdir.
+
+7. **Çevik Liderlik ve Koçluk Becerilerini Geliştirmek**: Eğitim, katılımcılara çevik liderlik ve koçluk becerilerini kazandırarak, projelerdeki liderlik rollerini nasıl etkili bir şekilde üstleneceklerini ve ekipleri nasıl yönlendireceklerini öğretecektir.
+
+8. **Sürekli İyileştirme ve Geri Bildirim Kültürünü Kurmak**: Katılımcılar, projelerde sürekli iyileştirme sağlamak ve geri bildirim kültürünü benimsemek için gerekli araç ve teknikleri öğrenerek, projelerin daha verimli hale getirilmesini sağlayacaklardır.
+
+9. **Risk Yönetimi ve Esneklik**: Agile, projelerde esneklik ve hız sağlar. Katılımcılar, riskleri daha hızlı tespit etme ve etkili çözümler üretme becerisi kazanacaklardır.
+
+10. **Agile Araçları ve Tekniklerini Kullanabilmek**: Eğitim, Agile projelerde yaygın olarak kullanılan araçları (örneğin, Jira, Trello, Azure DevOps) etkin bir şekilde kullanma becerisi kazandıracaktır. Katılımcılar, bu araçlarla projelerinin planlamasını, izlenmesini ve yönetilmesini kolaylaştırabileceklerdir.
+
+Bu eğitim, katılımcılara yalnızca Agile yönetim metodolojilerini öğretmekle kalmayacak, aynı zamanda bu bilgileri gerçek projelerde uygulama becerisi kazandırarak, daha verimli ve çevik projeler yürütmelerini sağlayacaktır.
 
 ## Eğitim İçeriği:
 
@@ -144,7 +170,7 @@ Agile Proje Yönetimi, dinamik iş dünyasında daha hızlı, verimli ve esnek p
 - **Etkileşimli Tartışmalar:** Katılımcıların aktif katılım sağlayacağı, soru-cevap şeklinde tartışmalar yapılacak oturumlar.
 - **Proje Tabanlı Öğrenme:** Eğitimin son günü, katılımcıların öğrendiklerini pratikte uygulayacakları kapsamlı bir proje çalışması yapılacak.
 
-### Hedef Kitle
+## Hedef Kitle
 
 1. **Proje Yöneticileri:** Proje yönetimi süreçlerini Agile metodolojisi ile iyileştirmek isteyenler.
 2. **Yazılım Geliştiriciler:** Yazılım geliştirme süreçlerinde Agile uygulamalarını öğrenmek isteyen yazılımcılar.
@@ -156,7 +182,7 @@ Agile Proje Yönetimi, dinamik iş dünyasında daha hızlı, verimli ve esnek p
 8. **Yeni Mezunlar ve Stajyerler:** Proje yönetimi ve yazılım geliştirme alanında kariyer yapmayı hedefleyen yeni mezunlar veya stajyerler.
 9. **Danışmanlar:** Müşterilerine Agile dönüşüm süreçlerinde rehberlik etmek isteyen danışmanlar.
 
-### Beklentilerimiz:
+## Katılımcılardan Beklentilerimiz:
 
 - Katılımcıların temel Linux bilgisine sahip olmaları.
 - Temel seviyede konteyner ve Kubernetes bilgisi önerilir, ancak zorunlu değildir.
