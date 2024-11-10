@@ -16,87 +16,135 @@
 - **Ders Süresi:** 50 dakika
 - **Eğitim Saati:** 10:00 - 17:00
 
-### 1. Dersin Genel Tanıtımı
+## **Agile Yönetimi**
 
-Bu bölümde, kursun genel amacı ve Agile metodolojisinin neden önemli olduğu açıklanacak. Katılımcılar, yazılım geliştirme süreçlerinde neden Agile'a geçiş yapmaları gerektiğini öğrenecekler.
+Agile Proje Yönetimi, dinamik iş dünyasında daha hızlı, verimli ve esnek projeler geliştirebilmek için gerekli olan temel prensipleri ve metodolojileri öğreten kapsamlı bir eğitim programıdır. Bu eğitim, katılımcılara Agile dönüşümünü sağlamak, Scrum ve Kanban gibi uygulamalarla proje yönetiminde çevikliği artırmak için gerekli bilgi ve becerileri kazandırmayı hedefler.
 
-### 2. Agile'a Giden Yol
+## Eğitim İçeriği:
 
-Agile'a geçişin nasıl bir yolculuk olduğu ve neden bu dönüşümün gerekli olduğuna dair genel bir bakış sunulacak.
+### **1. Gün: Agile’a Giriş ve Temelleri**
 
-### 3. Yazılım Geliştirme
+#### 1. **Kursun Genel Tanıtımı**
 
-Yazılım geliştirme süreçlerinin tarihsel gelişimi ve mevcut metodolojiler incelenecek.
+- Eğitimin amacı, katılımcılara genel bakış.
+- Agile metodolojisinin öneminin açıklanması.
+- Katılımcıların Agile’a neden geçmeleri gerektiği hakkında bilgilendirme.
 
-- **Yazılım Geliştirmenin Evrimi**
-- **Dokümantasyonun Değer Zincirindeki Yeri**
-- **Süreci İyileştirme Girişimleri**
-- **Agile Manifestosu**
-- **Yan Bilgi: Değer Nedir?**
+#### 2. **Agile’a Giden Yol**
 
-### 4. Agile Felsefesi
+- Agile’a geçiş süreci: zorluklar, fırsatlar.
+- Dönüşümün neden gerekli olduğu.
+  
+#### 3. **Yazılım Geliştirme Tarihçesi**
 
-Agile'ın temel değerleri ve prensipleri ile uygulamaları kapsamlı bir şekilde açıklanacak.
+- Yazılım geliştirme süreçlerinin tarihsel gelişimi.
+- **Alt Başlıklar:**
+  - Yazılım geliştirmenin evrimi.
+  - Dokümantasyonun proje yönetimindeki rolü.
+  - Süreci iyileştirme girişimleri.
 
-- **Agile Değerleri**
-- **Agile Prensipleri:**
-  1. Müşteri memnuniyeti, değişen gereksinimlere hızlı yanıt vermekle sağlanır.
-  2. Çalışan yazılım, her şeyin üstündedir.
-  3. İş birliği, iş insanları ve geliştiriciler arasında sürekli olarak sürdürülmelidir.
-  4. Yüz yüze iletişim, en etkili bilgi alışverişi yöntemidir.
-  5. Çalışan yazılım, ilerlemenin en önemli ölçüsüdür.
-  6. Sürdürülebilir gelişim, sürekli olarak yüksek bir hızda çalışmayı sağlar.
-  7. Teknik mükemmeliyet ve iyi tasarım, geliştirme hızını artırır.
-  8. En basit çözüm, en iyi çözümdür.
-  9. En iyi mimariler, gereksinimler ve tasarımlar kendiliğinden oluşur.
-  10. Takımlar, en iyi sonuçları sağlamak için birlikte çalışır.
-  11. Düzenli aralıklarla kendini gözden geçirerek, takımlar nasıl daha etkili olabilir, onu belirlemelidir.
-  12. Takımlar, iş birliği yaparak kendilerini sürekli geliştirmelidir.
-- **Agile Bir Metodoloji mi?**
-- **Scrum**
-- **Kanban**
-- **Agile Dönüşüm Nedir?**
-- **Başarılı Bir Dönüşüm**
+#### 4. **Agile Manifestosu**
 
-### 5. Proje Metodolojinizi Geliştirmek
+- Agile manifestosu ve 12 prensip.
+- Değer ve faydanın proje yönetimindeki yeri.
 
-Agile projeleri yönetiminde kullanılan yöntemlerin evrimi.
+---
 
-- **Dersin Tanıtımı**
-- **Proje Ortamlarında Agile Prensipleri**
-- **Başarılı Projelerin Sırrı**
-- **Süreçler ve Agile Proje Yönetimi**
-- **Agile Projelerde Değişimi Kullanmak**
-- **Modül Değerlendirmesi**
+### **2. Gün: Agile’ın Felsefesi ve Yöntemleri**
 
-### 6. Proje Ortamlarında Değer Yaratma
+#### 1. **Agile Felsefesi**
 
-Agile projelerinde değer yaratmanın yolları.
+- Agile'ın temel değerleri ve prensipleri.
+- Müşteri memnuniyeti, hızlı değişime adaptasyon.
 
-- **Modül Tanıtımı**
-- **Agile Ortamlarında Değer Tanımı**
-- **Agile Ortamlarında Artımlı Teslimat**
-- **Artımlı Teslimatın Erdemleri**
-- **Teslimat Ritmini Belirleme**
-- **Sürdürülebilir Agile Gelişimi Sağlama**
-- **Modül Değerlendirmesi**
+#### 2. **Agile Değerleri ve Prensipleri**
 
-### 7. Yüksek Performanslı Takımlar Oluşturma ve Hizmet Etme
+- **Prensipler:**
+  1. Değişen gereksinimlere hızlı yanıt.
+  2. Çalışan yazılımın önemi.
+  3. İş birliği ve iletişim.
 
-Yüksek performanslı takımlar oluşturmanın temelleri.
+#### 3. **Agile Yöntemleri: Scrum ve Kanban**
 
-- **Modül Tanıtımı**
-- **Agile Ortamlarında Proje Liderleri**
-- **Agile Takım Motivasyonunu Anlamak**
-- **Yüksek Performanslı Takım ve Lider Özellikleri**
-- **Agile Takım Organizasyonu**
-- **Agile Takım İletişimi**
+- Agile bir metodoloji mi?
+- Scrum ve Kanban metodolojileri.
+- Scrum ve Kanban’ın kullanım alanları, avantajları.
 
-### 8. Sonuç
+#### 4. **Agile Dönüşüm**
 
-Eğitimin genel bir özeti yapılacak, katılımcılara öğrendiklerini nasıl uygulayacakları konusunda öneriler sunulacak.
+- Agile dönüşüm nedir?
+- Başarılı bir Agile dönüşümü nasıl sağlanır?
 
-### Katılımcı Profili
+---
+
+### **3. Gün: Scrum ve Kanban Uygulamaları**
+
+#### 1. **Scrum Framework’ü**
+
+- Scrum nedir, ne zaman tercih edilir?
+- Scrum’un 3 temel rolü (Product Owner, Scrum Master, Development Team).
+
+#### 2. **Scrum Süreçleri**
+
+- Sprint, Daily Scrum, Sprint Review ve Retrospective süreçleri.
+- Scrum araçları: Product Backlog, Sprint Backlog yönetimi.
+  
+#### 3. **Kanban Yöntemi**
+
+- Kanban'ın temelleri.
+- İş akışını görselleştirme ve sürekli iyileştirme.
+
+#### 4. **Scrum ve Kanban Karşılaştırması**
+
+- İki metodolojinin farkları.
+- Hangisini, hangi durumda kullanmalı?
+
+---
+
+### **4. Gün: Proje Yönetimi ve Değer Yaratma**
+
+#### 1. **Agile Proje Yönetimi**
+
+- Proje ortamlarında Agile prensiplerinin uygulanması.
+- Başarılı projelerin sırları: çeviklik, iş birliği, iletişim.
+
+#### 2. **Değer Yaratma**
+
+- Agile projelerde değer yaratma yolları.
+- Artımlı teslimatın önemi.
+  
+#### 3. **Teslimat ve İlerleme Takibi**
+
+- Agile'da teslimat ritmi nasıl belirlenir?
+- Sürdürülebilir Agile gelişimi sağlama yöntemleri.
+
+---
+
+### **5. Gün: Yüksek Performanslı Takımlar ve Proje Kapanışı**
+
+#### 1. **Yüksek Performanslı Takımlar**
+
+- Agile takımlarında liderlik ve motivasyon.
+- Takım organizasyonu ve iş birliği.
+  
+#### 2. **Agile Takım İletişimi**
+
+- Agile’da takım içi ve müşteri ile iletişim.
+- İletişimin projeye katkıları.
+
+#### 3. **Eğitim Kapanışı ve Genel Değerlendirme**
+
+- Modül değerlendirmesi.
+- Katılımcılardan geri bildirimler ve sonuçlar.  
+
+## Eğitim Yöntemi:
+
+- **Teorik Bilgi:** Güncel bilgiler ve konseptlerin anlatımı.
+- **Uygulamalı Örnekler:** Gerçek senaryolarla pratik uygulamalar.
+- **Etkileşimli Tartışmalar:** Katılımcıların aktif katılım sağlayacağı, soru-cevap şeklinde tartışmalar yapılacak oturumlar.
+- **Proje Tabanlı Öğrenme:** Eğitimin son günü, katılımcıların öğrendiklerini pratikte uygulayacakları kapsamlı bir proje çalışması yapılacak.
+
+### Hedef Kitle
 
 1. **Proje Yöneticileri:** Proje yönetimi süreçlerini Agile metodolojisi ile iyileştirmek isteyenler.
 2. **Yazılım Geliştiriciler:** Yazılım geliştirme süreçlerinde Agile uygulamalarını öğrenmek isteyen yazılımcılar.
@@ -107,5 +155,11 @@ Eğitimin genel bir özeti yapılacak, katılımcılara öğrendiklerini nasıl 
 7. **Yönetim ve Üst Düzey Yöneticiler:** Organizasyonel düzeyde Agile dönüşümünü desteklemek isteyen yöneticiler.
 8. **Yeni Mezunlar ve Stajyerler:** Proje yönetimi ve yazılım geliştirme alanında kariyer yapmayı hedefleyen yeni mezunlar veya stajyerler.
 9. **Danışmanlar:** Müşterilerine Agile dönüşüm süreçlerinde rehberlik etmek isteyen danışmanlar.
+
+### Beklentilerimiz:
+
+- Katılımcıların temel Linux bilgisine sahip olmaları.
+- Temel seviyede konteyner ve Kubernetes bilgisi önerilir, ancak zorunlu değildir.
+- Aktif katılım ve öğrenme isteği.
 
 [Eğitim ana materyalleri, sadece eğitmenler için](https://github.com/TuncerKARAARSLAN-VB/training-kit-cevik-proje-yonetimi)

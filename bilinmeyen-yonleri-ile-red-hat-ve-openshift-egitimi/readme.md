@@ -1,4 +1,6 @@
-# Bilinmeyen Yönleri ile Red Hat ve OpenShift Eğitimi
+# **Bilinmeyen Yönleri ile Red Hat ve OpenShift Eğitimi**
+
+![](redhat-openshift.webp)
 
 ## Eğitim Süresi:
 
@@ -14,9 +16,15 @@
 - **Ders Süresi:** 50 dakika
 - **Eğitim Saati:** 10:00 - 17:00
 
+## **Bilinmeyen Yönleri ile Red Hat ve OpenShift Eğitimi**
+
+Kurumsal altyapınızın gerçek gücünü ortaya çıkarmaya hazır mısınız? Bu eğitim, Red Hat ve OpenShift teknolojilerinin gizli kalan özelliklerini kullanarak sistemlerinizi daha verimli, güvenli ve ölçeklenebilir hale getirmenizi sağlar. AlmaLinux ve OpenShift’in sunduğu ileri düzey çözümlerle kurumunuzun dijital dönüşümünü hızlandırın. Bu eğitim, sistem yöneticileri, DevOps mühendisleri ve teknoloji liderlerine, kurumsal seviyede konteyner tabanlı uygulamaların yönetimi ve otomasyonu konusunda derinlemesine bilgi kazandırmak için tasarlanmıştır. Kurumunuzun teknolojik gücünü en üst seviyeye çıkarın!
+
+AlmaLinux Redhat ücretsiz dağıtımıdır. Birebir redhat ile aynı özelliklere sahiptir. OpenShift ise Redhat tarafından geliştirilen bir konteyner yönetim platformudur. OpenShift, konteyner tabanlı uygulamaları oluşturmak için kullanılır. ALmalinux üzerine openshift kurmak uzmanlık gerektirir. Bu eğitim ile openshift kurulumu ve yönetimi hakkında bilgi edineceksiniz.
+
 ## Eğitim Hedefi:
 
-Bu eğitim, katılımcıların Red Hat ve OpenShift teknolojilerini ileri düzeyde anlamalarını ve kurumsal ortamlarda bu sistemleri etkin bir şekilde kullanabilmelerini hedeflemektedir. Eğitimin sonunda, Red Hat Enterprise Linux (RHEL) işletim sistemi ile güçlü bir altyapı kurma ve OpenShift platformunda konteyner tabanlı uygulamaların yönetimi, dağıtımı ve otomasyonunu gerçekleştirebilir hale gelmeyi amaçlıyoruz. Katılımcılar, Red Hat ve OpenShift'in az bilinen fakat güçlü özelliklerini keşfedecek, bu teknolojilerle sistemlerini daha verimli ve güvenli hale getirmeyi öğreneceklerdir. Redhat lisanslı bir sürüm olduğu için katılımcıların almalinux üzerinden eğitimleri verilecek. Almalinux redhat ekibi tarafından geliştirilen ve redhat ile birebir aynı sürümdür. Özellikle eğitimlerde kullanılmak için tasarlanmıştır. 
+Bu eğitim, katılımcıların Red Hat ve OpenShift teknolojilerini ileri düzeyde anlamalarını ve kurumsal ortamlarda bu sistemleri etkin bir şekilde kullanabilmelerini hedeflemektedir. Eğitimin sonunda, Red Hat Enterprise Linux (RHEL) işletim sistemi ile güçlü bir altyapı kurma ve OpenShift platformunda konteyner tabanlı uygulamaların yönetimi, dağıtımı ve otomasyonunu gerçekleştirebilir hale gelmeyi amaçlıyoruz. Katılımcılar, Red Hat ve OpenShift'in az bilinen fakat güçlü özelliklerini keşfedecek, bu teknolojilerle sistemlerini daha verimli ve güvenli hale getirmeyi öğreneceklerdir. Redhat lisanslı bir sürüm olduğu için katılımcıların almalinux üzerinden eğitimleri verilecek. Almalinux redhat ekibi tarafından geliştirilen ve redhat ile birebir aynı sürümdür. Özellikle eğitimlerde kullanılmak için tasarlanmıştır.
 
 **Alma Linux Güncellemesi:** Bu eğitim, katılımcıların AlmaLinux ve OpenShift teknolojilerini ileri düzeyde anlamalarını ve kurumsal ortamlarda bu sistemleri etkin bir şekilde kullanabilmelerini hedeflemektedir. Eğitimin sonunda, AlmaLinux tabanlı bir işletim sistemi üzerinde güçlü bir altyapı kurma ve OpenShift platformunda konteyner tabanlı uygulamaların yönetimi, dağıtımı ve otomasyonunu gerçekleştirebilir hale gelmeyi amaçlıyoruz. Katılımcılar, AlmaLinux ve OpenShift'in az bilinen fakat güçlü özelliklerini keşfedecek, bu teknolojilerle sistemlerini daha verimli ve güvenli hale getirmeyi öğreneceklerdir.
 
