@@ -1,22 +1,50 @@
-# Yüksek Güvenlikli Kod ve Uygulama Geliştirmek
+# **Yüksek Güvenlikli Kod ve Uygulama Geliştirmek**
 
 ![](yuksek-guvenlikli-kod-gelistirme.webp)
 
-## Eğitim Süresi:
+[Download PDF Version](./code-security.pdf)
 
-**Format 1**
+## **Eğitim Süresi**
 
-- **5 Gün**
-- **Ders Süresi:** 50 dakika
-- **Eğitim Saati:** 10:00 - 17:00
+- **Format 1**
+  - **5 Gün**
+  - **Ders Süresi:** 50 dakika
+  - **Eğitim Saati:** 10:00 - 17:00
 
-**Format 2**
+- **Format 2**
+  - **12 Gün**
+  - **Ders Süresi:** 50 dakika
+  - **Eğitim Saati:** 10:00 - 17:00
 
-- **12 Gün**
-- **Ders Süresi:** 50 dakika
-- **Eğitim Saati:** 10:00 - 17:00
+- > Her iki eğitim formatında eğitimler 50 dakika + 10 dakika moladır. 12:00-13:00 saatleri arasında 1 saat yemek arasındaki verilir. Günde toplam 6 saat eğitim verilir. 5 günlük formatta 30 saat eğitim, 12 günlük formatta toplam 72 saat eğitim verilmektedir. 12 saatlik eğitmde katılımcılar kod yazar ve eğitmenle birlikte sorulan sorulara ve taleplere uygun içerikler ve örnekler çalışılır.
 
-Kod güvenliği ve yüksek güvenlikli uygulama geliştirme eğitimi için aşağıdaki kapsamlı eğitim içeriği önerilebilir. Bu eğitim, yazılım geliştiricilerin güvenli kod yazma becerilerini geliştirmeye ve güvenli uygulama geliştirme süreçlerini öğrenmeye odaklanacaktır.
+- > Eğitimler uzaktan eğitim formatında tasarlanmıştır. Her eğitim için teams linkleri gönderilir. Katılımcılar bu linklere girerek eğitimlere katılırlar. Ayrıca farklı remote çalışma araçları da eğitmen tarafından tüm katılımlara sunulur. Katılımcılar bu araçları kullanarak eğitimlere katılırlar. 
+
+- > Eğitim içeriğinde github ve codespace kullanılır. Katılımcılar bu platformlar üzerinden örnek projeler oluşturur ve eğitmenle birlikte eğitimlerde sorulan sorulara ve taleplere uygun iceriğe cevap verir. Katılımcılar bu araçlarla eğitimlerde sorulan sorulara ve taleplere uygun iceriğe cevap verir.
+
+- > Eğitim yapay zeka destekli kendi kendine öğrenme formasyonu ile tasarlanmıştır. Katılımcılar eğitim boyunca kendi kendine öğrenme formasyonu ile eğitimlere katılırlar. Bu eğitim formatı sayesinde tüm katılımcılar gelecek tüm yaşamlarında kendilerini güncellemeye devam edebilecekler ve her türlü sorunun karşısında çözüm bulabilecekleri yeteneklere sahip olacaklardır.
+
+## **Yüksek Güvenlikli Kod Gelitirmek**
+
+Teknolojinin hızla gelişmesiyle birlikte yazılım güvenliği, her geçen gün daha kritik bir öneme sahip olmaktadır. Siber saldırıların artan sıklığı, güvenlik açıklarının hızla kötüye kullanılmasına yol açmakta ve hem bireyler hem de kurumlar için büyük riskler yaratmaktadır. Bu bağlamda, yazılım geliştiricilerinin güvenli yazılım geliştirme süreçleri hakkında derinlemesine bilgi sahibi olmaları hayati önem taşır.
+
+## **Eğitim Hedefi**
+
+Bu eğitimin temel hedefi, katılımcılara yazılım güvenliği konusunda kapsamlı bir bilgi ve beceri kazandırmaktır. Katılımcılar, yazılım geliştirme süreçlerinde karşılaşılan güvenlik açıklarını tanıyıp etkili bir şekilde çözebilecek bilgiye sahip olacaklar. Eğitimin sonunda katılımcılar, güvenli kod yazma tekniklerini uygulayarak, yazılım projelerinde güvenlik önlemlerini entegre edebilecek, siber tehditlere karşı proaktif bir yaklaşım sergileyebilecektir.
+
+1. **Yazılım Güvenliği Temellerini Öğrenmek:** Güvenlik açıkları, tehditler ve güvenli yazılım geliştirme kavramlarını anlamak.
+2. **Yaygın Güvenlik Açıkları ve Çözümleri:** OWASP Top Ten gibi yaygın güvenlik açıklarını tespit etme ve bu açıkları nasıl önleyebileceğini öğrenmek.
+3. **Güvenli Kod Yazma Teknikleri:** Güvenli yazılım geliştirme metodolojilerini uygulayarak, güvenli kod yazma becerisi kazanmak.
+4. **Güvenlik Testlerini Uygulamak:** Penetrasyon testleri ve güvenlik taramaları gibi test yöntemlerini öğrenmek ve uygulamak.
+5. **Güvenli Yazılım Mimarisi ve Tasarımı:** Güvenli yazılım mimarisi ve tasarım prensiplerini anlamak ve bu bilgileri projelere entegre etmek.
+6. **Güncel Güvenlik Trendlerini Takip Etmek:** Bulut güvenliği, IoT güvenliği gibi güncel konularda bilgi sahibi olmak ve gelecekteki tehditlere karşı hazırlıklı olmak.
+7. **Proaktif Güvenlik Yönetimi:** Güvenlik politikaları oluşturmak, güvenlik bilincini artırmak ve yazılım geliştirme süreçlerinde güvenlik önlemleri almak.
+
+<div style="page-break-after: always;"></div>
+
+## **Eğitim İçeriği**
+
+![](guvenlikli-kod-gelistirme.jpg)
 
 ## 1. **Giriş ve Temel Kavramlar**
 
@@ -143,4 +171,69 @@ Kod güvenliği ve yüksek güvenlikli uygulama geliştirme eğitimi için aşa�
 - Güvenli yazılım geliştirme projelerinde karşılaşılan zorluklar ve çözümleri
 - Grup çalışmaları ve uygulamalı projelerle güvenlik becerilerinin pekiştirilmesi
 
+<div style="page-break-after: always;"></div>
+
+## **Eğitim Yöntemi**
+
+- **Teorik Bilgi:** Güncel bilgiler ve konseptlerin anlatımı.
+- **Uygulamalı Örnekler:** Gerçek senaryolarla pratik uygulamalar.
+- **Etkileşimli Tartışmalar:** Katılımcıların aktif katılım sağlayacağı, soru-cevap şeklinde tartışmalar yapılacak oturumlar.
+- **Proje Tabanlı Öğrenme:** Eğitimin son günü, katılımcıların öğrendiklerini pratikte uygulayacakları kapsamlı bir proje çalışması yapılacak.
+
+## **Hedef Kitle**
+
+1. **Yazılım Geliştiriciler ve Programcılar:**
+   - Yazılım geliştiren ve güvenli yazılım uygulamaları oluşturmak isteyen yazılımcılar, yazılım güvenliği konularında bilgi ve becerilerini artırmak amacıyla bu eğitime katılabilir.
+   - Mevcut projelerde güvenlik önlemleri almayı hedefleyen yazılımcılar, güvenlik açıklarını tespit etme ve düzeltme becerisi kazanacaktır.
+
+2. **DevOps ve Sistem Yöneticileri:**
+   - Yazılım geliştirme ve dağıtım süreçlerinde güvenliği sağlamakla sorumlu olan DevOps mühendisleri ve sistem yöneticileri, altyapı ve uygulama güvenliğini güçlendirecek yeni teknikler öğrenebilir.
+   - Güvenli altyapı yönetimi ve yazılım dağıtımı için gerekli bilgileri bu eğitimde bulacaklardır.
+
+3. **Yazılım Mimarı ve Tasarımcılar:**
+   - Yazılımın güvenliğini tasarlama ve güvenli yazılım mimarileri oluşturma konusunda bilgi sahibi olmak isteyen yazılım mimarları ve tasarımcıları, güvenlikli yazılım geliştirme ilkelerini öğrenmek için bu eğitimi alabilirler.
+   - Uygulama tasarımı ve sistem mimarisi aşamalarında güvenliği ön plana çıkaran mimarlar, eğitim ile kritik güvenlik tasarımlarını öğrenme fırsatı bulacaklardır.
+
+4. **Kalite Güvence (QA) ve Test Uzmanları:**
+   - Yazılım ürünlerinin güvenlik testlerini gerçekleştiren ve güvenlik açıklarını tespit etmek için testler yapan QA uzmanları ve test mühendisleri, güvenlik testleri konusunda daha derinlemesine bilgi edinmek isteyebilir.
+   - Güvenlik açıklarını doğru şekilde test edebilmek ve yönetmek için gerekli teknik bilgiyi sağlayacaklardır.
+
+5. **Proje Yöneticileri ve Liderler:**
+   - Yazılım projelerinin yönetiminden sorumlu olan, proje güvenliğini sağlamak isteyen proje yöneticileri ve liderler, güvenli yazılım geliştirme süreçlerini anlamak ve proje ekiplerini bu doğrultuda yönlendirmek amacıyla bu eğitimi alabilirler.
+   - Projelerinde güvenliği en baştan planlayarak, yazılım geliştirme döngüsünde güvenlik açıklarını minimize etmeyi hedefleyen yöneticiler için faydalı olacaktır.
+
+6. **Güvenlik Uzmanları:**
+   - Yazılım güvenliği üzerine uzmanlaşmak isteyen ve güvenlik testlerini uygulayarak yazılımlarda güvenlik açıklarını bulmak isteyen profesyoneller, bu eğitimde yeni güvenlik yöntemlerini öğrenebilirler.
+   - Güvenlik uzmanları, yazılım geliştirme süreçlerinde güvenlik tehditlerine karşı korunma yöntemlerini derinlemesine inceleyebilirler.
+
+7. **Yeni Başlayan Yazılım Geliştiriciler:**
+   - Yazılım geliştirme alanında kariyerine yeni başlayan ve güvenli yazılım geliştirme konusuna ilgi duyan kişiler, bu eğitimi alarak temel güvenlik bilgilerini öğrenebilirler.
+   - Temel güvenlik kavramlarını anlamak ve uygulamalarında güvenliği sağlamak isteyen yeni yazılımcılar için temel düzeyde bir eğitim sağlanacaktır.
+
+## **Katılımcılardan Beklentilerimiz**
+
+1. **Aktif Katılım:**
+   - Katılımcıların eğitim boyunca aktif bir şekilde derse katılmaları ve sorular sormaları beklenmektedir. Eğitim içeriği interaktif olduğundan, katılımcıların tartışmalara katılması, grup çalışmaları ve örnek vakalar üzerinden görüş paylaşmaları önemli olacaktır.
+
+2. **Temel Yazılım Bilgisi:**
+   - Eğitim, yazılım geliştirme ve güvenlik konularında temel bilgiye sahip katılımcılara yönelik tasarlanmıştır. Katılımcıların yazılım geliştirme süreçleri hakkında temel bilgilere sahip olmaları ve temel programlama bilgisine sahip olmaları beklenmektedir.
+
+3. **Pratik Uygulamalara Katılım:**
+   - Eğitimde verilen teorik bilgilerin pekiştirilmesi amacıyla pratik uygulamalar yapılacaktır. Katılımcıların uygulamalı bölümlere aktif katılım göstermeleri ve öğrendikleri bilgileri gerçek dünya senaryolarına uygulamaları beklenmektedir.
+
+4. **Öğrenmeye Açıklık:**
+   - Eğitim süreci boyunca yeni güvenlik teknikleri ve yazılım geliştirme yöntemleri hakkında bilgi edinilecek ve mevcut bilgi seviyesini geliştirmeye yönelik bir yaklaşım benimsenmesi gerekmektedir. Katılımcıların yeni bilgilere açık olmaları ve gelişen güvenlik trendleri hakkında öğrenmeye istekli olmaları önemlidir.
+
+5. **Sürekli İletişim ve Geri Bildirim:**
+   - Eğitim sırasında katılımcıların soruları ve geri bildirimleri eğitimin kalitesini artıracaktır. Katılımcılardan, eğitim sırasında ortaya çıkan herhangi bir soruyu eğitmenlere yöneltmeleri ve öğrenme sürecini verimli kılmak adına geri bildirimde bulunmaları beklenmektedir.
+
+6. **Proje ve Uygulama Çalışmaları:**
+   - Katılımcıların eğitimde yer alan proje ve uygulama çalışmalarını zamanında ve dikkatlice tamamlamaları beklenmektedir. Bu çalışmalar, katılımcıların öğrendikleri teorik bilgileri pratikte nasıl uygulayacaklarını anlamalarına yardımcı olacaktır.
+
+7. **Ekip Çalışması ve İşbirliği:**
+   - Eğitimde grup çalışmaları ve ekip içi işbirliği öne çıkacaktır. Katılımcıların, grup çalışmaları sırasında birbirleriyle işbirliği yapmaları, bilgi paylaşımı ve birlikte çözüm üretme yeteneklerini kullanmaları beklenmektedir.
+
+8. **Yazılım Güvenliği Bilincine Katkı:**
+   - Katılımcıların, güvenli yazılım geliştirme konularında kazandıkları bilgileri işyerlerinde ve günlük projelerinde uygulamaları ve bu bilgiyi başkalarına aktararak yazılım güvenliği bilincinin arttırılmasına katkı sağlamaları beklenmektedir.
+  
 [Eğitim ana materyalleri, sadece eğitmenler için](https://github.com/TuncerKARAARSLAN-VB/training-kit-yuksek-guvenlikli-kod-ve-uygulama-gelistirme)
