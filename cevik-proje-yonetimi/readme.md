@@ -2,19 +2,25 @@
 
 ![](agile.webp)
 
-## Eğitim Süresi:
+## **Eğitim Süresi**
 
-**Format 1**
+- **Format 1**
+  - **5 Gün**
+  - **Ders Süresi:** 50 dakika
+  - **Eğitim Saati:** 10:00 - 17:00
 
-- **5 Gün**
-- **Ders Süresi:** 50 dakika
-- **Eğitim Saati:** 10:00 - 17:00
+- **Format 2**
+  - **12 Gün**
+  - **Ders Süresi:** 50 dakika
+  - **Eğitim Saati:** 10:00 - 17:00
 
-**Format 2**
+- > Her iki eğitim formatında eğitimler 50 dakika + 10 dakika moladır. 12:00-13:00 saatleri arasında 1 saat yemek arasındaki verilir. Günde toplam 6 saat eğitim verilir. 5 günlük formatta 30 saat eğitim, 12 günlük formatta toplam 72 saat eğitim verilmektedir. 12 saatlik eğitmde katılımcılar kod yazar ve eğitmenle birlikte sorulan sorulara ve taleplere uygun içerikler ve örnekler çalışılır.
 
-- **12 Gün**
-- **Ders Süresi:** 50 dakika
-- **Eğitim Saati:** 10:00 - 17:00
+- > Eğitimler uzaktan eğitim formatında tasarlanmıştır. Her eğitim için teams linkleri gönderilir. Katılımcılar bu linklere girerek eğitimlere katılırlar. Ayrıca farklı remote çalışma araçları da eğitmen tarafından tüm katılımlara sunulur. Katılımcılar bu araçları kullanarak eğitimlere katılırlar. 
+
+- > Eğitim içeriğinde github ve codespace kullanılır. Katılımcılar bu platformlar üzerinden örnek projeler oluşturur ve eğitmenle birlikte eğitimlerde sorulan sorulara ve taleplere uygun iceriğe cevap verir. Katılımcılar bu araçlarla eğitimlerde sorulan sorulara ve taleplere uygun iceriğe cevap verir.
+
+- > Eğitim yapay zeka destekli kendi kendine öğrenme formasyonu ile tasarlanmıştır. Katılımcılar eğitim boyunca kendi kendine öğrenme formasyonu ile eğitimlere katılırlar. Bu eğitim formatı sayesinde tüm katılımcılar gelecek tüm yaşamlarında kendilerini güncellemeye devam edebilecekler ve her türlü sorunun karşısında çözüm bulabilecekleri yeteneklere sahip olacaklardır.  
 
 ## **Agile Yönetimi**
 
@@ -22,7 +28,7 @@ Agile Yönetimi, geleneksel ve hiyerarşik proje yönetimi yöntemlerinin sını
 
 Agile Yönetimi, yazılım geliştirme dünyasında ortaya çıkmış olsa da, günümüzde çok farklı sektörlerde ve organizasyonel yapılarla uygulanmaya başlanmıştır. Bu yaklaşım, projelerin daha dinamik bir şekilde yönetilmesine olanak sağlar ve hedeflere ulaşmak için gerekli olan esnekliği sunar. Temel amacı, projelerin sürekli olarak gözden geçirilmesi, uyarlanması ve geliştirilmesidir. Geleneksel metodolojilerin aksine, Agile proje yönetimi, değişime ve belirsizliğe daha hızlı tepki verebilir.
 
-## **Eğitimin Hedefleri**
+## **Eğitim Hedefi**
 
 1. **Agile Prensiplerini Anlamak ve Uygulamak**: Katılımcılar, Agile metodolojilerinin temel prensiplerini öğrenerek, bu prensipleri projelerinde nasıl uygulayacaklarını ve çevik bir yaklaşım benimsemelerini sağlayacak beceriler kazanacaklardır. Bu, proje ekiplerinin daha hızlı, esnek ve etkili bir şekilde çalışmasını mümkün kılacaktır.
 
@@ -46,124 +52,79 @@ Agile Yönetimi, yazılım geliştirme dünyasında ortaya çıkmış olsa da, g
 
 Bu eğitim, katılımcılara yalnızca Agile yönetim metodolojilerini öğretmekle kalmayacak, aynı zamanda bu bilgileri gerçek projelerde uygulama becerisi kazandırarak, daha verimli ve çevik projeler yürütmelerini sağlayacaktır.
 
-## Eğitim İçeriği:
+<div style="page-break-after: always;"></div>
 
-### **1. Gün: Agile’a Giriş ve Temelleri**
+## **Eğitim İçeriği**
 
-#### 1. **Kursun Genel Tanıtımı**
+### **Agile Yönetim Metodolojileri - Uygulamalı Senaryolar İle**  
 
-- Eğitimin amacı, katılımcılara genel bakış.
-- Agile metodolojisinin öneminin açıklanması.
-- Katılımcıların Agile’a neden geçmeleri gerektiği hakkında bilgilendirme.
+#### **Agile Yolculuğuna İlk Adım: Bir Takım Hikayesi**  
 
-#### 2. **Agile’a Giden Yol**
+- **Senaryo:** Bir yazılım geliştirme şirketi, müşteri memnuniyeti düşük ve projeler zamanında teslim edilemiyor. Takımın, geleneksel yöntemlerden çevik yaklaşıma geçiş hikayesi ile başlıyoruz.  
+- **İçerik:**  
+  - Agile'ın ne olduğunu gerçek bir iş dünyası örneği üzerinden açıklama.  
+  - Agile’a geçişin zorlukları ve başarı hikayeleri.  
+  - Katılımcıların kendi deneyimlerini paylaşmaları için grup tartışmaları.  
 
-- Agile’a geçiş süreci: zorluklar, fırsatlar.
-- Dönüşümün neden gerekli olduğu.
-  
-#### 3. **Yazılım Geliştirme Tarihçesi**
+#### **Agile Manifestosu: İlham Veren Bir Değişim**  
 
-- Yazılım geliştirme süreçlerinin tarihsel gelişimi.
-- **Alt Başlıklar:**
-  - Yazılım geliştirmenin evrimi.
-  - Dokümantasyonun proje yönetimindeki rolü.
-  - Süreci iyileştirme girişimleri.
+- **Senaryo:** Bir müşterinin değişen talepleri nedeniyle sürekli yön değiştiren bir projeyi kurtarmak için Agile manifestosunun uygulanışı.  
+- **İçerik:**  
+  - Agile manifestosu ve 12 prensip, örnek olaylarla açıklanır.  
+  - Manifesto değerlerini uygulamayan bir ekibin düşüşü ve bu değerlerin benimsenmesiyle gelen başarı.  
+  - Katılımcılar, manifestoyu kendi projelerine nasıl adapte edebileceklerini tartışır.  
 
-#### 4. **Agile Manifestosu**
+#### **Scrum ile Başarıya Koşmak: Bir Futbol Maçı Analojisi**  
 
-- Agile manifestosu ve 12 prensip.
-- Değer ve faydanın proje yönetimindeki yeri.
+- **Senaryo:** Bir futbol takımı gibi çalışan bir ekip hayal edin. Hangi oyuncunun hangi pozisyonda olduğuna karar veriliyor ve stratejiyle bir maçı kazanıyorlar.  
+- **İçerik:**  
+  - Scrum’un temel rolleri (Product Owner, Scrum Master, Development Team), futbol analojisiyle anlatılır.  
+  - Sprint planlaması, maç hazırlığı gibi detaylandırılır.  
+  - Katılımcılar, kendi Scrum takımlarını oluşturup kısa bir “Sprint” simülasyonu yaparlar.  
 
----
+#### **Kanban ile Süreç Yönetimi: Uçak Yönlendirme Hikayesi**  
 
-### **2. Gün: Agile’ın Felsefesi ve Yöntemleri**
+- **Senaryo:** Bir havaalanındaki uçak yönlendirme sistemi gibi, sürekli iyileştirme ve iş akışını görselleştirerek işlerin yönetilmesi.  
+- **İçerik:**  
+  - Kanban’ın temelleri, iş akışını görselleştirme.  
+  - "To-Do", "In-Progress", "Done" aşamaları üzerinden örnek bir pano oluşturulur.  
+  - Katılımcılar, kendi panolarını tasarlayıp ekip süreçlerini simüle eder.  
 
-#### 1. **Agile Felsefesi**
+#### **Agile Proje Yönetimi: Teknoloji Şirketi Dönüşümü**  
 
-- Agile'ın temel değerleri ve prensipleri.
-- Müşteri memnuniyeti, hızlı değişime adaptasyon.
+- **Senaryo:** Bir teknoloji şirketi, geleneksel yöntemlerle müşteri kaybederken Agile proje yönetimini benimseyerek sektörde liderliğe yükseliyor.  
+- **İçerik:**  
+  - Agile prensiplerinin gerçek bir iş ortamına entegrasyonu.  
+  - Değer yaratmanın yolları: Minimum Viable Product (MVP) geliştirme süreci.  
+  - Katılımcılar, kendi projelerinde değer yaratmak için fikir üretiyor.  
 
-#### 2. **Agile Değerleri ve Prensipleri**
+#### **Yüksek Performanslı Takımlar: Dağ Tırmanışı Simülasyonu**  
 
-- **Prensipler:**
-  1. Değişen gereksinimlere hızlı yanıt.
-  2. Çalışan yazılımın önemi.
-  3. İş birliği ve iletişim.
+- **Senaryo:** Bir dağ tırmanışı ekibi gibi çalışarak zirveye ulaşmak. Herkesin görevi net, liderlik ve takım çalışması olmazsa hedefe ulaşmak imkânsız.  
+- **İçerik:**  
+  - Takım içi rollerin önemi ve liderlik.  
+  - Agile takımlarında motivasyon artırıcı yöntemler.  
+  - Katılımcılar, bir ekip oluşturup belirli hedeflere ulaşmak için bir “tırmanış” simülasyonu gerçekleştirir.  
 
-#### 3. **Agile Yöntemleri: Scrum ve Kanban**
+#### **Teslimat ve İlerleme Takibi: Roket Başlatma Görevi**  
 
-- Agile bir metodoloji mi?
-- Scrum ve Kanban metodolojileri.
-- Scrum ve Kanban’ın kullanım alanları, avantajları.
+- **Senaryo:** Bir uzay görevi hazırlığı, teslimat ritmi belirlenerek adım adım başarıya ulaşılır.  
+- **İçerik:**  
+  - Teslimat ritmi belirleme ve sürdürülebilir gelişim.  
+  - Artımlı teslimatın önemi: Her aşama bir roket modülü gibi düşünülür.  
+  - Katılımcılar, kendi “roket görevlerini” planlayıp uygulamalarını tasarlar.  
 
-#### 4. **Agile Dönüşüm**
+#### **Eğitim Kapanışı: Kendi Agile Hikayenizi Yazın**  
 
-- Agile dönüşüm nedir?
-- Başarılı bir Agile dönüşümü nasıl sağlanır?
+- **Senaryo:** Katılımcılar, öğrendikleri bilgilerle kendi Agile başarı hikayelerini tasarlar ve paylaşır.  
+- **İçerik:**  
+  - Öğrenilenlerin değerlendirilmesi.  
+  - Katılımcılara, projelerinde kullanabilecekleri kişisel stratejiler geliştirme fırsatı.  
+  - Eğitimin sonunda, bireysel ve takım bazlı ödüllerle motivasyon artırılır.  
 
----
+<div style="page-break-after: always;"></div>
 
-### **3. Gün: Scrum ve Kanban Uygulamaları**
-
-#### 1. **Scrum Framework’ü**
-
-- Scrum nedir, ne zaman tercih edilir?
-- Scrum’un 3 temel rolü (Product Owner, Scrum Master, Development Team).
-
-#### 2. **Scrum Süreçleri**
-
-- Sprint, Daily Scrum, Sprint Review ve Retrospective süreçleri.
-- Scrum araçları: Product Backlog, Sprint Backlog yönetimi.
-  
-#### 3. **Kanban Yöntemi**
-
-- Kanban'ın temelleri.
-- İş akışını görselleştirme ve sürekli iyileştirme.
-
-#### 4. **Scrum ve Kanban Karşılaştırması**
-
-- İki metodolojinin farkları.
-- Hangisini, hangi durumda kullanmalı?
-
----
-
-### **4. Gün: Proje Yönetimi ve Değer Yaratma**
-
-#### 1. **Agile Proje Yönetimi**
-
-- Proje ortamlarında Agile prensiplerinin uygulanması.
-- Başarılı projelerin sırları: çeviklik, iş birliği, iletişim.
-
-#### 2. **Değer Yaratma**
-
-- Agile projelerde değer yaratma yolları.
-- Artımlı teslimatın önemi.
-  
-#### 3. **Teslimat ve İlerleme Takibi**
-
-- Agile'da teslimat ritmi nasıl belirlenir?
-- Sürdürülebilir Agile gelişimi sağlama yöntemleri.
-
----
-
-### **5. Gün: Yüksek Performanslı Takımlar ve Proje Kapanışı**
-
-#### 1. **Yüksek Performanslı Takımlar**
-
-- Agile takımlarında liderlik ve motivasyon.
-- Takım organizasyonu ve iş birliği.
-  
-#### 2. **Agile Takım İletişimi**
-
-- Agile’da takım içi ve müşteri ile iletişim.
-- İletişimin projeye katkıları.
-
-#### 3. **Eğitim Kapanışı ve Genel Değerlendirme**
-
-- Modül değerlendirmesi.
-- Katılımcılardan geri bildirimler ve sonuçlar.  
-
-## Eğitim Yöntemi:
+## **Eğitim Yöntemi**
 
 - **Teorik Bilgi:** Güncel bilgiler ve konseptlerin anlatımı.
 - **Uygulamalı Örnekler:** Gerçek senaryolarla pratik uygulamalar.

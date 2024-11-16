@@ -30,148 +30,154 @@ Bu 5 günlük eğitim, katılımcıların mikroservis mimarisine dair sağlam bi
 
 ## Eğitim İçeriği:
 
-### **1. Gün: Mikro Servis Mimarisi ve Temelleri**
+### **Bölüm 1: Microservis Mimarisi ve C# ile Geliştirme**
 
-**1.1. Mikro Servis Mimarisi Tanıtımı**
+1. **Microservis Mimarisi Nedir?**
+   - **Microservislerin Tanımı ve Temel Kavramlar:**
+     - Microservislerin tanımı, monolitik yapılarla karşılaştırılması
+     - Microservislerin avantajları: Bağımsız dağıtım, ölçeklenebilirlik, esneklik
+     - Microservislerin zorlukları: Servisler arası iletişim, veri yönetimi, izleme
+   - **Microservislerin Genel Özellikleri:**
+     - Her servis kendi işlevini yerine getirir
+     - Bağımsız dağıtım ve ölçeklendirme
+     - Dağıtık sistemler
 
-- Mikro servislerin ne olduğu ve monolitik mimariden farkları.
-- Mikro servislerin avantajları ve zorlukları.
-- Mikro servislerin modern yazılım geliştirmedeki rolü.
-
-**1.2. Mikro Servis Tasarımı**
-
-- Mikro servislerin tasarımı: Bağımsız servisler, API’ler ve veri yönetimi.
-- Domain-Driven Design (DDD) prensipleri.
-- Veri yönetimi ve veri paylaşımı (Event Sourcing, CQRS).
-- API Gateway kavramı ve rolü.
-
-**1.3. Mikro Servis İletişimi**
-
-- Servisler arası iletişim: Synchronous vs Asynchronous iletişim.
-- REST API, gRPC ve mesajlaşma protokolleri (Kafka, RabbitMQ).
-- API Gateway ve Load Balancer kullanımı.
-
-**1.4. Temel Araçlar ve Kütüphaneler**
-
-- **C# ile mikro servis geliştirme için temel araçlar**: ASP.NET Core, Entity Framework Core, MediatR.
-- Bağımlılık yönetimi: Dependency Injection (DI) ve Inversion of Control (IoC).
-- API geliştirme ve versiyonlama.
-
----
-
-### **2. Gün: C# ile Mikro Servis Geliştirme**
-
-**2.1. Mikro Servislerin C# ile Geliştirilmesi**
-
-- ASP.NET Core kullanarak temel mikro servis oluşturma.
-- API oluşturma, Controller ve Routing kullanımı.
-- JSON formatında veri gönderme ve alma (Serialization & Deserialization).
-
-**2.2. Veritabanı Yönetimi ve Entegrasyonu**
-
-- Mikro servislerde veritabanı yönetimi: Her servis için bağımsız veritabanı tasarımı.
-- Entity Framework Core ile veritabanı bağlantıları.
-- Veritabanı şemaları ve migration yönetimi.
-
-**2.3. Servisler Arası İletişim ve Veri Paylaşımı**
-
-- RESTful servisler arası iletişim.
-- C# ile HTTP Client kullanarak dış servislerle iletişim.
-- JSON Web Token (JWT) ile güvenli API erişimi.
-
-**2.4. Mikro Servislerde Hata Yönetimi ve Logging**
-
-- Hata yönetimi, exception handling ve retry mekanizmaları.
-- Logging (Serilog, NLog) ve metrikler ile uygulama izleme.
-- Circuit Breaker ve Resilience Patterns.
+2. **C# ile Microservis Geliştirme**
+   - **C# ve .NET ile Microservis Geliştirmenin Avantajları:**
+     - .NET Core ve .NET 5/6 ile platform bağımsızlık
+     - C#’ın güçlü özellikleri ve mikro hizmetlere uygunluğu
+   - **C# ile REST API Geliştirme:**
+     - ASP.NET Core ile API geliştirme
+     - HTTP, RESTful servisler, JSON veri formatı
+     - Routing, Controllers, Dependency Injection kullanımı
+   - **C# ile Microservis Mimarisi için Kullanılan Çerçeveler:**
+     - **ASP.NET Core Web API:** Hızlı ve verimli API geliştirme
+     - **MassTransit:** Microservisler arası mesajlaşma için açık kaynak çerçeve
+     - **MediatR:** Command/Query modeline dayalı işlem yönetimi
+   - **Microservislerde Servisler Arası İletişim:**
+     - HTTP API (REST)
+     - Message Queues (RabbitMQ, Kafka)
+     - gRPC ile hızlı ve düşük gecikmeli iletişim
 
 ---
 
-### **3. Gün: Docker ile Konteynerleştirme**
+### **Bölüm 2: Docker ile Konteynerleştirme**
 
-**3.1. Docker Nedir?**
+1. **Docker’a Giriş**
+   - **Docker Nedir?**
+     - Konteynerleştirme nedir? Docker’ın amacı ve avantajları
+     - Docker’ın mikro hizmet mimarisindeki rolü
+   - **Docker’ın Temel Bileşenleri:**
+     - **Docker Image:** Uygulamanın çalıştırılabilir hali
+     - **Docker Container:** Çalışan bir image
+     - **Dockerfile:** İmajın nasıl oluşturulacağını belirten dosya
+   - **Docker Komutları ve Kullanımı:**
+     - `docker build`, `docker run`, `docker ps`, `docker logs`, `docker-compose` komutları
+   - **Docker Compose ile Çoklu Servislerin Yönetimi:**
+     - Microservislerin bir arada çalıştığı projelerde Docker Compose kullanımı
+     - Docker Compose ile bağımlı servislerin kolayca başlatılması
 
-- Docker’ın temel kavramları: Container, Image, Dockerfile, Docker Compose.
-- Docker’ın mikro servis mimarisindeki rolü.
-
-**3.2. C# Uygulamasını Docker ile Konteynerleştirme**
-
-- ASP.NET Core uygulamasını Docker konteyneri içinde çalıştırma.
-- Dockerfile oluşturma ve C# mikro servisini Docker imajına dönüştürme.
-- Docker Compose kullanarak birden fazla servisi yönetme.
-
-**3.3. Konteyner Yönetimi**
-
-- Docker CLI komutları ile konteyner yönetimi (docker run, docker ps, docker logs).
-- Docker hub ve özel registry kullanımı.
-
-**3.4. Docker Networking**
-
-- Docker ağları: Bridge, Host, Overlay.
-- Konteynerler arası iletişim: Docker network kullanımı.
-
----
-
-### **4. Gün: Kubernetes ile Dağıtım ve Yönetim**
-
-**4.1. Kubernetes Temelleri**
-
-- Kubernetes’in mikro servis mimarisindeki yeri.
-- Kubernetes kavramları: Pod, Deployment, Service, ReplicaSet, Namespace.
-- Kubernetes Cluster’ı kurma ve temel komutlar (`kubectl`).
-
-**4.2. Kubernetes ile C# Mikro Servisi Dağıtma**
-
-- Kubernetes’te pod oluşturma ve yönetme.
-- Docker imajını Kubernetes’e dağıtma (Deployment, Service).
-- Pod’lar arasında yük dengeleme ve servis keşfi.
-
-**4.3. Kubernetes Configuration ve Secret Management**
-
-- ConfigMap ve Secret kullanımı.
-- Kubernetes’te çevresel değişkenler ve konfigürasyon yönetimi.
-
-**4.4. Kubernetes ile Ölçeklenebilirlik**
-
-- Pod’ları ölçeklendirme (horizontal scaling).
-- ReplicaSet ve Auto-scaling.
-- Rolling updates ve deployment stratejileri.
+2. **C# Uygulamasını Docker ile Konteynerleştirme**
+   - **C# Uygulaması İçin Dockerfile Yazma:**
+     - .NET Core için Dockerfile oluşturma
+     - Multi-stage build kullanımı ile imaj boyutunu optimize etme
+   - **C# Microservisini Docker Konteynerinde Çalıştırma:**
+     - Docker ile C# REST API çalıştırma
+     - Veritabanı bağlantıları ve diğer mikro hizmetlerle entegrasyon
+   - **Docker ile Hızlı Testler ve Debugging:**
+     - Konteyner içerisinde debugging
+     - Log yönetimi ve hata ayıklama
 
 ---
 
-### **5. Gün: OpenShift ile Gelişmiş Dağıtım ve Yönetim**
+### **Bölüm 3: Kubernetes ile Orkestrasyon**
 
-**5.1. OpenShift Temelleri**
+1. **Kubernetes’e Giriş**
+   - **Kubernetes Nedir?**
+     - Kubernetes’in tanımı ve mikro hizmet mimarilerindeki rolü
+     - Pod, Deployment, Service, ConfigMap gibi temel bileşenler
+   - **Kubernetes Bileşenleri:**
+     - **Pod:** En küçük dağıtım birimi
+     - **Deployment:** Uygulamaları ölçeklendirme ve yönetme
+     - **Service:** Pod’ları birbirine bağlama
+     - **Ingress:** Dış dünyaya erişim sağlamak
+   - **Kubernetes API ve CLI Aracı (kubectl) Kullanımı**
 
-- OpenShift nedir, Kubernetes ile farkları.
-- OpenShift özellikleri: BuildConfig, DeploymentConfig, Route.
-- OpenShift CLI (oc) ve web konsolu kullanımı.
+2. **C# Microservislerini Kubernetes Üzerinde Yayınlama**
+   - **Kubernetes ile Pod ve Deployment Yönetimi:**
+     - Kubernetes deployment’ları ile Go veya C# microservislerini çalıştırma
+   - **Kubernetes ile Service Yapılandırması:**
+     - C# microservisleri için Kubernetes servisleri oluşturma
+     - Cluster içi ve dışı erişim sağlama
+   - **Kubernetes ile Yük Dengeleme ve Auto-Scaling:**
+     - Horizontal Pod Autoscaler ile otomatik ölçeklendirme
+     - Kubernetes LoadBalancer kullanarak dış erişim
+   - **Kubernetes ConfigMap ve Secret Kullanımı:**
+     - Yapılandırma dosyalarını ve hassas verileri yönetme
+     - Çevresel değişkenler ve yapılandırma yönetimi
 
-**5.2. OpenShift’te C# Mikro Servis Dağıtımı**
-
-- OpenShift üzerinde C# mikro servislerinin dağıtımı.
-- DeploymentConfig, Route ve Service yönetimi.
-- OpenShift ile Docker imajlarını yönetme.
-
-**5.3. CI/CD ile Mikro Servis Dağıtımı**
-
-- Jenkins, GitLab CI, OpenShift Pipelines ile sürekli entegrasyon ve dağıtım.
-- GitOps yaklaşımı ile sürüm yönetimi ve otomatik dağıtımlar.
-- Helm kullanarak uygulama paketleme.
-
-**5.4. İzleme ve Log Yönetimi**
-
-- OpenShift Monitoring ve Logging araçları.
-- Prometheus ve Grafana ile metrik toplama ve izleme.
-- ELK Stack (Elasticsearch, Logstash, Kibana) ile log yönetimi.
-
-**5.5. Eğitim Kapanışı ve Değerlendirme**
-
-- Katılımcıların öğrendiklerini uygulayabilecekleri bir proje çalışması.
-- Mikro servis mimarisi ile ilgili en iyi uygulamaların tartışılması.
-- Katılımcıların soruları ve geri bildirimlerinin alınması.
+3. **CI/CD Süreçlerinin Kubernetes ile Entegrasyonu**
+   - **Jenkins, GitLab CI veya Azure DevOps ile Kubernetes için CI/CD Pipeline’ları:**
+     - Kubernetes üzerinde otomatik derleme ve dağıtım süreçlerini oluşturma
+     - Kubernetes üzerinde uygulama dağıtımı ve güncelleme
+   - **Helm ile Paketleme ve Dağıtım:**
+     - Helm Charts kullanarak uygulama paketleme ve dağıtma
 
 ---
+
+### **Bölüm 4: OpenShift ile Yayınlama ve Yönetim**
+
+1. **OpenShift’e Giriş**
+   - **OpenShift Nedir?**
+     - OpenShift, Kubernetes’in kurumsal düzeydeki versiyonudur. Güvenlik, kullanıcı yönetimi, geliştirici araçları ve daha fazlasını sunar.
+   - **OpenShift ve Kubernetes Arasındaki Farklar:**
+     - OpenShift ekosistemi ve Kubernetes üzerindeki avantajları
+     - OpenShift CLI (`oc`) ve Kubernetes CLI (`kubectl`) arasındaki farklar
+
+2. **C# Microservislerini OpenShift Üzerinde Yayınlama**
+   - **OpenShift ile Deployment ve Pod Yönetimi:**
+     - OpenShift üzerinde C# uygulamaları dağıtma
+     - Pod’lar ve Deployment’lar üzerinde yönetim
+   - **Service ve Route Konfigürasyonu:**
+     - C# microservisleri için OpenShift Routes kullanarak dış erişim sağlama
+   - **OpenShift ile Kaynak Yönetimi ve İzinler:**
+     - RBAC (Role-Based Access Control) kullanarak kaynaklara erişimi yönetme
+     - Güvenlik ve kaynak sınırlandırmaları
+
+3. **OpenShift ile CI/CD Yönetimi**
+   - **OpenShift Pipelines ile Otomatik Dağıtım:**
+     - OpenShift Pipelines (Tekton) kullanarak sürekli entegrasyon ve sürekli dağıtım
+   - **Jenkins ile OpenShift Entegrasyonu:**
+     - Jenkins kullanarak OpenShift üzerinde otomatik derleme ve dağıtım süreçleri kurma
+   - **OpenShift ve Helm ile Dağıtım:**
+     - Helm Charts kullanarak OpenShift üzerinde microservis dağıtımı
+
+---
+
+### **Bölüm 5: Mikroservis Yönetimi, İzleme ve Güvenlik**
+
+1. **Microservis İzleme ve Performans Yönetimi**
+   - **Prometheus ve Grafana ile İzleme:**
+     - Kubernetes üzerinde Prometheus ve Grafana ile metrikler toplama ve görselleştirme
+   - **ELK Stack ile Log Yönetimi:**
+     - Elasticsearch, Fluentd, Kibana (EFK) stack kullanarak logları toplama ve analiz etme
+
+2. **Mikroservis Güvenliği**
+   - **OAuth2, JWT ile Kimlik Doğrulama ve Yetkilendirme:**
+     - C# ile JWT token oluşturma ve doğrulama
+   - **Mutual TLS ile Güvenli İletişim:**
+     - Microservisler arası güvenli iletişim için mutual TLS yapılandırması
+   - **API Gateway ve Rate Limiting:**
+     - API Gateway kullanarak servisler arası güvenlik ve rate limiting yönetimi
+
+3. **Mikroservislerde Hata Yönetimi**
+   - **Distributed Tracing ve Jaeger ile İzleme:**
+     - Jaeger kullanarak mikroservislerin iletişimini ve hatalarını izleme
+   - **Health Check ve Readiness Probes:**
+     - Kubernetes ve OpenShift üzerinde mikroservislerin sağlık durumlarını izleme
+
+
+
 
 ## **Eğitim Yöntemi:**
 

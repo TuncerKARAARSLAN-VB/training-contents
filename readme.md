@@ -1,20 +1,41 @@
-# 2025 Yılı Eğitimlerimiz
+# **Güncel Eğitim Programlarımız**  
 
-2025 yılı için hazırladığımız kurumsal eğitim içerikleri ile ilgili heyecanımızı sizlerle paylaşmaktan mutluluk duyuyoruz. Eğitimlerimiz, çalışanlarınızın yetkinliklerini artırmaya, ekip ruhunu güçlendirmeye ve kurumunuzun hedeflerine ulaşmasına katkı sağlamak amacıyla tasarlandı.
+Günümüz dünyasında yapay zeka ve güvenlik endişeleri, tüm kurumların ve çalışanlarının korkulu rüyası haline gelmiştir. Hızla değişen dünya, tüm bildiklerimize rağmen iş dünyasında bizi geri plana itmektedir. Teknolojik gelişmelerin ve dijital dönüşümün hızına ayak uydurmak, kurumlar için artık bir zorunluluk halini almıştır. Siber casuslar, yapay zeka kullanarak güvenlik açıklarını saniyeler içinde tespit etmekte ve bulduğu ilk açık kapıdan girerek kritik bilgilere ulaşabilmektedir. Bu tür tehditler, sadece verilerin çalınmasıyla kalmaz, aynı zamanda kurumsal itibarı da hızla yok edebilir.
 
-Bu yıl, kurumunuza değer katacak ve çalışanlarınızın gelişimini destekleyecek çeşitli eğitim programları sunuyoruz. Aşağıda, 2025 yılı için planladığımız eğitim başlıklarını bulabilirsiniz.
+Bu ortamda kurumlar, çalışanlarının dijital yetkinliklerini artırmak, gelecekteki siber tehditlere karşı donanımlı hale getirmek ve teknolojiyi en verimli şekilde kullanmak zorundadırlar. Bu değişim, en değerli kaynağımız olan insan ile başlar. İnsan kaynağının teknolojiyle donatılması, kurumların güçlü bir dijital altyapı oluşturması ve gelişen tehditlere karşı hazırlıklı olmaları gerekmektedir. Çalışanlar, sadece teknolojiye hakim olmalı, aynı zamanda güvenlik kültürüne sahip, siber tehditlere karşı bilinçli ve hızlı tepki verebilen bireyler olmalıdır.
+
+Yazılım süreçlerinde sürekli kalite kontrol, siber açık kontrolleri ve güvenlik testleri yapmak, bu tehditlere karşı etkin önlemler almak artık hayati değer taşımaktadır. Ayrıca, hızlı deployment (dağıtım) süreçleri, teknolojinin verimli bir şekilde kullanılabilmesi için kritik önem taşır. Kurumsal dijital dönüşüm, sadece altyapı yatırımlarını değil, aynı zamanda çalışanların eğitimini, yetkinliklerini ve adapte olabilme becerilerini geliştirmeyi gerektirir. Değişim, kurum kültürünün bir parçası haline gelmeli ve çalışanlar bu dönüşüme hazır olmalıdır.
+
+Özellikle yazılım geliştirme ve operasyon süreçlerinde yüksek işlem gücü ve trafiği kaldırabilen, hızlı ve güvenli uygulamaların geliştirilmesi artık bir zaruriyet halini almıştır. Tüm hayatımızın internet üzerinde şekillendiği bu dönemde, yüksek trafikli ve yüksek performanslı uygulamalar kurmak, şirketlerin rekabet gücünü ve güvenliğini artırmak için büyük önem taşımaktadır.
+
+Eğitimlerimiz, çalışanlarınızın sadece dijital yetkinliklerini artırmayı değil, aynı zamanda kendini geliştirebilen, çağa ayak uydurabilen ve ekiplerin gelecekteki zorluklara karşı donanımlı olmasını sağlayacak içerik ve formatlarla tasarlandı. Özellikle yapay zeka entegrasyonu, **Kubernetes** ve **Microservices** mimarilerinin avantajlarına, **kodlama kalitesi**, **güvenlik açıkları giderilmiş kodlama** ve **yüksek trafikli mimariler geliştirme** konularına odaklanan programlarımız, kurumların rekabet gücünü artırmayı hedefliyor. Ayrıca, **OWASP** ve diğer güvenlik güncellemeleri ile güvenli mimariler tasarımı ve **kodlama geliştirme sanatı** gibi yaklaşımlarımızla, siber güvenlik tehditlerine karşı etkin çözümlerle teknoloji altyapınızı daha güvenli hale getirmeyi amaçlıyoruz.  
+
+**Bu yılın öne çıkan eğitim içeriklerindeki yaklaşımlarımız:**  
+
+- Yapay Zeka ile Yeni Nesil İşletme Modelleri
+- Dijital Dönüşüm ve Teknoloji Yönetimi
+- Siber Güvenlik Farkındalığı ve Risk Yönetimi
+- Bulut Teknolojileri ve Güvenlik Çözümleri 
+- Ekip Liderliği ve Çevik Yönetim Yaklaşımları
+- Yüksek Trafik Sistemlerinde Hızlı Cevaplar İçin Kubernetes ve Microservices Mimarileri
+- Kodlama Kalitesi ve Güvenlik Açıkları Giderilmiş Kodlama
+- OWASP ve Diğer Güvenlik Güncellemeleri ile Güvenli Mimariler Tasarımı ve Kodlama Geliştirme Sanatı
+
+Çalışanlarınızın ve ekiplerinizin geleceğe güvenle hazırlanmasını sağlamak ve kurumunuzu dönüşüm yolculuğunda bir adım öne taşımak için sizinle iş birliği yapmayı sabırsızlıkla bekliyoruz.  
 
 ## Eğitim Başlıklarımız
 
 Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayınız.
 
-İsterseniz eğitimleri [özelleştirebilirsiniz](#özelleştirme-fırsatları). [5 ve 12 günlük eğitim formatları](#5-günlük-ve-12-günlük-eğitim-arasındaki-fark) için listenin sonundaki bölümü okuyabilirsiniz.
+İsterseniz eğitimleri [özelleştirebilirsiniz](#özelleştirme-fırsatları). [5 ve 12 günlük eğitim formatları](#5-günlük-ve-12-günlük-eğitim-arasındaki-fark) için listenin sonundaki bölümü okuyabilirsiniz. Bazı eğitimlerimiz 20 günlük eğitim olabilir. Lütfen eğitimlerin sürelerine dikkat edin.
 
-- **[01 - Sıfırdan Zirveye Docker ile Sanallaştırma](./sifirdan-zirveye-docker-ile-sanallastirma/readme.md)**
-- **[02 - Sıfırdan Zirveye Kubernetes Eğitimi](./sifirdan-zirveye-kubernetes-egitimi/readme.md)**
-- **[03 - Yazılımcılar için CI/CD Eğitimi - Tüm Yönleri İle Yüksek Güvenlikli Yazılım Geliştirme Teknikleri](./yazilimcilar-icin-ci-cd-egitimi-tum-yonleri-ile-yuksek-guvenlikli-yazilim-gelistirme-teknikleri/readme.md)**
-- **[04 - Sistem Yöneticileri ve Mimamlar için İleri Seviye CI/CD Eğitimi ve Kubernetes, Docker, Openshift Deployment](./ileri-seviye-ci-cd-egitimi-kubernetes-docker-openshift-deployment/readme.md)**
-- **[05 - Yüksek Seviyeli Kod Korumalı Yazılım Geliştirme Süreçleri ve Devsecops](./devsecops/readme.md)**
+### A - İleri Seviye Teknoloji Eğitimlerimiz
+
+- **[01 - Sıfırdan Zirveye Docker ile Sanallaştırma With AI](./sifirdan-zirveye-docker-ile-sanallastirma/readme.md)**
+- **[02 - Sıfırdan Zirveye Kubernetes Eğitimi With AI](./sifirdan-zirveye-kubernetes-egitimi/readme.md)**
+- **[03 - Yazılımcılar için CI/CD Eğitimi - Tüm Yönleri İle Yüksek Güvenlikli Yazılım Geliştirme Teknikleri With AI](./yazilimcilar-icin-ci-cd-egitimi-tum-yonleri-ile-yuksek-guvenlikli-yazilim-gelistirme-teknikleri/readme.md)**
+- **[04 - Sistem Yöneticileri ve Mimarlar için İleri Seviye CI/CD Eğitimi ve Kubernetes, Docker, Openshift Deployment With AI](./ileri-seviye-ci-cd-egitimi-kubernetes-docker-openshift-deployment/readme.md)**
+- **[05 - Yüksek Seviyeli Kod Korumalı Yazılım Geliştirme Süreçleri ve DevOpsSec with AI](./devsecops/readme.md)**
 
 ### B - Yazılım Süreçleri Eğitimlerimiz
 
@@ -56,7 +77,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 ### H - Yapay Zeka Eğitimlerimiz
 
 - **[01 - Kurum Çalışanları için Yapay Zeka ve Çalışan Performansının Artırılması](./kurum-calisanlari-icin-yapay-zeka-ve-calisan-performansinin-artirilmasi/readme.md)**
-- **[02 - Kurumsal Yapay Zeka Kodlama, Neden Kurumlarda ChatGpt Kullanmamalıyız](./kurumsal-yapay-zeka-kodlama-neden-kurumlarda-chatgpt-kullanmamalıyiz/readme.md)**
+- **[02 - Kurumsal Yapay Zeka Kodlama, Second Brain](./kurumsal-yapay-zeka-second-brain/readme.md)**
 - **[03 - Yöneticiler için Yapay Zeka ve Kurumların Yarınlara Hazır Hale Getirilmesi](./yoneticiler-icin-yapay-zeka-ve-kurumlari-yarina-hazirlama/readme.md)**
 - **[04 - Yöneticiler için AI Stratejik Planlama ve Uygulama – Kurumlar için AI entegrasyonu ve yönetim stratejileri](yoneticiler-icin-ai-stratejik-planlama-ve-uygulama-kurumlar-icin-ai-entegrasyonu-ve-yonetim-stratejileri/readme.md)**
 - **[05 - Yapay Zeka Destekli Veri Bilimi ve Makine Öğrenmesi Eğitimi – Temelden ileri seviyeye veri bilimi, model oluşturma ve optimizasyon](yapay-zeka-destekli-veri-bilimi-ve-makine-ogrenmesi-egitimi-temelden-ileri-seviyeye-veri-bilimi-model-olusturma-ve-optimizasyon/readme.md)**
