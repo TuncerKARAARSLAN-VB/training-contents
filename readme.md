@@ -1,6 +1,6 @@
 # **Güncel Eğitim Programlarımız**  
 
-[Lütfen PDF olarak eğitim kataloğumuzu indirin](./trainer-point%20with%20tuncer-erdem.pdf)
+> [Lütfen PDF olarak eğitim kataloğumuzu indirin](./trainer-point%20with%20tuncer-erdem.pdf) ***İndirebileceğiniz PDF dokümanındaki tüm linkler github linklerine yönlendirilmektedir. Bu sayede tüm eğitimlerin en güncel eğitim içeriklerine sahip olabileceksiniz. Lütfen PDF dökümanını indirip eğitim almak isteyen birimleriniz ile paylaşın. Kurumlarınıza değer katacak yepyeni eğitimler sayesinde güncel içerikleri sağlayabilirsiniz.***
 
 Günümüz dünyasında yapay zeka ve güvenlik endişeleri, tüm kurumların ve çalışanlarının korkulu rüyası haline gelmiştir. Hızla değişen dünya, tüm bildiklerimize rağmen iş dünyasında bizi geri plana itmektedir. Teknolojik gelişmelerin ve dijital dönüşümün hızına ayak uydurmak, kurumlar için artık bir zorunluluk halini almıştır. Siber casuslar, yapay zeka kullanarak güvenlik açıklarını saniyeler içinde tespit etmekte ve bulduğu ilk açık kapıdan girerek kritik bilgilere ulaşabilmektedir. Bu tür tehditler, sadece verilerin çalınmasıyla kalmaz, aynı zamanda kurumsal itibarı da hızla yok edebilir.
 
