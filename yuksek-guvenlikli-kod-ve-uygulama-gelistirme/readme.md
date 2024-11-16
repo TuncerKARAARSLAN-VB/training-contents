@@ -1,4 +1,4 @@
-# Yükzek Güvenlikli Kod ve Uygulama Geliştirmek
+# Yüksek Güvenlikli Kod ve Uygulama Geliştirmek
 
 ![](yuksek-guvenlikli-kod-gelistirme.webp)
 
