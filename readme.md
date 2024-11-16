@@ -2,6 +2,8 @@
 
 > [Lütfen PDF olarak eğitim kataloğumuzu indirin](./trainer-point%20with%20tuncer-erdem.pdf) ***İndirebileceğiniz PDF dokümanındaki tüm linkler github linklerine yönlendirilmektedir. Bu sayede tüm eğitimlerin en güncel eğitim içeriklerine sahip olabileceksiniz. Lütfen PDF dökümanını indirip eğitim almak isteyen birimleriniz ile paylaşın. Kurumlarınıza değer katacak yepyeni eğitimler sayesinde güncel içerikleri sağlayabilirsiniz.***
 
+> Aşağıda tüm eğitimlerin tam listesini göreceksiniz. Linklere tıklayarak eğitimlerim içeriklerine ulaşabilirsiniz. Her link içinde ayrıca pdf linkleri üretilmiştir. Her eğitimin detayları bu PDF'lerde yer alır. İstediğiniz tüm eğitimlerin PDF versiyonlarını indirip birimleriniz ile paylaşabilirsiniz.
+
 Günümüz dünyasında yapay zeka ve güvenlik endişeleri, tüm kurumların ve çalışanlarının korkulu rüyası haline gelmiştir. Hızla değişen dünya, tüm bildiklerimize rağmen iş dünyasında bizi geri plana itmektedir. Teknolojik gelişmelerin ve dijital dönüşümün hızına ayak uydurmak, kurumlar için artık bir zorunluluk halini almıştır. Siber casuslar, yapay zeka kullanarak güvenlik açıklarını saniyeler içinde tespit etmekte ve bulduğu ilk açık kapıdan girerek kritik bilgilere ulaşabilmektedir. Bu tür tehditler, sadece verilerin çalınmasıyla kalmaz, aynı zamanda kurumsal itibarı da hızla yok edebilir.
 
 Bu ortamda kurumlar, çalışanlarının dijital yetkinliklerini artırmak, gelecekteki siber tehditlere karşı donanımlı hale getirmek ve teknolojiyi en verimli şekilde kullanmak zorundadırlar. Bu değişim, en değerli kaynağımız olan insan ile başlar. İnsan kaynağının teknolojiyle donatılması, kurumların güçlü bir dijital altyapı oluşturması ve gelişen tehditlere karşı hazırlıklı olmaları gerekmektedir. Çalışanlar, sadece teknolojiye hakim olmalı, aynı zamanda güvenlik kültürüne sahip, siber tehditlere karşı bilinçli ve hızlı tepki verebilen bireyler olmalıdır.
@@ -17,7 +19,7 @@ Eğitimlerimiz, çalışanlarınızın sadece dijital yetkinliklerini artırmay�
 - Yapay Zeka ile Yeni Nesil İşletme Modelleri
 - Dijital Dönüşüm ve Teknoloji Yönetimi
 - Siber Güvenlik Farkındalığı ve Risk Yönetimi
-- Bulut Teknolojileri ve Güvenlik Çözümleri 
+- Bulut Teknolojileri ve Güvenlik Çözümleri
 - Ekip Liderliği ve Çevik Yönetim Yaklaşımları
 - Yüksek Trafik Sistemlerinde Hızlı Cevaplar İçin Kubernetes ve Microservices Mimarileri
 - Kodlama Kalitesi ve Güvenlik Açıkları Giderilmiş Kodlama
@@ -25,13 +27,13 @@ Eğitimlerimiz, çalışanlarınızın sadece dijital yetkinliklerini artırmay�
 
 Çalışanlarınızın ve ekiplerinizin geleceğe güvenle hazırlanmasını sağlamak ve kurumunuzu dönüşüm yolculuğunda bir adım öne taşımak için sizinle iş birliği yapmayı sabırsızlıkla bekliyoruz.  
 
-## Eğitim Başlıklarımız
+## **Eğitimlerimiz**
 
 Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayınız.
 
 İsterseniz eğitimleri [özelleştirebilirsiniz](#özelleştirme-fırsatları). [5 ve 12 günlük eğitim formatları](#5-günlük-ve-12-günlük-eğitim-arasındaki-fark) için listenin sonundaki bölümü okuyabilirsiniz. Bazı eğitimlerimiz 20 günlük eğitim olabilir. Lütfen eğitimlerin sürelerine dikkat edin.
 
-### A - İleri Seviye Teknoloji Eğitimlerimiz
+### **A - İleri Seviye Teknoloji Eğitimlerimiz**
 
 - **[01 - Sıfırdan Zirveye Docker ile Sanallaştırma With AI](./sifirdan-zirveye-docker-ile-sanallastirma/readme.md)**
 - **[02 - Sıfırdan Zirveye Kubernetes Eğitimi With AI](./sifirdan-zirveye-kubernetes-egitimi/readme.md)**
@@ -39,12 +41,12 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 - **[04 - Sistem Yöneticileri ve Mimarlar için İleri Seviye CI/CD Eğitimi ve Kubernetes, Docker, Openshift Deployment With AI](./ileri-seviye-ci-cd-egitimi-kubernetes-docker-openshift-deployment/readme.md)**
 - **[05 - Yüksek Seviyeli Kod Korumalı Yazılım Geliştirme Süreçleri ve DevOpsSec with AI](./devsecops/readme.md)**
 
-### B - Yazılım Süreçleri Eğitimlerimiz
+### **B - Yazılım Süreçleri Eğitimlerimiz**
 
 - **[01 - Kod Kalite ve Ölçümleme](./kod-kalite-ve-olcumleme-egitimi/readme.md)**
 - **[02 - Yüksek Güvenlikli Kod ve Uygulama Geliştirme](./yuksek-guvenlikli-kod-ve-uygulama-gelistirme/readme.md)**
 
-### C - Proje Yönetimi Eğitimlerimiz
+### **C - Proje Yönetimi Eğitimlerimiz**
 
 - **[1 - Agile, Scrum, Kanban - Çevik Proje Yönetimi](cevik-proje-yonetimi/readme.md)**
 - **[#2 - DevOps Proje Yönetimi](devops-proje-yonetimi/readme.md)**
@@ -52,31 +54,31 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 - **[#4 - Validation and Verification - V-Model Proje Yönetimi](vmodel-proje-yonetimi/readme.md)**
 - **[#5 - Rapily Application Development - RAD Proje Yönetimi](rad-proje-yonetimi/readme.md)**
 
-### D - Linux Eğitimlerimiz
+### **D - Linux Eğitimlerimiz**
 
 - **[01 - Bilinmeyen Yönleri ile Red Hat ve Openshift Eğitimi](./bilinmeyen-yonleri-ile-red-hat-ve-openshift-egitimi/readme.md)**
 - **[02 - Red Hat Enterprise Server Eğitimi](red-hat-server-ve-sanallastirma/readme.md)**
 
-### E - Özel Çözümler Gerektiren Eğitimler
+### **E - Özel Çözümler Gerektiren Eğitimler**
 
 - **[01 - Yüksek Trafikli Sistem Mimarileri ve Kesintisiz Sistemler](./yuksek-trafigi-sistem-mimarileri-ve-kesintisiz-sistemler/readme.md)**
 - **[02 - Milyonlarca Cihazdan Veri Toplama ve Gerçek Zamanlı Analiz: Modern Yazılım Geliştirme Yöntemleri](./milyonlarca-cihazdan-veri-toplama-ve-gercek-zamanli-analiz-modern-yazilim-gelistirme-yontemleri/readme.md)**
 - **[03 - Enerji Firmaları İçin Mimari Geliştirme ve Sürekli Kendini Yetiştirebilen Ekipler](enerji-firmalari-icin-mimari-gelistirme-ve-surekli-kendini-yetistirebilen-takimlar/readme.md)**
 
-### F - Yeni Nesil Yazılım Eğitimleri
+### **F - Yeni Nesil Yazılım Eğitimleri**
 
 - **[01 - Go ile Microservis Mimarisi ve Yayınlama (Kubernetes, Docker, OpenShift)](./go-ile-api-gelistirme-microservis-mimarisi-ve-yayinlama-kubernetes-docker-openshift/readme.md)**
 - **[02 - Python ile Microservis Mimarisi ve Yayınlama (Kubernetes, Docker, OpenShift)](./python-ile-api-gelistirme-microservis-mimarisi-ve-yayinlama-kubernetes-docker-openshift/readme.md)**
 - **[03 - C# ile Microservis Mimarisi ve Yayınlama (Kubernetes, Docker, OpenShift)](./csharp-ile-api-gelistirme-microservis-mimarisi-ve-yayinlama-kubernetes-docker-openshift/readme.md)**
 - **[04 - Java Spring ile Microservis Mimarisi ve Yayınlama (Kubernetes, Docker, OpenShift)](./java-spring-ile-api-gelistirme-microservis-mimarisi-ve-yayinlama-kubernetes-docker-openshift/readme.md)**
 
-### G - Siber Güvenlik Eğitimlerimiz
+### **G - Siber Güvenlik Eğitimlerimiz**
 
 - **[01 - Tüm Kurum Çalışanlarına Siber Güvenlik Eğitimi](./kurum-calisanlari-icin-siber-guvenlik-egitimi/readme.md)**
 - **[02 - Sistem Güvenlik ve Yazılım Mimarlarına İleri Seviye Siber Güvenlik  Eğitimi](./ileri-seviye-siber-guvenlik-egitimi/readme.md)**
 - **[03 - Yöneticiler için Yapay Zeka Destekli Siber Güvenlik Eğitimi](./yoneticiler-icin-yapay-zeka-ve-kurumlari-yarina-hazirlama/readme.md)**
 
-### H - Yapay Zeka Eğitimlerimiz
+### **H - Yapay Zeka Eğitimlerimiz**
 
 - **[01 - Kurum Çalışanları için Yapay Zeka ve Çalışan Performansının Artırılması](./kurum-calisanlari-icin-yapay-zeka-ve-calisan-performansinin-artirilmasi/readme.md)**
 - **[02 - Kurumsal Yapay Zeka Kodlama, Second Brain](./kurumsal-yapay-zeka-second-brain/readme.md)**
@@ -93,7 +95,7 @@ Bu eğitimlerle, ekiplerinizin motivasyonunu artırmayı, iş süreçlerini opti
 
 Eğitim programlarımız, güncel bilgilerle dolu, uygulamalı örnekler ve interaktif yaklaşımlar içermektedir. Katılım sağladığınızda, hem bireysel gelişim hem de takım uyumunu artıracak fırsatlar yakalayacaksınız.
 
-## Özelleştirme Fırsatları
+## **Özelleştirme Fırsatları**
 
 Eğitimlerimizi kurumunuza özel hale getirmek için isteklerinizi iletebilirsiniz. LinkedIn üzerinden bizimle iletişime geçerek, özelleştirmek istediğiniz bölümleri paylaşabilirsiniz.
 
@@ -105,29 +107,29 @@ Peki neleri talep edebilirsiniz?
 
 Bu talepler doğrultusunda, eğitimleri sizin kurumunuza özel hazırlayıp sunmaktan memnuniyet duyarız. Hedefleriniz doğrultusunda özelleştirilmiş eğitimlerle kurumunuzun gelişimine katkı sağlayacak çözümler üretmek için sabırsızlanıyoruz. Gelin birlikte başarılara imza atalım!
 
-## 5 Günlük ve 12 Günlük Eğitim Arasındaki Fark
+## **5 Günlük ve 12 Günlük Eğitim Arasındaki Fark**
 
 Tüm eğitimlerimiz 5 günlük ve 12 günlük formatta verilmektedir. Eğitim içerikleri aynı, ancak 12 günlük eğitimde kurumsal sorunlarında konuşulduğu, örneklerin özelleşebildiği bir çalışma ortamı sağlanmaktadır.
 
 Tüm eğitim içerikleri yapay zeka destekli kendi başına öğrenmek teknikleri ie anlatılmakta ve katılımcıların gelecek iş hayatlarında eğitim aldıkları konularda kendilerini güncelleyebilmeleri ve her türlü sorunun altından kalkmalarına yardımcı olacak bir eğitim içeriği ile eğitilmelerini sağlamaktadır. Özellikle 12 günlük eğitimde eğitmen ile katılımcılar çok yönlü sorun çözme ve sorunların altından kalkabilme yetkinliklerine de sahip olmaktadır.
 
-## 5 Günlük Eğitim
+### **5 Günlük Eğitim**
 
 > Planlanan eğitim içeriği hafta içi 5 günde tamamlanmaktadır. Eğitim öncesinde talep edilen kurumsal eğitim sunum formatında ve istenilen örnek senaryolar ile eğitim anlatılmaktadır. Bu eğitim formatında eğitim içeriği anlatılırken eğitmen bol örnekler ile konuyu pekiştirmektedir.
 
-## 12 Günlük Eğitim
+### **12 Günlük Eğitim**
 
 > Aynı eğitim içeriği haftada 3 gün olacak şekilde 12 günlük eğitim olarak da verilebilmektedir. 5 günlük eğitim formatına ek olarak eğitmen tüm katıcılımlar ile ortak kod yazmakta, hands-on apırlıklı bir eğitim olmaktadır. Aynı konu başlıkları ile ancak ekibin kod yazarak eğitmenle birlikte çalıştığı bir ortamda verilmektedir. Bu sayede eğitime katılan katılımcılar eğitimde en yüksek deneyim seviyesine erişmektedirler. Bu eğitimden sonra katılımcılar,  Docker ile sanallaştırma süreçlerini tam olarak kavrayacak, uygulama geliştirmeye başlayabilecekler. Kurumsal eğitim taleplerinde max 10 kişilik sınıflarda uzaktan etkileşimli içerikleriklerle verilebilmektedir.  Eğitimler 12 gün içinde tamamlanmaktadır.
 
-## Yerinde Danışmanlık
+## **Yerinde Danışmanlık**
 
 Eğer arzu ederseniz, benimle 4-8-16-32 haftalık sözleşme yaparak sizinle birlikte mesai yapma talebinde de bulunabilirsiniz. Sizinle birlikte tam mesai saatlerinde sizin lokasyonunuzda sizin istediğiniz çalışma odasında birlikte çalışabiliriz. Bunun için gerekli gizlilik anlaşmaları imzalanacaktır. Yerinde kod protiği yapabilir, projelerinize destek olabilirim. Ekiplerinize yerinde özel eğitimleri verebilirim. Bu  sayede ekipleriniz daha hızlı gelişebilir, daha hızlı projeleri teslim edebilirsiniz. Hatta yeni mimarilerin kurulması ve devreye alınmasında sizlere yerinde destek sağlayabilirim. 
 
-## Birlikte Çalışma
+## **Birlikte Çalışma**
 
 Eğer arzu ederseniz, sizin hayalinizdeki projeyi  birlikte yapabiliriz. Projeleriniz için birlikte çalışabiliriz. Sizin lokasyonunuzda ve gizlilik anlaşması imzalanarak sizinle tam mesai yapabiliriz. 4-8-16-32 haftalık sözleşme yaparak sizin projelerinize sizin lokasyonunuzda destek sağlayabilirim. İsterseniz eğitimleri de sizin lokasyonlarınızda sağlayabiliriz.  Ekiplerinize yerinde özel eğitimleri verebiliriz. İsterseniz proje ortaklığı fikirlerini de açığım. Gizlilik anlaşma çerçevesinde projelerinizi dinleyip, ortak geliştirme fikirlerini de açığım.
 
-## Hakkımda
+## **Hakkımda**
 
 Merhaba! Ben Tuncer KARAARSLAN, yazılım geliştirme alanında 25 yılı aşkın deneyime sahip bir bilgisayar mühendisiyim. Kariyerime 1991 yılında başladım ve o günden bu yana Microsoft teknolojileri üzerine çeşitli projelerde yer aldım. .NET mimarilerinde geniş bir bilgi birikimim var ve Windows, web, mobil teknolojiler gibi farklı platformlarda yazılımlar geliştirdim. Son yıllarda gömülü yazılım geliştirme alanlarında ve sanallaştırma alanlarında da oldukça geniş deneyimlere sahip oldum. Geçmişte uzun yıllar eğitmenlik tecrübelerimi de profillerimden görebilirsiniz. Sektörel çok fazla deneyimlere sahibim. Sizler için hazırladığım kurumsal eğitim içerikleri umarım hoşunuza gider. Kısaca kendimden bahsetmeye devam etmek isterim.
 

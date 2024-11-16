@@ -2,6 +2,8 @@
 
 ![](ileri-seviye-ci-cd.webp)
 
+[Download PDF Version](./sistemciler-icin-ci-cd.pdf)
+
 ## **Eğitim Süresi**
 
 - **Format 1**
@@ -22,7 +24,7 @@
 
 - > Eğitim yapay zeka destekli kendi kendine öğrenme formasyonu ile tasarlanmıştır. Katılımcılar eğitim boyunca kendi kendine öğrenme formasyonu ile eğitimlere katılırlar. Bu eğitim formatı sayesinde tüm katılımcılar gelecek tüm yaşamlarında kendilerini güncellemeye devam edebilecekler ve her türlü sorunun karşısında çözüm bulabilecekleri yeteneklere sahip olacaklardır.
 
-## **İleri Seviye CI/CD Eğitimi ve Kubernetes, Docker, OpenShift Deployment**
+## **İleri Seviye CI/CD Eğitimi**
 
 Yazılım geliştirme süreçlerinde verimliliği artırmak ve güvenliği sağlamak için kritik öneme sahip **CI/CD** (Sürekli Entegrasyon/Sürekli Dağıtım), günümüzde vazgeçilmez bir araçtır. Bu ileri seviye eğitim, **Docker**, **Kubernetes** ve **OpenShift** gibi container teknolojilerini kullanarak CI/CD süreçlerini daha etkili ve güvenli hale getirmeyi hedefleyen yazılım geliştiriciler, DevOps mühendisleri ve sistem yöneticileri için kapsamlı bir rehber sunmaktadır.
 

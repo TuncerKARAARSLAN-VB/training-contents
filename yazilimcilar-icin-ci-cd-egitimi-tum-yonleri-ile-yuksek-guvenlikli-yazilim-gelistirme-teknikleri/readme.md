@@ -2,6 +2,8 @@
 
 ![](ci-cd.webp)
 
+[Download PDF Version](./yazilimcilar-icin-ci-cd.pdf)
+
 ## **Eğitim Süresi**
 
 - **Format 1**

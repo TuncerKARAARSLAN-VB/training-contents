@@ -2,7 +2,9 @@
 
 ![](containers.webp)
 
-## Eğitim Süresi:
+[Download PDF Version](./docker.pdf)
+
+## **Eğitim Süresi**
 
 - **Format 1**
   - **5 Gün**

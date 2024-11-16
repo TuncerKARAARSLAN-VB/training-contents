@@ -2,6 +2,8 @@
 
 ![](agile.webp)
 
+[Download PDF Version](./agile.pdf)
+
 ## **Eğitim Süresi**
 
 - **Format 1**
