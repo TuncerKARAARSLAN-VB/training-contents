@@ -149,4 +149,4 @@ Bu eğitim, katılımcılara yalnızca Agile yönetim metodolojilerini öğretme
 - Temel seviyede konteyner ve Kubernetes bilgisi önerilir, ancak zorunlu değildir.
 - Aktif katılım ve öğrenme isteği.
 
-[Eğitim ana materyalleri, sadece eğitmenler için](https://github.com/TuncerKARAARSLAN-VB/training-kit-cevik-proje-yonetimi)
+[Eğitim Materyalleri (Eğitmenlere Özel)](https://github.com/TuncerKARAARSLAN-VB/training-kit-cevik-proje-yonetimi)

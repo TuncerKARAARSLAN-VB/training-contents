@@ -32,20 +32,6 @@ Eğitimlerinizi aldığınızda, uygulamalı danışmanlık desteğimizle, öğr
 
 Kubernetes konusunda kapsamlı eğitim ve profesyonel danışmanlık hizmetlerimizle, dijital dönüşüm yolculuğunuzda sizi bir adım öne taşıyoruz. Kurumunuzun potansiyelini en üst seviyeye çıkarmak için Kubernetes’i etkin kullanmaya bugün başlayın!
 
-## Eğitim Formatlarımız
-
-**Format 1**
-
-- **5 Gün**
-- **Ders Süresi:** 50 dakika
-- **Eğitim Saati:** 10:00 - 17:00
-
-**Format 2**
-
-- **12 Gün**
-- **Ders Süresi:** 50 dakika
-- **Eğitim Saati:** 10:00 - 17:00
-
 ## Danışmanlık Formatlarımız
 
 Bu paketleri tümüyle yeni teknolojiye geçiş aşamasındaki kurumlara tavsiye ediyoruz. BU paketin en büyük özelliği, sizinle birlikte hareket ediyoruz ve sizin ekibinizin bir parçası gibi sizin için sürekli arge yaparak olası tüm sorunları aşmanızı ve yol almanızı sağlıyoruz. Projenizin fail etmesi riskini ortadan kaldırıyoruz. Çünkü bu paketlerde sizin için çalışan arka plandaki dev bir ekibe sahip oluyorsunuz. Sorunlarınız bizim sorunlarımız oluyor.  Bu paketlerin en büyük özelliği, sizin için sürekli arge yapan ve tüm sorunları aşmanızı sağlayan bir ekiple birlikte çalışma konforunu kurumunuza sağlıyoruz.
@@ -57,101 +43,194 @@ Bu paketleri tümüyle yeni teknolojiye geçiş aşamasındaki kurumlara tavsiye
 - İsterseniz 1 günden kısa olmamak üzere, uzaktan destek olarak da paket sürelerinizi değerlendirebiliyorsunuz
 - Paket sürelerinizi isterseniz çok çeşitli eğitim içeriklerimiz ile kurum içi eğitimler olarak kullanabilirsiniz.
 
-## Eğitim Hedefi:
+## **Eğitim Hedefi**
 
 Bu eğitim, katılımcılara Kubernetes’in temel prensiplerini, mimarisini ve uygulama senaryolarını öğretmeyi amaçlamaktadır. Eğitim sonunda katılımcılar, kendi Kubernetes küme yapılandırmalarını oluşturabilecek, yönetebilecek ve uygulama dağıtımlarını gerçekleştirebilecek düzeye geleceklerdir.
 
-### Eğitim İçeriği:
+<div style="page-break-after: always;"></div>
 
-#### **1. Gün: Kubernetes’e Giriş ve Kurulum**
+## **Eğitim İçeriği**
 
-- **Kubernetes Nedir?**
-  - Tanım ve Tarihçe
-  - Kubernetes’in Avantajları: Mikroservislerin yönetiminde Kubernetes'in rolü
-- **Kubernetes Mimarisi**
-  - Pod, ReplicaSet, Deployment, Service kavramları
-  - Kubernetes bileşenleri (Master Node, Worker Node)
-- **Kubernetes Kurulumu**
-  - Minikube ile Kubernetes kurulumu
-  - kubeadm ile Multi-node Cluster Kurulumu
-  - Managed Kubernetes Hizmetleri (GKE, EKS, AKS)
-- **Kubernetes CLI Kullanımı**
-  - Kubectl CLI komutları ve temel işlemler
-  - Codespace ortamında Kubernetes ile çalışma
+- **Format 1**
+  - **5 Gün**
+  - **Ders Süresi:** 50 dakika
+  - **Eğitim Saati:** 10:00 - 17:00
 
-#### **2. Gün: Pod ve Uygulama Yönetimi**
+- **Format 2**
+  - **12 Gün**
+  - **Ders Süresi:** 50 dakika
+  - **Eğitim Saati:** 10:00 - 17:00
 
-- **Pod Kavramı ve Yönetimi**
-  - Pod içindeki konteynerlerin yönetimi
-  - Pod Lifecycle ve Restart Policy
-  - Pod Disruption Budget
-- **Deployment Yönetimi**
-  - Deployment oluşturma, güncelleme ve rollback
-  - Versiyon kontrol stratejileri
-- **Service Türleri ve İletişim**
-  - ClusterIP, NodePort, LoadBalancer
-  - Service ile Pod’lar arası iletişim
-- **Stateful ve DaemonSet Uygulamaları**
-  - StatefulSets ile Stateful uygulamalar
-  - DaemonSets kullanımı
+- > Her iki eğitim formatında eğitimler 50 dakika + 10 dakika moladır. 12:00-13:00 saatleri arasında 1 saat yemek arasındaki verilir. Günde toplam 6 saat eğitim verilir. 5 günlük formatta 30 saat eğitim, 12 günlük formatta toplam 72 saat eğitim verilmektedir. 12 saatlik eğitmde katılımcılar kod yazar ve eğitmenle birlikte sorulan sorulara ve taleplere uygun içerikler ve örnekler çalışılır.
 
-#### **3. Gün: İleri Seviye Kubernetes Konseptleri**
+- > Eğitimler uzaktan eğitim formatında tasarlanmıştır. Her eğitim için teams linkleri gönderilir. Katılımcılar bu linklere girerek eğitimlere katılırlar. Ayrıca farklı remote çalışma araçları da eğitmen tarafından tüm katılımlara sunulur. Katılımcılar bu araçları kullanarak eğitimlere katılırlar.
 
-- **ConfigMap ve Secret Yönetimi**
-  - Uygulama yapılandırmaları ve gizli bilgilerin yönetimi
-- **Depolama Yönetimi**
-  - Kalıcı depolama birimleri (Persistent Volume, Persistent Volume Claim)
-  - Farklı depolama çözümleri
-- **Ağ ve Ingress Yönetimi**
-  - Kubernetes ağ politikaları ve yönetimi
-  - Ingress Controller yapılandırması
-- **Scheduler ve Node Yönetimi**
-  - Kubernetes Scheduler ve Node Affinity
-  - Pod yerleştirme stratejileri (affinities, taints/tolerations)
-- **Ağ Güvenliği**
-  - Network Policies ile uygulamalar arası güvenlik
+- > Eğitim içeriğinde github ve codespace kullanılır. Katılımcılar bu platformlar üzerinden örnek projeler oluşturur ve eğitmenle birlikte eğitimlerde sorulan sorulara ve taleplere uygun iceriğe cevap verir. Katılımcılar bu araçlarla eğitimlerde sorulan sorulara ve taleplere uygun iceriğe cevap verir.
 
-#### **4. Gün: Kubernetes Güvenliği ve İzleme**
+- > Eğitim yapay zeka destekli kendi kendine öğrenme formasyonu ile tasarlanmıştır. Katılımcılar eğitim boyunca kendi kendine öğrenme formasyonu ile eğitimlere katılırlar. Bu eğitim formatı sayesinde tüm katılımcılar gelecek tüm yaşamlarında kendilerini güncellemeye devam edebilecekler ve her türlü sorunun karşısında çözüm bulabilecekleri yeteneklere sahip olacaklardır.
 
-- **RBAC ve Güvenlik Prensipleri**
-  - Role-Based Access Control (RBAC) yapılandırması
-  - Güvenlik politikalarının belirlenmesi
-- **İzleme ve Günlükleme**
-  - Prometheus ile izleme
-  - Grafana ile görselleştirme
-  - ELK Stack ve alternatif günlükleme çözümleri (Loki, Fluentd)
-- **Yedekleme ve Geri Yükleme**
-  - Velero ile yedekleme ve geri yükleme işlemleri
-- **Cluster Upgrade Stratejileri**
-  - Kubernetes versiyon yükseltme yolları
+### **Kubernetes’e Giriş ve Kurulum**  
 
-#### **5. Gün: Uygulama Dağıtımı ve En İyi Uygulamalar**
+**Kubernetes Nedir?**  
 
-- **Uygulama Dağıtımı**
-  - CI/CD süreçleri ve Kubernetes entegrasyonu
-  - GitOps ile Kubernetes yönetimi (ArgoCD, FluxCD)
-- **Helm ile Uygulama Yönetimi**
-  - Helm kullanarak paket yönetimi
-- **Kubernetes En İyi Uygulamaları**
-  - Kaynak yönetimi ve otomasyon
-  - Horizontal ve Vertical Pod Autoscaling
-  - Cluster Autoscaler ile node yönetimi
-- **Uygulama Senaryoları ve Çoklu Cluster Yönetimi**
-  - Gerçek dünyadan örneklerle uygulama dağıtımı
-  - Çoklu cluster yönetimi (KubeFed)
-  - Sorun çözme yolları ve pratik çözümler
+- Tanım ve Tarihçe  
+- Kubernetes’in Avantajları: Mikroservislerin yönetiminde Kubernetes'in rolü  
 
-### Eğitim Yöntemi:
+**Kubernetes Mimarisi**  
+
+- Pod, ReplicaSet, Deployment, Service kavramları  
+- Kubernetes bileşenleri (Master Node, Worker Node)  
+
+**Kubernetes Kurulumu**  
+
+- Minikube ile Kubernetes kurulumu  
+- kubeadm ile Multi-node Cluster Kurulumu  
+- Managed Kubernetes Hizmetleri (GKE, EKS, AKS)  
+
+**Kubernetes CLI Kullanımı**  
+
+- Kubectl CLI komutları ve temel işlemler  
+- Codespace ortamında Kubernetes ile çalışma  
+
+---  
+
+### **Pod ve Uygulama Yönetimi**  
+
+**Pod Kavramı ve Yönetimi**  
+
+- Pod içindeki konteynerlerin yönetimi  
+- Pod Lifecycle ve Restart Policy  
+- Pod Disruption Budget  
+
+**Deployment Yönetimi**  
+
+- Deployment oluşturma, güncelleme ve rollback  
+- Versiyon kontrol stratejileri  
+
+**Service Türleri ve İletişim**  
+
+- ClusterIP, NodePort, LoadBalancer  
+- Service ile Pod’lar arası iletişim  
+
+**Stateful ve DaemonSet Uygulamaları**  
+
+- StatefulSets ile Stateful uygulamalar  
+- DaemonSets kullanımı  
+
+---  
+
+### **İleri Seviye Kubernetes Konseptleri**  
+
+**ConfigMap ve Secret Yönetimi**  
+
+- Uygulama yapılandırmaları ve gizli bilgilerin yönetimi  
+
+**Depolama Yönetimi**  
+
+- Kalıcı depolama birimleri (Persistent Volume, Persistent Volume Claim)  
+- Farklı depolama çözümleri  
+
+**Ağ ve Ingress Yönetimi**  
+
+- Kubernetes ağ politikaları ve yönetimi  
+- Ingress Controller yapılandırması  
+
+**Scheduler ve Node Yönetimi**  
+
+- Kubernetes Scheduler ve Node Affinity  
+- Pod yerleştirme stratejileri (affinities, taints/tolerations)  
+
+**Ağ Güvenliği**  
+
+- Network Policies ile uygulamalar arası güvenlik  
+
+---  
+
+### **Kubernetes Güvenliği ve İzleme**  
+
+**RBAC ve Güvenlik Prensipleri**  
+
+- Role-Based Access Control (RBAC) yapılandırması  
+- Güvenlik politikalarının belirlenmesi  
+
+**İzleme ve Günlükleme**  
+
+- Prometheus ile izleme  
+- Grafana ile görselleştirme  
+- ELK Stack ve alternatif günlükleme çözümleri (Loki, Fluentd)  
+
+**Yedekleme ve Geri Yükleme**  
+
+- Velero ile yedekleme ve geri yükleme işlemleri  
+
+**Cluster Upgrade Stratejileri**  
+
+- Kubernetes versiyon yükseltme yolları  
+
+---  
+
+#### **Uygulama Dağıtımı ve En İyi Uygulamalar**  
+
+**Uygulama Dağıtımı**  
+
+- CI/CD süreçleri ve Kubernetes entegrasyonu  
+- GitOps ile Kubernetes yönetimi (ArgoCD, FluxCD)  
+
+**Helm ile Uygulama Yönetimi**  
+
+- Helm kullanarak paket yönetimi  
+
+**Kubernetes En İyi Uygulamaları**  
+
+- Kaynak yönetimi ve otomasyon  
+- Horizontal ve Vertical Pod Autoscaling  
+- Cluster Autoscaler ile node yönetimi  
+
+**Uygulama Senaryoları ve Çoklu Cluster Yönetimi**  
+
+- Gerçek dünyadan örneklerle uygulama dağıtımı  
+- Çoklu cluster yönetimi (KubeFed)  
+- Sorun çözme yolları ve pratik çözümler  
+
+<div style="page-break-after: always;"></div>
+
+## **Eğitim Yöntemi**
 
 - **Teorik Bilgi:** Güncel bilgiler ve konseptlerin anlatımı.
 - **Uygulamalı Örnekler:** Gerçek senaryolarla pratik uygulamalar.
 - **Etkileşimli Tartışmalar:** Katılımcıların fikirlerini paylaşabileceği oturumlar.
 
-### Hedef Kitle:
+## **Hedef Kitle**
 
 - Yazılım Geliştiriciler
 - Sistem Yöneticileri
 - DevOps Mühendisleri
 - IT Profesyonelleri
 
-[Eğitim ana materyalleri, sadece eğitmenler için](https://github.com/TuncerKARAARSLAN-VB/training-kit-ileri-seviye-kubernetes-egitimi)
+## **Katılımcılardan Beklentilerimiz**
+
+1. **Temel Bilgi Seviyesi**  
+   - Linux işletim sistemine temel düzeyde hâkimiyet.  
+   - Container teknolojileri (örneğin Docker) hakkında temel bilgi sahibi olmak.  
+
+2. **Teknik Hazırlık**  
+   - Eğitim boyunca kullanılacak araçların kurulumunu tamamlamış olmak:  
+     - Docker ve Kubernetes kurulu bir sistem (Minikube veya alternatif bir çözüm).  
+     - Kubectl gibi temel CLI araçlarının hazır olması.  
+   - Gerektiğinde bulut tabanlı Kubernetes servislerini (GKE, AKS, EKS) kullanmak için bulut hesaplarına sahip olmak.  
+
+3. **Donanım Gereksinimleri**  
+   - Eğitim sırasında kullanılacak bilgisayarda minimum gereksinimler:  
+     - 8 GB RAM (tercihen 16 GB veya daha fazlası).  
+     - Çok çekirdekli işlemci (tercihen 4 çekirdek ve üzeri).  
+     - SSD depolama alanı (Docker ve Kubernetes işlemleri için hızlı okuma/yazma gereklidir).  
+
+4. **Pratik Yapma Kararlılığı**  
+   - Teorik bilgileri uygulamalı örneklerle pekiştirmek için aktif katılım.  
+   - Eğitim sonrası kendi projelerinde Kubernetes’i denemeye açık olmak.  
+
+5. **Problem Çözme Yeteneği ve Takım Çalışması**  
+   - Eğitim sırasında karşılaşılan sorunları çözme sürecine dâhil olma istekliliği.  
+   - Ekip çalışmasına uygun ve paylaşımcı bir yaklaşım benimsemek.  
+
+[Eğitim Materyalleri (Eğitmenlere Özel)](https://github.com/TuncerKARAARSLAN-VB/training-kit-ileri-seviye-kubernetes-egitimi)
