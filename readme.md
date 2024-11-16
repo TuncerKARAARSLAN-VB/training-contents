@@ -1,5 +1,7 @@
 # **Güncel Eğitim Programlarımız**  
 
+[Lütfen PDF olarak eğitim kataloğumuzu indirin](./trainer-point%20with%20tuncer-erdem.pdf)
+
 Günümüz dünyasında yapay zeka ve güvenlik endişeleri, tüm kurumların ve çalışanlarının korkulu rüyası haline gelmiştir. Hızla değişen dünya, tüm bildiklerimize rağmen iş dünyasında bizi geri plana itmektedir. Teknolojik gelişmelerin ve dijital dönüşümün hızına ayak uydurmak, kurumlar için artık bir zorunluluk halini almıştır. Siber casuslar, yapay zeka kullanarak güvenlik açıklarını saniyeler içinde tespit etmekte ve bulduğu ilk açık kapıdan girerek kritik bilgilere ulaşabilmektedir. Bu tür tehditler, sadece verilerin çalınmasıyla kalmaz, aynı zamanda kurumsal itibarı da hızla yok edebilir.
 
 Bu ortamda kurumlar, çalışanlarının dijital yetkinliklerini artırmak, gelecekteki siber tehditlere karşı donanımlı hale getirmek ve teknolojiyi en verimli şekilde kullanmak zorundadırlar. Bu değişim, en değerli kaynağımız olan insan ile başlar. İnsan kaynağının teknolojiyle donatılması, kurumların güçlü bir dijital altyapı oluşturması ve gelişen tehditlere karşı hazırlıklı olmaları gerekmektedir. Çalışanlar, sadece teknolojiye hakim olmalı, aynı zamanda güvenlik kültürüne sahip, siber tehditlere karşı bilinçli ve hızlı tepki verebilen bireyler olmalıdır.
