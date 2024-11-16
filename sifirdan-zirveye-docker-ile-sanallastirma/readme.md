@@ -42,6 +42,8 @@ Bu eğitim, katılımcılara docker temel prensiplerini, mimarisini ve uygulama 
 
 <div style="page-break-after: always;"></div>
 
+![](docker.jpg)
+
 ## **Eğitim İçeriği**
 
 ### **Docker ve Konteyner Teknolojilerine Giriş**  

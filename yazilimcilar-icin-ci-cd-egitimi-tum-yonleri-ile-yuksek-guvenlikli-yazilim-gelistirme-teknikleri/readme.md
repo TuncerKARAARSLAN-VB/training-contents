@@ -42,6 +42,8 @@ Eğitimi tamamlayan katılımcılar, günümüzün yüksek güvenlikli yazılım
 
 <div style="page-break-after: always;"></div>
 
+![](./ci-cd.jpg)
+
 ## **Eğitim İçeriği**
 
 - **CI/CD’ye Giriş**  

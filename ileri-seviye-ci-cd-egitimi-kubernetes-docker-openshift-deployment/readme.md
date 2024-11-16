@@ -48,6 +48,8 @@ Bu ileri seviye eğitim, katılımcılara **CI/CD** süreçlerini daha etkin bir
 
 <div style="page-break-after: always;"></div>
 
+![](ileri-seviye-ci-cd.jpg)
+
 ## **Eğitim İçeriği**
 
 **DevOps Kültürü ve CI/CD Temelleri**

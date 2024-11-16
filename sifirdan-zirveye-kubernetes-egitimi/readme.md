@@ -1,4 +1,4 @@
-# Sıfırdan Zirveye Kubernetes Eğitimi
+# **Sıfırdan Zirveye Kubernetes Eğitimi**
 
 ![](kubernetes.webp)
 
@@ -44,6 +44,8 @@ Bu paketleri tümüyle yeni teknolojiye geçiş aşamasındaki kurumlara tavsiye
 - 4 haftadan kısa olamamak üzere sizin lokasyonunuzda sizin mesai saatlerinde sizlerle çalışma yapıyoruz.
 - İsterseniz 1 günden kısa olmamak üzere, uzaktan destek olarak da paket sürelerinizi değerlendirebiliyorsunuz
 - Paket sürelerinizi isterseniz çok çeşitli eğitim içeriklerimiz ile kurum içi eğitimler olarak kullanabilirsiniz.
+
+![](./kubernetes.jpg)
 
 ## **Eğitim Hedefi**
 

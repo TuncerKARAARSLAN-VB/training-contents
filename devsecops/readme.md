@@ -1,6 +1,6 @@
 # **DevOpsSec Eğitimi**
 
-![](./devopsec.jpg)
+![](./devsecops1.jpg)
 
 [Download PDF Version](./devopssec.pdf)
 
@@ -67,6 +67,8 @@ Bugün, yazılım geliştirme ve güvenlik dünyasında DevOpsSec'in sunduğu f�
 Bu eğitim, DevOpsSec'in dinamik ve güvenli bir yazılım geliştirme süreci yaratma becerisi kazandırmayı amaçlamaktadır. Katılımcılar, güvenlik ve hız arasında mükemmel bir denge kurarak, güvenli dijital projeler geliştirmeye hazır hale geleceklerdir.
 
 <div style="page-break-after: always;"></div>
+
+![](./devopsec2.jpg)
 
 ## **Eğitim İçeriği**
 
