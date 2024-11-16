@@ -20,6 +20,8 @@
 
 Bu eğitim, katılımcılara docker temel prensiplerini, mimarisini ve uygulama senaryolarını öğretmeyi amaçlamaktadır. Eğitim sonunda katılımcılar, kendi docker  yapılandırmalarını oluşturabilecek, yönetebilecek ve uygulama dağıtımlarını gerçekleştirebilecek düzeye geleceklerdir.
 
+### Eğitim İçeriği:
+
 ### 1. Gün: Docker'a Giriş ve Kurulum
 
 - **Docker Nedir ve Neden Kullanılır?**

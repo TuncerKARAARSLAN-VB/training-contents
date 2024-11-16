@@ -1,124 +1,130 @@
-İşte 20 günlük yoğun bir **DevSecOps** eğitim planı. Bu plan, hem teorik hem de uygulamalı içeriği kapsar ve yazılım geliştirme süreçlerine güvenliği entegre etmeyi öğrenmen için adım adım bir rehber sunar. Aşağıdaki konular, DevSecOps'un her aşamasını öğrenmeni sağlayacak.
+# 20 Günlük DevSecOps Eğitimi
 
-### 1. **DevSecOps Temelleri**
-   - DevOps ile DevSecOps arasındaki farklar
-   - DevSecOps kültürü ve ilkeleri
-   - Güvenliği yazılım geliştirme yaşam döngüsüne (SDLC) entegre etme
-   - "Shift Left" güvenlik yaklaşımı
-   - Güvenli kodlama ve güvenlik bilinci oluşturma
+## **1. Gün: DevSecOps Temelleri**
 
-### 2. **DevOps Araçlarına Giriş**
-   - CI/CD (Continuous Integration/Continuous Delivery) nedir? 
-   - Jenkins, GitLab CI, CircleCI, Travis CI gibi araçlara giriş
-   - CI/CD pipeline'ında güvenlik testleri nasıl entegre edilir?
-   - Pipeline'da otomasyon ve test süreçleri
+- DevOps ve DevSecOps arasındaki farklar
+- DevSecOps kültürü ve temel ilkeleri
+- Yazılım geliştirme yaşam döngüsünde (SDLC) güvenliğin rolü
+- "Shift Left" güvenlik yaklaşımı
+- Güvenli kodlama ve güvenlik bilinci oluşturma
 
-### 3. **Güvenlik Otomasyonu**
-   - CI/CD süreçlerinde güvenlik testleri ve otomasyon
-   - Otomatik güvenlik açıkları tarama araçları: SonarQube, Snyk, Trivy
-   - Pipeline'larda güvenlik testleri nasıl entegre edilir?
-   - Statik kod analizi (SAST) nedir ve nasıl kullanılır?
+## **2. Gün: DevOps Araçlarına Giriş**
 
-### 4. **Yazılım Güvenliği ve Kodlama**
-   - Güvenli kodlama pratikleri
-   - OWASP Top 10: Web uygulamaları için yaygın güvenlik riskleri
-   - SQL injection, XSS (Cross-site scripting) ve CSRF (Cross-Site Request Forgery) saldırıları
-   - Güvenlik açıklarını tespit etmek için kod incelemesi
+- CI/CD nedir? Temel kavramlar ve önemi
+- Jenkins, GitLab CI, CircleCI, Travis CI gibi araçların tanıtımı
+- CI/CD pipeline'larında güvenlik testlerinin rolü
+- Otomasyon ve test süreçlerinin entegrasyonu
 
-### 5. **Statik ve Dinamik Güvenlik Testleri**
-   - Statik kod analizi (SAST) araçları: SonarQube, Checkmarx, Fortify
-   - Dinamik uygulama güvenlik testleri (DAST): OWASP ZAP, Burp Suite
-   - SAST ile DAST karşılaştırması
-   - SAST ve DAST araçlarının pipeline'da nasıl çalıştırılacağı
+## **3. Gün: Sürekli Entegrasyon (CI)**
 
-### 6. **Konteyner ve Kubernetes Güvenliği**
-   - Konteyner güvenliği: Docker ve Kubernetes'e giriş
-   - Güvenli Docker imajları oluşturma
-   - Aqua Security, Twistlock, Trivy gibi konteyner güvenlik araçları
-   - Kubernetes güvenlik açıkları ve güvenli yapılandırma
+- CI araçlarının kullanımı
+- Test otomasyonu: Unit testler, fonksiyonel testler ve code coverage
+- API ve UI testlerinin entegrasyonu
+- Kod kalitesi ve statik analiz araçları (SonarQube vb.)
 
-### 7. **Açık Kaynak Güvenlik Açıkları Yönetimi**
-   - Açık kaynak bağımlılıklarını yönetme
-   - Snyk, Dependabot ve WhiteSource ile açık kaynak güvenlik açıklarını tarama
-   - Açık kaynak bileşenlerdeki güvenlik risklerini azaltma
-   - Vulnerability assessment ve güvenlik yamaları
+## **4. Gün: Güvenlik Otomasyonu**
 
-### 8. **Gizli Bilgilerin Yönetimi (Secrets Management)**
-   - Gizli anahtarların ve şifrelerin yönetimi
-   - Vault, AWS Secrets Manager, Azure Key Vault kullanımı
-   - Secrets yönetimi ile ilgili en iyi pratikler
-   - Güvenlik ihlallerini önlemek için secrets saklama yöntemleri
+- CI/CD süreçlerinde güvenlik testlerinin otomasyonu
+- SonarQube, Snyk, Trivy gibi güvenlik açıkları tarama araçları
+- Statik kod analizi (SAST) ve CI süreçlerine entegrasyonu
+- Güvenlik açığı tarama sonuçlarının yönetimi
 
-### 9. **Güvenlik Politikaları ve Uyumluluk**
-   - Güvenlik politikalarının CI/CD süreçlerine entegrasyonu
-   - GDPR, ISO/IEC 27001, SOC 2 gibi güvenlik standartları
-   - Uyumluluk yönetimi ve raporlama araçları
-   - Güvenlik politikalarının otomatik uygulanması (Policy as Code)
+## **5. Gün: Yazılım Güvenliği ve Güvenli Kodlama Pratikleri**
 
-### 10. **Infrastructure as Code (IaC) ve Güvenlik**
-   - Infrastructure as Code (Terraform, CloudFormation) nedir?
-   - IaC güvenlik açıkları ve bunların önlenmesi
-   - Terraform ile güvenli bulut altyapıları oluşturma
-   - Bridgecrew, Checkov gibi IaC güvenlik araçları kullanımı
+- OWASP Top 10: En yaygın güvenlik zafiyetleri
+- SQL Injection, XSS ve CSRF saldırıları ve önlenmesi
+- Güvenli kod inceleme süreçleri ve teknikleri
 
-### 11. **Sürekli İzleme ve Tehdit Tespiti**
-   - Güvenlik olaylarının ve tehditlerin izlenmesi
-   - SIEM (Security Information and Event Management) sistemleri: Splunk, ELK
-   - Log yönetimi ve güvenlik izleme
-   - Anomali tespiti ve tehdit istihbaratı araçları (Wazuh, OSSEC)
+## **6. Gün: Statik ve Dinamik Güvenlik Testleri**
 
-### 12. **Zararlı Yazılım Analizi ve Koruma**
-   - Zararlı yazılımları tespit etme ve analiz etme
-   - Anti-malware araçlarının CI/CD süreçlerine entegrasyonu
-   - Güvenlik tarayıcıları ve IDS/IPS sistemleri (Intrusion Detection/Prevention Systems)
-   - Dosya bütünlüğü izleme ve güvenlik olaylarının araştırılması
+- Statik analiz araçları: SonarQube, Checkmarx
+- Dinamik güvenlik test araçları: OWASP ZAP, Burp Suite
+- SAST ve DAST karşılaştırması
+- Pipeline'da SAST ve DAST entegrasyonu
 
-### 13. **Penetrasyon Testi ve Red Teaming**
-   - Penetrasyon testinin DevSecOps'taki yeri
-   - Pentest araçları: Metasploit, Nmap, Wireshark
-   - Otomatik penetrasyon testlerinin CI/CD pipeline'a entegrasyonu
-   - Red Team operasyonları ve güvenlik savunmalarını test etme
+## **7. Gün: Sürekli Dağıtım (CD)**
 
-### 14. **Bulut Güvenliği**
-   - AWS, Azure ve Google Cloud güvenliği
-   - Cloud Security Posture Management (CSPM) araçları
-   - Cloud güvenlik mimarileri ve tasarım desenleri
-   - Bulutta kimlik ve erişim yönetimi (IAM) güvenliği
+- Dağıtım stratejileri: Blue-Green, Canary, Rolling
+- CD araçları ve dağıtım süreçlerinin güvenliğe entegre edilmesi
+- Uygulama izleme ve geri dönüş stratejileri
+- Load ve performans testleri
 
-### 15. **Zero Trust Güvenlik Modeli**
-   - Zero Trust güvenlik yaklaşımı
-   - Kullanıcı doğrulama ve yetkilendirme stratejileri
-   - Mikro segmentasyon ile ağ güvenliği
-   - Zero Trust modelinin DevSecOps süreçlerine entegrasyonu
+## **8. Gün: Konteyner ve Kubernetes Güvenliği**
 
-### 16. **Sürekli Güvenlik Testleri**
-   - Sürekli güvenlik testlerinin CI/CD pipeline’a eklenmesi
-   - Otomatik güvenlik testlerinin oluşturulması
-   - CI/CD pipeline’ındaki güvenlik testlerinin sonuçlarının analizi
-   - Testlerin optimize edilmesi ve hızlandırılması
+- Docker ve Kubernetes güvenliği
+- Güvenli Docker imajları oluşturma
+- Aqua Security, Twistlock gibi konteyner güvenlik araçları
+- Kubernetes'te güvenli yapılandırma ve izleme
 
-### 17. **Olay Müdahalesi (Incident Response)**
-   - Güvenlik ihlallerine karşı olay müdahale süreçleri
-   - Olay müdahale planları oluşturma ve test etme
-   - CI/CD pipeline'ında otomatik ihlal tespiti ve olay müdahalesi
-   - Incident response araçları ve playbook'ların kullanımı
+## **9. Gün: Gizli Bilgilerin Yönetimi (Secrets Management)**
 
-### 18. **Güvenlik Geri Bildirimi ve Sürekli İyileştirme**
-   - Güvenlik geri bildirim döngüleri oluşturma
-   - Güvenlik olaylarından öğrenme ve iyileştirme süreçleri
-   - Güvenlik metriklerinin belirlenmesi ve izlenmesi
-   - Sürekli güvenlik iyileştirme kültürünün oluşturulması
+- Gizli anahtarlar ve şifrelerin güvenli yönetimi
+- Vault, AWS Secrets Manager, Azure Key Vault kullanımı
+- CI/CD pipeline'larında secrets yönetimi
 
-### 19. **DevSecOps Kültürü ve Organizasyonel Değişim**
-   - DevSecOps kültürünün organizasyona entegrasyonu
-   - Güvenlik ekipleri ile geliştirici ekiplerin iş birliği
-   - Güvenlik bilincini artıracak eğitim ve atölye çalışmaları
-   - DevSecOps'ta ekip içi iletişim ve iş birliğinin güçlendirilmesi
+## **10. Gün: Açık Kaynak Güvenlik Açıkları Yönetimi**
 
-### 20. **Sonuç ve Sertifikasyon Süreçleri**
-   - DevSecOps sertifikasyonları: Certified DevSecOps Professional, Certified DevSecOps Engineer
-   - DevSecOps projelerinin örneklerle değerlendirilmesi
-   - DevSecOps’ta kariyer planlama ve profesyonel gelişim
-   - Eğitim sonunda kapsamlı bir proje ile öğrendiklerini uygulama
+- Açık kaynak bağımlılıklarının güvenli yönetimi
+- Snyk, Dependabot ile açık kaynak güvenlik açıklarını tarama
+- Açık kaynak güvenlik yamalarının uygulanması
 
-Bu eğitim planı, 20 günlük süreçte her bir konuya derinlemesine dalmanı ve uygulamalı öğrenim sağlamanı hedefler. Hem teorik bilgi hem de uygulamalı çalışmalarla DevSecOps süreçlerini tam anlamıyla öğrenmiş olacaksın.
+## **11. Gün: Infrastructure as Code (IaC) ve Güvenlik**
+
+- Infrastructure as Code kavramı ve araçları (Terraform, CloudFormation)
+- IaC güvenlik açıkları ve güvenli yapılandırma
+- Bridgecrew, Checkov gibi güvenlik araçları ile IaC güvenliği
+
+## **12. Gün: Sürekli İzleme ve Tehdit Tespiti**
+
+- Güvenlik olaylarının izlenmesi ve raporlanması
+- SIEM sistemleri: Splunk, ELK
+- Log yönetimi ve anomali tespiti
+- Wazuh ve OSSEC kullanımı
+
+## **13. Gün: Zararlı Yazılım Analizi ve Koruma**
+
+- Zararlı yazılımların tespiti ve analizi
+- CI/CD süreçlerinde anti-malware araçlarının entegrasyonu
+- Dosya bütünlüğü izleme ve güvenlik olaylarının araştırılması
+
+## **14. Gün: Penetrasyon Testi ve Red Teaming**
+
+- Penetrasyon testleri ve CI/CD entegrasyonu
+- Pentest araçları: Metasploit, Nmap, Wireshark
+- Red Team operasyonları ve güvenlik savunmalarının testi
+
+## **15. Gün: Bulut Güvenliği**
+
+- AWS, Azure ve Google Cloud güvenlik mimarileri
+- Cloud Security Posture Management (CSPM) araçları
+- Bulutta kimlik ve erişim yönetimi (IAM) güvenliği
+
+## **16. Gün: Zero Trust Güvenlik Modeli**
+
+- Zero Trust güvenlik yaklaşımı
+- Kullanıcı doğrulama ve yetkilendirme stratejileri
+- Mikro segmentasyon ve ağ güvenliği
+
+## **17. Gün: Olay Müdahalesi (Incident Response)**
+
+- Güvenlik ihlalleri karşısında olay müdahale süreçleri
+- CI/CD pipeline'ında otomatik ihlal tespiti
+- Incident response araçları ve playbook'lar
+
+## **18. Gün: Sürekli Güvenlik Testleri ve Geri Bildirim Döngüsü**
+
+- CI/CD pipeline'ında sürekli güvenlik testleri oluşturma
+- Güvenlik testlerinin analiz edilmesi ve optimize edilmesi
+- Sürekli güvenlik geri bildirim döngülerinin oluşturulması
+
+## **19. Gün: DevSecOps Kültürü ve Organizasyonel Değişim**
+
+- DevSecOps kültürünün organizasyona entegrasyonu
+- Güvenlik ve geliştirme ekipleri arasında iş birliği
+- Güvenlik bilincini artıran atölye çalışmaları
+
+## **20. Gün: Sonuç ve Sertifikasyon Süreçleri**
+
+- DevSecOps projelerinin değerlendirilmesi
+- DevSecOps'ta kariyer planlama ve sertifikasyon süreçleri
+- Eğitim sonunda kapsamlı bir proje ve değerlendirme

@@ -2,21 +2,19 @@
 
 2025 yılı için hazırladığımız kurumsal eğitim içerikleri ile ilgili heyecanımızı sizlerle paylaşmaktan mutluluk duyuyoruz. Eğitimlerimiz, çalışanlarınızın yetkinliklerini artırmaya, ekip ruhunu güçlendirmeye ve kurumunuzun hedeflerine ulaşmasına katkı sağlamak amacıyla tasarlandı.
 
-Bu yıl, kurumunuza değer katacak ve çalışanlarınızın gelişimini destekleyecek çeşitli eğitim programları sunuyoruz. Aşağıda, 2025 yılı için planladığımız eğitim başlıklarını bulabilirsiniz:
+Bu yıl, kurumunuza değer katacak ve çalışanlarınızın gelişimini destekleyecek çeşitli eğitim programları sunuyoruz. Aşağıda, 2025 yılı için planladığımız eğitim başlıklarını bulabilirsiniz.
 
 ## Eğitim Başlıklarımız
 
 Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayınız.
 
-İsterseniz eğitimleri [özelleştirebilirsiniz](#özelleştirme-fırsatları). [5 ve 12 günlük eğitim formatları](#5-günlük-ve-12-günlük-eğitim-arasındaki-fark) için listenin sonundki bölümü okuyabilirsiniz.
-
-### A - Sanallaştırma ve CI/CD Eğitimlerimiz
+İsterseniz eğitimleri [özelleştirebilirsiniz](#özelleştirme-fırsatları). [5 ve 12 günlük eğitim formatları](#5-günlük-ve-12-günlük-eğitim-arasındaki-fark) için listenin sonundaki bölümü okuyabilirsiniz.
 
 - **[01 - Sıfırdan Zirveye Docker ile Sanallaştırma](./sifirdan-zirveye-docker-ile-sanallastirma/readme.md)**
 - **[02 - Sıfırdan Zirveye Kubernetes Eğitimi](./sifirdan-zirveye-kubernetes-egitimi/readme.md)**
 - **[03 - Yazılımcılar için CI/CD Eğitimi - Tüm Yönleri İle Yüksek Güvenlikli Yazılım Geliştirme Teknikleri](./yazilimcilar-icin-ci-cd-egitimi-tum-yonleri-ile-yuksek-guvenlikli-yazilim-gelistirme-teknikleri/readme.md)**
 - **[04 - Sistem Yöneticileri ve Mimamlar için İleri Seviye CI/CD Eğitimi ve Kubernetes, Docker, Openshift Deployment](./ileri-seviye-ci-cd-egitimi-kubernetes-docker-openshift-deployment/readme.md)**
-- [**DevSecOps Eğitimi Yazılım Geliştirme Süreçleri ve Güvenlik Entegre Süreçler ile Yazılım Geliştirme**](./devsecops/readme.md)
+- **[05 - Yüksek Seviyeli Kod Korumalı Yazılım Geliştirme Süreçleri ve Devsecops](./devsecops/readme.md)**
 
 ### B - Yazılım Süreçleri Eğitimlerimiz
 

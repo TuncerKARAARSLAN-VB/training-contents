@@ -31,6 +31,22 @@ Bu eğitim, yazılımcılara sürekli entegrasyon (CI) ve sürekli dağıtım (C
   - Test otomasyonu ve birim testleri
     - Test otomasyon araçları ve framework’leri (Selenium, JUnit, TestNG vb.)
     - Otomatik testlerin CI süreçlerine entegrasyonu
+  - **Fonksiyonel (Function) Testler**
+    - Fonksiyonel testlerin önemi ve CI sürecine entegrasyonu
+    - **Code Coverage (Kod Kapsamı)**: Testlerin kod üzerindeki kapsama oranı
+      - Code coverage araçları (Jacoco, Istanbul, Cobertura vb.)
+      - Code coverage'ın CI süreçlerine entegrasyonu
+  - **Kullanıcı Arayüzü (UI) Testleri**
+    - UI testleri ve otomasyon araçları (Selenium, Cypress vb.)
+    - **Web Uygulamaları**: Web uygulamaları için test senaryoları ve entegrasyonu
+    - **Mobil Uygulamalar**: Mobil test araçları (Appium, Espresso vb.) ve entegrasyonu
+    - **Windows Uygulamaları**: Windows uygulamaları için test stratejileri (WinAppDriver vb.)
+  - **API Testleri**
+    - API test araçları ve framework'leri (Postman, RestAssured vb.)
+    - API testlerinin CI süreçlerine entegrasyonu
+  - **Microservis Testleri**
+    - Microservislerin test edilmesi (Contract testing, Integration testing vb.)
+    - Microservislerde izolasyon ve bağımsız test stratejileri
   - Kod kalitesi ve statik analiz araçları
     - SonarQube ile kod kalitesi analizi
     - Kod incelemesi ve raporlama
@@ -41,11 +57,28 @@ Bu eğitim, yazılımcılara sürekli entegrasyon (CI) ve sürekli dağıtım (C
   - Dağıtım stratejileri: Blue-Green, Canary ve Rolling
   - Uygulama izleme ve geri dönüş stratejileri
   - Dağıtım süreçlerinin otomasyonu
+  - **Yük (Load) Testleri**
+    - Load testlerin önemi, araçları (JMeter, Gatling vb.) ve CI/CD entegrasyonu
+    - Web, mobil, Windows uygulamaları ve microservisler için yük testlerinin özelleştirilmesi
 
 - **Gün 4: Güvenli Yazılım Geliştirme Teknikleri**
   - Yazılım güvenliği kavramları ve tehdit modelleme
+  - **OWASP Top 10 Güvenlik Zafiyetleri**
+    - En yaygın güvenlik açıkları (SQL Injection, XSS vb.)
+    - OWASP test araçlarının kullanımı (OWASP ZAP, Burp Suite vb.)
+    - OWASP standartlarının CI/CD süreçlerine entegrasyonu
   - Güvenlik açığı tarama araçları ve entegrasyonu
-  - Güvenli kodlama standartları ve en iyi uygulamalar
+  - **Kod Güvenlik Testleri**
+    - Statik ve dinamik güvenlik test araçları (SAST, DAST)
+    - Kod güvenlik analizi (SonarQube, Checkmarx vb.)
+  - **Güvenli Kodlama Teknikleri**
+    - **Güvenli Kodlama İlkeleri**: Kod yazarken güvenlik zafiyetlerini önlemenin yolları
+    - Girdi doğrulama, çıktı filtreleme ve yetkilendirme mekanizmaları
+    - **Güvenli Kodlama Standartları**: OWASP, SANS, CERT gibi güvenlik çerçeveleri
+    - **Veri Şifreleme Teknikleri**: Verilerin güvenli bir şekilde işlenmesi ve saklanması
+    - **Güvenli Parola Yönetimi**: Hashing ve saklama yöntemleri
+    - Güvenli hata yönetimi ve logging uygulamaları
+    - Tersine mühendisliğe karşı koruma yöntemleri
   - CI/CD süreçlerinde güvenliğin entegrasyonu
 
 - **Gün 5: Pratik Uygulamalar ve Vaka Çalışmaları**
