@@ -1,6 +1,10 @@
 # Enerji Firmaları İçin Mimari Geliştirme ve Sürekli Kendini Yetiştirebilen Ekipler
 
-## Eğitim Süresi:
+![](./energy-2.jpg)
+
+[Download PDF Version](./energy.pdf)
+
+## **Eğitim Süresi**
 
 ## Plan 1
 
@@ -23,14 +27,14 @@ Bu planda eğitim içeriği ile birlikte, firmanın ihityacı olan ek destek sü
 
 ## Plan 3
 
-Plan 1 ya da Plan 2 seçilerek, sürenin sonunda yerinde uyarlama ve uygulama için destek verilebilir. Bu durumda en az 2 haftalık bir  destek programa dahil edilebilir. İş planlarındaki yoğunluk nedeni ile bu planı firmaların özellikle tercih etmeleri tavsiyedir. Eğitim paketlerine ek olarak 2 haftalık yerinde çalışma ve uygulama kurulumları, handson ve destek bu program dahilinde yapılacaktır.
+Plan 1 ya da Plan 2 seçilerek, sürenin sonunda yerinde uyarlama ve uygulama için destek verilebilir. Bu durumda en az 2 haftalık bir  destek programa dahil edilebilmektedir. Eğer projenizde kesin başarı istiyorsanız, her adımda yanınınzda deneyim sahibi iş ortağına ihtiyacınız varsa, tam gizlilik ve güvenlikli iş ortağı olarak bu planı istediğiniz süre için tercih edebilirsiniz. Eğitim paketlerine ek olarak en az 2 hafta (isteğe göre süre arttırılabilir) yerinde çalışma ve uygulama kurulumları, handson ve destek bu program dahilinde yapılacaktır.
 
 Bu plan için konaklama ve gidiş geliş ulaşım firma tarafından sağlanacak, hafta için tam gün mesai süresinde çalışma yapılacaktır. Hafta içi mesai saatlerinde öğle yemeği firma personeli ile sağlanan yemekhanede birlikte yapılacak, tam gün mesai gerçekleştirilecektir.
 
-- **Toplam Süre:** 2 hafta
+- **Toplam Süre:** 2 hafta (ya da istenildiği kadar arttırılabilir)
 - **Danışmanlık Günleri:** Haftada 5 gün
 
-## Enerji Firmaları İçin Mimari Geliştirme ve Sürekli Kendini Yetiştirebilen Ekipler
+## Enerji Firmaları İçin Yazılım ve Alt Yapı Mimarilerive Yeni Nesil Geliştirme Ortamları
 
 Enerji sektörü, hızla dijitalleşen ve veri yoğun bir sektör haline gelmiştir. Bu dijital dönüşümle birlikte, enerji üretiminden tüketimine kadar olan tüm süreçlerde veri işleme, depolama ve analizi giderek daha kritik bir hale gelmektedir. Ancak bu süreçlerin verimli bir şekilde yönetilmesi, birçok teknik ve operasyonel zorluğu beraberinde getirmektedir.
 
@@ -68,7 +72,7 @@ Bu süreçte karşılaşılan bazı yaygın veri işleme sorunları:
 
 **Altyapı ve Teknoloji Entegrasyonu:** Uzaktan elektrik açma ve kapama sistemlerinin mevcut altyapıya entegrasyonu teknik olarak karmaşık olabilir. Yeni cihazlar ve yazılımlar mevcut şebeke altyapısına uyumlu olmalı, sistemlerin birbirleriyle sorunsuz iletişim kurmasını sağlamalıdır.
 
-# Eğitimin Hedefi
+# **Eğitimin Hedefi**
 
 1. **Enerji Sektöründeki Dijital Dönüşümü Anlamak:**
    - Katılımcılara enerji sektöründeki dijital dönüşümün önemini ve bu dönüşümün sektördeki operasyonel süreçlere etkilerini öğretmek.
@@ -106,7 +110,9 @@ Bu süreçte karşılaşılan bazı yaygın veri işleme sorunları:
 12. **İleri Seviye İletişim ve Takım Çalışması Becerileri:**
     - Katılımcılara, proje yönetimi ve DevOps süreçlerinde etkili iletişim ve takım çalışması becerilerini geliştirmelerini sağlamak.
 
-## Eğtim İçeriği
+## **Eğitim İçeriği**
+
+![](./energy-1.jpg)
 
 **Eğitim İçeriği:** Büyük Trafikli Sistemler Geliştirme (ASP.NET Core, gRPC, RabbitMQ, Token-Based Authentication, Mobil Uygulama Entegrasyonu ve Kubernetes)
 
@@ -223,7 +229,9 @@ Bu süreçte karşılaşılan bazı yaygın veri işleme sorunları:
 
 Eğitim yöntemi, enerji sektörüne yönelik eğitim içeriği ile ilgili katılımcıların beceri ve bilgilerini geliştirmek için çeşitli stratejileri içermelidir. İşte bu eğitim için önerilen yöntemler:
 
-## Eğitim Yöntemi
+<div style="page-break-after: always;"></div>
+
+## **Eğitim Yöntemi**
 
 1. **Teorik Eğitim ve Kavramlar**
    - **Temel Bilgiler ve Kavramlar:** Katılımcılara enerji sektörü ve dijital dönüşümle ilgili temel bilgiler sunulacak, sektörün veri işleme, güvenlik ve altyapı gereksinimleri hakkında teorik bilgiler verilecektir.
@@ -266,7 +274,7 @@ Eğitim yöntemi, enerji sektörüne yönelik eğitim içeriği ile ilgili katı
    - **Online Platformlar:** Eğitim materyalleri ve kaynaklar çevrimiçi platformlar üzerinden paylaşılacak ve katılımcılara eğitim sonunda erişim imkanı sağlanacaktır.
    - **Uzaktan Danışmanlık:** Katılımcılar, eğitim sonrası ihtiyaç duyduklarında uzaktan destek alabilecektir.
 
-## Hedef Kitle
+## **Hedef Kitle**
 
 1. **Enerji Sektöründeki Yöneticiler ve Karar Vericiler**
    - **Kapsam**: Enerji şirketlerinin üst düzey yöneticileri, proje yöneticileri, IT ve dijital dönüşüm departmanı yöneticileri, departman müdürleri.
@@ -314,7 +322,7 @@ Eğitim yöntemi, enerji sektörüne yönelik eğitim içeriği ile ilgili katı
 
 Bu eğitim, enerji sektörü profesyonellerinin dijital dönüşüm ve yüksek performanslı, güvenli altyapıların tasarımı konularındaki yetkinliklerini artırmayı hedeflemektedir. Her bir hedef kitle grubunun farklı ihtiyaçlarını göz önünde bulundurarak, katılımcılar bu eğitimden maksimum verim alacaklardır.
 
-## Katılımcılardan Bekletiler
+## **Katılımcılardan Bekletiler**
 
 1. **Enerji Sektöründe Yer Alan Altyapı Mühendisleri**
    - Katılımcıların, enerji sektöründe altyapı projelerinde deneyime sahip olmaları ve bu projelerin yönetimi konusunda bilgi sahibi olmaları beklenir.
@@ -362,4 +370,4 @@ Bu eğitim, enerji sektörü profesyonellerinin dijital dönüşüm ve yüksek p
 
 Bu beklentiler, katılımcıların etkinlikten en verimli şekilde faydalanmasını sağlayacak ve sektördeki gelişmelere katkıda bulunmalarını teşvik edecektir.
 
-[Eğitim ana materyalleri, sadece eğitmenler için](https://github.com/TuncerKARAARSLAN-VB/training-kit-enerji-firmalari-icin-mimari-gelistirmeler)
+[Eğitim Materyalleri (Eğitmenlere Özel)](https://github.com/TuncerKARAARSLAN-VB/training-kit-enerji-firmalari-icin-mimari-gelistirmeler)
