@@ -96,16 +96,9 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 
 ![](ai.jpg)
 
-- **[01 - Kurum Çalışanları için Yapay Zeka ve Çalışan Performansının Artırılması](./kurum-calisanlari-icin-yapay-zeka-ve-calisan-performansinin-artirilmasi/readme.md)**
-- **[02 - Kurumsal Yapay Zeka Kodlama, Second Brain](./kurumsal-yapay-zeka-second-brain/readme.md)**
-- **[03 - Yöneticiler için Yapay Zeka ve Kurumların Yarınlara Hazır Hale Getirilmesi](./yoneticiler-icin-yapay-zeka-ve-kurumlari-yarina-hazirlama/readme.md)**
-- **[04 - Yöneticiler için AI Stratejik Planlama ve Uygulama – Kurumlar için AI entegrasyonu ve yönetim stratejileri](yoneticiler-icin-ai-stratejik-planlama-ve-uygulama-kurumlar-icin-ai-entegrasyonu-ve-yonetim-stratejileri/readme.md)**
-- **[05 - Yapay Zeka Destekli Veri Bilimi ve Makine Öğrenmesi Eğitimi – Temelden ileri seviyeye veri bilimi, model oluşturma ve optimizasyon](yapay-zeka-destekli-veri-bilimi-ve-makine-ogrenmesi-egitimi-temelden-ileri-seviyeye-veri-bilimi-model-olusturma-ve-optimizasyon/readme.md)**
-- **[06 - Generatif Yapay Zeka Uygulamaları Geliştirme (ChatGPT, DALL·E, vb.) – Yaratıcı yapay zeka araçlarını kullanarak içerik ve uygulama geliştirme](generatif-yapay-zeka-uygulamalari-gelistirme-chatgpt-dall-e-vb-yaratici-yapay-zeka-araclarini-kullanarak-icerik-ve-uygulama-gelistirme/readme.md)**
-- **[07 - İş Analitiği için Yapay Zeka ve RPA (Robotic Process Automation) Eğitimi – Kurumlar için otomasyon ve iş süreçlerinin verimliliğini artırma](is-analitigi-icin-yapay-zeka-ve-rpa-robotic-process-automation-egitimi-kurumlar-icin-otomasyon-ve-is-sureclerinin-verimliligini-artirma/readme.md)**
-- **[08 - Yapay Zeka ile Kişiselleştirilmiş Müşteri Deneyimi Geliştirme – AI ile müşteri hizmetleri ve CRM'de inovatif yaklaşımlar](yapay-zeka-ile-kisisellestirilmis-musteri-deneyimi-gelistirme-ai-ile-musteri-hizmetleri-ve-crmde-inovatif-yaklasimlar/readme.md)**
-- **[09 - NLP (Doğal Dil İşleme) Projeleri için Geliştirme ve Uygulama Eğitimi – Sohbet botları ve metin analizleri için NLP temelli uygulamalar](nlp-dogal-dil-isleme-projeleri-icin-gelistirme-ve-uygulama-egitimi-sohbet-botlari-ve-metin-analizleri-icin-nlp-temelli-uygulamalar/readme.md)**
-- **[10 - İş Gücü Yönetiminde Yapay Zeka ve İnsan Kaynakları Çözümleri – AI ile işe alım, yetenek yönetimi ve çalışan verimliliği](is-gucu-yonetiminde-yapay-zeka-ve-insan-kaynaklari-cozumleri-ai-ile-ise-alim-yetenek-yonetimi-ve-calisan-verimliligi/readme.md)**
+- **[01 - Yapay Zeka ile Kişiselleştirilmiş Müşteri Deneyimi Geliştirme – AI ile müşteri hizmetleri ve CRM'de inovatif yaklaşımlar](yapay-zeka-ile-kisisellestirilmis-musteri-deneyimi-gelistirme-ai-ile-musteri-hizmetleri-ve-crmde-inovatif-yaklasimlar/readme.md)**
+- **[02 - NLP (Doğal Dil İşleme) Projeleri için Geliştirme ve Uygulama Eğitimi – Sohbet botları ve metin analizleri için NLP temelli uygulamalar](nlp-dogal-dil-isleme-projeleri-icin-gelistirme-ve-uygulama-egitimi-sohbet-botlari-ve-metin-analizleri-icin-nlp-temelli-uygulamalar/readme.md)**
+- **[03 - İş Gücü Yönetiminde Yapay Zeka ve İnsan Kaynakları Çözümleri – AI ile işe alım, yetenek yönetimi ve çalışan verimliliği](is-gucu-yonetiminde-yapay-zeka-ve-insan-kaynaklari-cozumleri-ai-ile-ise-alim-yetenek-yonetimi-ve-calisan-verimliligi/readme.md)**
 
 Bu eğitimlerle, ekiplerinizin motivasyonunu artırmayı, iş süreçlerini optimize etmeyi ve sektördeki yeniliklere ayak uydurmayı hedefliyoruz. Sizleri dünya standartlarında yetkin kurumlar haline getirmek için eğitim içeriklerimizi güncelliyor ve yeni eğitimler hazırlıyoruz. Sizlere yazılım eğitimleri hazırlamadık. Ülkemizin eksik olduğu konularda sizlerin yeni dünya hakkında farkındalığınızı arttırmaya çalışıyoruz.
 
