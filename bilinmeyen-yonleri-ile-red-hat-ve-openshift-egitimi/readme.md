@@ -2,7 +2,7 @@
 
 ![](redhat-openshift.webp)
 
-[Download PDF Version](./red-hat.pdf)
+[Download PDF Version](./redhat.pdf)
 
 ## **Eğitim Süresi**
 

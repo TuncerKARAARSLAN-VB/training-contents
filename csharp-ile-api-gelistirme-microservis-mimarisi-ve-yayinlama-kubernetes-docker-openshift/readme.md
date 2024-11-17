@@ -1,26 +1,36 @@
-# C# ile Microservis Mimarisi ve Yayınlama (Kubernetes, Docker, OpenShift)
+# **C# ile Microservis Mimarisi ve Yayınlama (Kubernetes, Docker, OpenShift)**
 
-## Eğitim Süresi:
+![](csharp-2.jpg)
 
-**Format 1**
+[Download PDF Version](./csharp.pdf)
 
-- **5 Gün**
-- **Ders Süresi:** 50 dakika
-- **Eğitim Saati:** 10:00 - 17:00
+## **Eğitim Süresi**
 
-**Format 2**
+- **Format 1**
+  - **5 Gün**
+  - **Ders Süresi:** 50 dakika
+  - **Eğitim Saati:** 10:00 - 17:00
 
-- **12 Gün**
-- **Ders Süresi:** 50 dakika
-- **Eğitim Saati:** 10:00 - 17:00
+- **Format 2**
+  - **12 Gün**
+  - **Ders Süresi:** 50 dakika
+  - **Eğitim Saati:** 10:00 - 17:00
 
-## C# ile Microservis Mimarisi ve Yayınlama (Kubernetes, Docker, OpenShift)**
+- > Her iki eğitim formatında eğitimler 50 dakika + 10 dakika moladır. 12:00-13:00 saatleri arasında 1 saat yemek arasındaki verilir. Günde toplam 6 saat eğitim verilir. 5 günlük formatta 30 saat eğitim, 12 günlük formatta toplam 72 saat eğitim verilmektedir. 12 saatlik eğitmde katılımcılar kod yazar ve eğitmenle birlikte sorulan sorulara ve taleplere uygun içerikler ve örnekler çalışılır.
+
+- > Eğitimler uzaktan eğitim formatında tasarlanmıştır. Her eğitim için teams linkleri gönderilir. Katılımcılar bu linklere girerek eğitimlere katılırlar. Ayrıca farklı remote çalışma araçları da eğitmen tarafından tüm katılımlara sunulur. Katılımcılar bu araçları kullanarak eğitimlere katılırlar. 
+
+- > Eğitim içeriğinde github ve codespace kullanılır. Katılımcılar bu platformlar üzerinden örnek projeler oluşturur ve eğitmenle birlikte eğitimlerde sorulan sorulara ve taleplere uygun iceriğe cevap verir. Katılımcılar bu araçlarla eğitimlerde sorulan sorulara ve taleplere uygun iceriğe cevap verir.
+
+- > Eğitim yapay zeka destekli kendi kendine öğrenme formasyonu ile tasarlanmıştır. Katılımcılar eğitim boyunca kendi kendine öğrenme formasyonu ile eğitimlere katılırlar. Bu eğitim formatı sayesinde tüm katılımcılar gelecek tüm yaşamlarında kendilerini güncellemeye devam edebilecekler ve her türlü sorunun karşısında çözüm bulabilecekleri yeteneklere sahip olacaklardır.
+
+## **C# ile Microservis Mimarisi**
 
 Bu eğitim, yazılım geliştirme dünyasında giderek daha fazla önem kazanan mikroservis mimarisi, konteynerleştirme ve bulut tabanlı dağıtım süreçleri konularında derinlemesine bilgi edinmek isteyen yazılım geliştiricileri, DevOps mühendisleri ve sistem yöneticileri için tasarlanmıştır. Eğitim, C# dilinde mikroservis geliştirme, Docker ile konteynerleştirme ve modern bulut platformları olan Kubernetes ve OpenShift üzerinde dağıtım yapma süreçlerini kapsamlı bir şekilde ele alacaktır.
 
 Bu 5 günlük eğitim, katılımcıların mikroservis mimarisine dair sağlam bir temel oluşturmalarına ve mikroservislerin nasıl geliştirileceği, yönetileceği, ölçeklendirileceği ve dağıtılacağı konusunda pratik bilgi edinmelerine olanak tanır. Katılımcılar, günümüz yazılım geliştirme ve operasyon süreçlerinde yaygın olarak kullanılan Docker konteyner teknolojileri, Kubernetes orkestrasyon araçları ve OpenShift platformu üzerinde uygulamalarını nasıl yönetebileceklerini öğreneceklerdir.
 
-## Eğitim Hedefi:
+## **Eğitim Hedefi**
 
 - Katılımcılar, mikroservis mimarisinin temellerini öğrenip, modern yazılım geliştirme süreçlerinde nasıl etkili bir şekilde uygulayabileceklerini keşfedecekler.
 - C# dilinde mikroservis geliştirme konusunda derinlemesine bilgi sahibi olacaklar.
@@ -28,7 +38,11 @@ Bu 5 günlük eğitim, katılımcıların mikroservis mimarisine dair sağlam bi
 - Kubernetes ile konteynerleştirilmiş uygulamaların nasıl orkestre edileceği ve yönetileceği hakkında bilgi sahibi olacaklar.
 - OpenShift üzerinde uygulamaların yönetimi, dağıtımı ve ölçeklenmesi konularında uygulamalı bilgiler edinerek bulut tabanlı ortamlarda üretim uygulamaları geliştirme yetkinliği kazanacaklar.
 
-## Eğitim İçeriği:
+<div style="page-break-after: always;"></div>
+
+## **Eğitim İçeriği**
+
+![](./csharp-1.jpg)
 
 ### **Bölüm 1: Microservis Mimarisi ve C# ile Geliştirme**
 
@@ -176,8 +190,7 @@ Bu 5 günlük eğitim, katılımcıların mikroservis mimarisine dair sağlam bi
    - **Health Check ve Readiness Probes:**
      - Kubernetes ve OpenShift üzerinde mikroservislerin sağlık durumlarını izleme
 
-
-
+<div style="page-break-after: always;"></div>
 
 ## **Eğitim Yöntemi:**
 
@@ -241,4 +254,4 @@ Bu 5 günlük eğitim, katılımcıların mikroservis mimarisine dair sağlam bi
 14. **Pratik Uygulamalar Yapabilme:**
     Eğitimde öğrendikleri teorik bilgileri gerçek dünya senaryolarında uygulayabilme yeteneğine sahip olmaları, katılımcıların daha hızlı gelişmelerine yardımcı olur.
 
-[Eğitim ana materyalleri, sadece eğitmenler için](https://github.com/TuncerKARAARSLAN-VB/training-kit-csharp-ile-mikro-servis-mimarisi)
+[Eğitim Materyalleri (Eğitmenlere Özel)](https://github.com/TuncerKARAARSLAN-VB/training-kit-csharp-ile-mikro-servis-mimarisi)
