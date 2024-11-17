@@ -1,5 +1,12 @@
 # **Güncel Eğitim Programlarımız**  
 
+> **Neden eğitimlerimizi tercih etmelisiniz**
+> Diğer kurumsal eğtimlerin aksine biz sadece tek bir program kullanımı hakkında eğitim vermiyoruz, yaşadığınız sorunları biliyoruz, anlıyoruz ve size sorunlarınızın kurumsal çözümleri için özel sektörel çözümler üretiyoruz. 
+> **Eğitimlerimizde sizin kurumsal sorunlarına odaklı senaryolar ile eğitim içeriklerimizi güncelliyoruz, sizlere özel eğitimler sunuyoruz.**
+> Onlarca ayrı eğitim almanıza gerek kalmadan, tek bir eğitim programı ile tüm sorunlarınıza özel çözümler üretiyoruz. 
+> Bu her eğitmenin verebileceği kolay bir eğitim değil, yetkin ve deneyimli özel eğitmenlerimiz sizin için özel olarak eğitimlere hazırlanıyor. 
+> Bizimle çalışarak sorunlarınıza kesin çözümler sağlarsınız. Eğitmlerinde bizi tercih eden tüm kurumlara teşekkür ederiz.
+
 ![](egitim.jpg)
 
 > [Lütfen PDF olarak eğitim kataloğumuzu indirin](./trainer-point%20with%20tuncer-erdem.pdf) ***İndirebileceğiniz PDF dokümanındaki tüm linkler github linklerine yönlendirilmektedir. Bu sayede tüm eğitimlerin en güncel eğitim içeriklerine sahip olabileceksiniz. Lütfen PDF dökümanını indirip eğitim almak isteyen birimleriniz ile paylaşın. Kurumlarınıza değer katacak yepyeni eğitimler sayesinde güncel içerikleri sağlayabilirsiniz.***
