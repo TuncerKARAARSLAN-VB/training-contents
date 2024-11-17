@@ -2,6 +2,20 @@
 
 ![](devops.webp)
 
+[Download PDF Version](./devops.pdf)
+
+## **Eğitim Süresi**
+
+- **Format 1**
+  - **5 Gün**
+  - **Ders Süresi:** 50 dakika
+  - **Eğitim Saati:** 10:00 - 17:00
+
+- **Format 2**
+  - **12 Gün**
+  - **Ders Süresi:** 50 dakika
+  - **Eğitim Saati:** 10:00 - 17:00
+
 ## Eğitim Süresi:
 
 **Format 1**
@@ -16,13 +30,21 @@
 - **Ders Süresi:** 50 dakika
 - **Eğitim Saati:** 10:00 - 17:00
 
+- > Her iki eğitim formatında eğitimler 50 dakika + 10 dakika moladır. 12:00-13:00 saatleri arasında 1 saat yemek arasındaki verilir. Günde toplam 6 saat eğitim verilir. 5 günlük formatta 30 saat eğitim, 12 günlük formatta toplam 72 saat eğitim verilmektedir. 12 saatlik eğitmde katılımcılar kod yazar ve eğitmenle birlikte sorulan sorulara ve taleplere uygun içerikler ve örnekler çalışılır.
+
+- > Eğitimler uzaktan eğitim formatında tasarlanmıştır. Her eğitim için teams linkleri gönderilir. Katılımcılar bu linklere girerek eğitimlere katılırlar. Ayrıca farklı remote çalışma araçları da eğitmen tarafından tüm katılımlara sunulur. Katılımcılar bu araçları kullanarak eğitimlere katılırlar. 
+
+- > Eğitim içeriğinde github ve codespace kullanılır. Katılımcılar bu platformlar üzerinden örnek projeler oluşturur ve eğitmenle birlikte eğitimlerde sorulan sorulara ve taleplere uygun iceriğe cevap verir. Katılımcılar bu araçlarla eğitimlerde sorulan sorulara ve taleplere uygun iceriğe cevap verir.
+
+- > Eğitim yapay zeka destekli kendi kendine öğrenme formasyonu ile tasarlanmıştır. Katılımcılar eğitim boyunca kendi kendine öğrenme formasyonu ile eğitimlere katılırlar. Bu eğitim formatı sayesinde tüm katılımcılar gelecek tüm yaşamlarında kendilerini güncellemeye devam edebilecekler ve her türlü sorunun karşısında çözüm bulabilecekleri yeteneklere sahip olacaklardır.
+
 ## **DevOps Proje Yönetimi**
 
 DevOps Proje Yönetimi eğitimimizde, katılımcılara DevOps kültürü, araçları ve uygulamaları hakkında derinlemesine bilgi sunarak, bu bilgilerin projelerde nasıl başarılı bir şekilde yönetileceğini öğretmeyi amaçlamaktadır. Eğitim, DevOps'un temel ilkelerinden başlayarak, yazılım geliştirme ve IT operasyonları arasındaki işbirliğini güçlendirmek için kullanılan modern yöntemleri, araçları ve stratejileri kapsamlı bir şekilde ele alacaktır. Katılımcılar, DevOps süreçlerinin her aşamasını yönetme yetkinliği kazanacak ve bu süreçlerin organizasyonel düzeyde nasıl sürdürülebilir ve verimli hale getirilebileceğini öğreneceklerdir.
 
 Eğitimde, DevOps kavramı, sadece bir yazılım geliştirme süreci değil, aynı zamanda bir kültür değişikliği olarak ele alınacaktır. DevOps, ekipler arasında güçlü bir işbirliği ve sürekli iletişim gerektiren bir modeldir ve bu eğitimde, katılımcılar, organizasyonel düzeyde DevOps kültürünü nasıl oluşturabileceklerini ve bu kültürün projelerde nasıl etkili bir şekilde yönetileceğini keşfedeceklerdir.
 
-## **Eğitim Hedefi:**
+## **Eğitim Hedefi**
 
 - DevOps'un temellerini öğrenmek ve proje yönetiminde nasıl etkili bir şekilde uygulayabileceğinizi keşfetmek.
 - DevOps süreçlerini (CI/CD, otomasyon, test süreçleri, izleme) yönetme becerisi kazandırmak.
@@ -30,68 +52,68 @@ Eğitimde, DevOps kavramı, sadece bir yazılım geliştirme süreci değil, ayn
 - DevOps kültürünü, iletişim süreçlerini ve iş birliğini güçlendirecek projelerde nasıl liderlik yapılacağını öğrenmek.
 - Yazılım geliştirme, operasyonel süreçler ve DevOps süreçleri arasında verimli bir entegrasyon sağlamak.
 
----
+<div style="page-break-after: always;"></div>
 
-## **Eğitim İçeriği:**
+## **Eğitim İçeriği**
 
-**1. Gün: DevOps'a Giriş ve Temel Prensipler**
+### **1. DevOps'a Giriş ve Temel Prensipler**  
 
-- **DevOps Nedir?**: DevOps'un tanımı, tarihçesi ve yazılım geliştirme ile IT operasyonları arasındaki köprü.
-- **DevOps Kültürü**: İşbirliği, iletişim ve kültür değişikliği.
-- **DevOps'un Temel İlkeleri**: Sürekli Entegrasyon (CI), Sürekli Dağıtım (CD), Otomasyon, İzleme, Geri Bildirim ve Hızlı Teslimat.
-- **DevOps ve Agile**: Agile ve DevOps arasındaki ilişki, yazılım geliştirme süreçlerini hızlandırma.
-- **DevOps Proje Yönetimi**: DevOps projelerinin başlatılması, planlanması ve yönetilmesi için stratejiler.
+- **DevOps Nedir?**  
+  - Tanım, tarihçe ve yazılım geliştirme ile IT operasyonları arasındaki ilişki.  
+- **DevOps Kültürü**  
+  - İşbirliği, iletişim ve kültür değişikliği üzerine.  
+- **Temel İlkeler**  
+  - Sürekli Entegrasyon (CI), Sürekli Dağıtım (CD), otomasyon, izleme, geri bildirim ve hızlı teslimat süreçleri.  
+- **Agile ve DevOps**  
+  - İki yaklaşımın birbirini nasıl tamamladığı.  
+- **Proje Yönetimi**  
+  - DevOps projelerini başlatma, planlama ve yönetim için stratejiler.  
 
-**2. Gün: Sürekli Entegrasyon (CI) ve Sürekli Dağıtım (CD) Yönetimi**
+### **2. Sürekli Entegrasyon (CI) ve Sürekli Dağıtım (CD)**  
 
-- **Sürekli Entegrasyon (CI)**: CI'nin temelleri, avantajları ve uygulama stratejileri.
-  - Jenkins, GitLab CI ve diğer CI araçları ile entegrasyon.
-  - Otomatik test süreçleri ve kod kalitesi kontrolü.
-  - Build ve test pipeline'ları.
-- **Sürekli Dağıtım (CD)**: CD'nin rolü, CI ile entegrasyonu ve otomatik dağıtım stratejileri.
-  - CD için en iyi uygulamalar ve araçlar.
-  - Yazılım güncellemelerinin hızlı ve güvenli bir şekilde üretim ortamına aktarılması.
-  - Canary releases, blue-green deployment ve rolling updates.
+- **CI**  
+  - Avantajlar, uygulama stratejileri ve araçlar (ör. Jenkins, GitLab CI).  
+  - Otomatik test süreçleri, kod kalitesi kontrolü ve pipeline tasarımı.  
+- **CD**  
+  - CI ile entegrasyon, yazılım güncellemelerinin hızlı aktarımı.  
+  - Canary releases, blue-green deployment ve rolling updates gibi dağıtım modelleri.  
 
-**3. Gün: Otomasyon ve Altyapı Yönetimi**
+### **3. Otomasyon ve Altyapı Yönetimi**  
 
-- **Altyapı Otomasyonu**: DevOps projelerinde altyapı yönetimi, konfigürasyon yönetimi, Infrastructure as Code (IaC).
-- **Terraform ve Ansible**: Altyapı otomasyon araçları ile ortamların otomatik olarak kurulması ve yönetilmesi.
-- **Docker ve Kubernetes**: Konteynerleşme ve orkestrasyon araçları.
-  - Docker ile uygulama konteynerleştirme ve imaj yönetimi.
-  - Kubernetes ile konteyner orkestrasyonu, pod yönetimi, ölçeklenebilirlik ve servis keşfi.
-- **Cloud Entegrasyonu**: AWS, Azure ve Google Cloud platformları ile DevOps süreçlerinin entegrasyonu.
+- **Altyapı Otomasyonu**  
+  - Infrastructure as Code (IaC) ve konfigürasyon yönetimi.  
+- **Popüler Araçlar**  
+  - Terraform, Ansible ile altyapı yönetimi.  
+  - Docker (konteynerleşme) ve Kubernetes (orkestrasyon) kullanımı.  
+- **Bulut Entegrasyonu**  
+  - AWS, Azure, Google Cloud ile uyumlu altyapı yönetimi.  
 
-**4. Gün: İzleme ve Performans Yönetimi**
+### **4. İzleme ve Performans Yönetimi**  
 
-- **Uygulama İzleme**: Uygulama izleme araçları (Prometheus, Grafana, ELK Stack).
-  - İzleme stratejileri: Uygulama, altyapı ve ağ düzeyinde izleme.
-  - Uygulama performansının izlenmesi ve optimizasyonu.
-- **Log Yönetimi ve Analizi**: Merkezi log yönetimi, ELK Stack ile log toplama ve analizi.
-- **Otomatik Alarm ve Uyarılar**: Anormallikler için uyarı sistemleri ve gerçek zamanlı geri bildirim.
-- **Hata Tespiti ve Çözümleme**: Yazılım hatalarının tespiti, log analizi ve hata çözümleme yöntemleri.
+- **İzleme Araçları**  
+  - Prometheus, Grafana, ELK Stack gibi araçlarla uygulama ve altyapı izleme.  
+- **Log Yönetimi ve Analiz**  
+  - Merkezi loglama ve anormallik tespiti.  
+- **Performans Optimizasyonu**  
+  - Otomatik alarm sistemleri ve hata çözümleme yöntemleri.  
 
-**5. Gün: DevOps Proje Yönetimi ve İleri Düzey Uygulamalar**
+### **5. İleri Düzey Uygulamalar ve Yönetim**  
 
-- **DevOps Projelerinin Yönetimi**: Proje planlama, görev dağılımı ve zaman yönetimi.
-  - Scrum, Kanban ve diğer Agile metodolojiler ile DevOps'un entegrasyonu.
-  - Ekip içi işbirliği, iletişim ve liderlik becerileri.
-- **DevOps Matrikleri ve KPI'lar**: Başarıyı ölçme, performans göstergeleri ve verimlilik artırıcı metrikler.
-- **Risk Yönetimi ve Güvenlik**: DevOps projelerinde güvenlik ve risk yönetimi, DevSecOps uygulamaları.
-- **DevOps Kültürünün Kurulması**: Organizasyonel düzeyde DevOps kültürünün nasıl oluşturulacağı, eğitim ve dönüşüm süreçleri.
-- **Başarı Hikayeleri ve Gerçek Dünya Örnekleri**: DevOps projelerinde başarılı uygulamalar ve karşılaşılan zorluklar.
+- **Proje Yönetimi**  
+  - Scrum, Kanban gibi Agile metodolojiler ile uyum.  
+  - Ekip içi işbirliği ve liderlik becerileri.  
+- **Risk ve Güvenlik Yönetimi**  
+  - DevSecOps yaklaşımı ve güvenlik süreçleri.  
+- **Metrikler ve KPI'lar**  
+  - Performans göstergeleri ve verimlilik artırıcı uygulamalar.  
+- **Başarı Hikayeleri**  
+  - Gerçek dünya örnekleri ve kazanılan deneyimler.  
 
----
+<div style="page-break-after: always;"></div>
 
-## **Hedef Kitle:**
+## **Eğitim Yöntemi**
 
-- DevOps süreçleri ve araçları hakkında bilgi edinmek isteyen yazılım geliştiriciler.
-- Yazılım geliştirme ve operasyon süreçlerini birleştirmek isteyen DevOps mühendisleri ve sistem yöneticileri.
-- DevOps süreçlerinin yönetimini öğrenmek isteyen proje yöneticileri ve takım liderleri.
-- Sürekli entegrasyon ve dağıtım süreçlerini optimizasyonuna odaklanan IT profesyonelleri.
-- Organizasyonlarında DevOps kültürünü oluşturmayı hedefleyen liderler ve yöneticiler.
-
-## Eğitim Yöntemi:
+![](devops.jpg)
 
 - **Teorik Bilgi:** Eğitimde, DevOps proje yönetimiyle ilgili temel kavramlar, ilkeler ve metodolojiler katılımcılara anlatılacaktır. DevOps kültürünün temelleri, sürekli entegrasyon (CI), sürekli dağıtım (CD), otomasyon araçları ve izleme gibi konularda kapsamlı bir teorik bilgi sunulacaktır. Bu, katılımcıların DevOps'un nasıl çalıştığını ve projelerde nasıl uygulanması gerektiğini anlamalarına yardımcı olacaktır.
 
@@ -104,8 +126,6 @@ Eğitimde, DevOps kavramı, sadece bir yazılım geliştirme süreci değil, ayn
 - **Gruplar ve İşbirliği:** Eğitimde, katılımcılar küçük gruplara ayrılarak belirli görevleri birlikte tamamlayacaklardır. Bu işbirlikçi ortam, takım çalışmasını teşvik ederken, katılımcıların birlikte sorun çözme ve proje yönetimi becerilerini geliştirmelerine olanak sağlayacaktır. Bu sayede, DevOps’un işbirliği odaklı yapısı daha etkili bir şekilde deneyimlenmiş olacaktır.
 
 - **Geri Bildirim ve Değerlendirme:** Eğitimin her aşamasında, katılımcılara düzenli geri bildirim verilecektir. Bu, katılımcıların gelişimlerini izlemelerini ve eksik oldukları alanlarda daha fazla çalışmaları için fırsatlar yaratacaktır. Ayrıca, eğitim sonunda genel bir değerlendirme yapılacak ve katılımcıların öğrendikleri bilgileri ne derece kavradıkları ölçülerek, daha ileriye dönük gelişim önerileri sunulacaktır.
-
-Bu eğitim yöntemi, hem teorik bilgilerin hem de pratik becerilerin dengeli bir şekilde aktarılmasını sağlayarak, katılımcıların DevOps proje yönetimini etkili bir şekilde öğrenmelerini hedeflemektedir.
 
 ## **Katılıcılardan Beklentilerimiz**
 
@@ -150,3 +170,5 @@ Bu eğitim yöntemi, hem teorik bilgilerin hem de pratik becerilerin dengeli bir
 
 14. **Pratik Uygulamalar Yapabilme:**
     Eğitimde edinilen teorik bilgilerin pratikte uygulanması, katılımcıların gerçek dünya projelerinde başarılı olabilmeleri için kritik öneme sahiptir. Katılımcıların öğrendikleri kavramları gerçek senaryolarda kullanabilmeleri beklenir.
+
+[Eğitim Materyalleri (Eğitmenlere Özel)](https://github.com/TuncerKARAARSLAN-VB/training-kit-devops)
