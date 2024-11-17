@@ -24,7 +24,7 @@
 
 - > Eğitim yapay zeka destekli kendi kendine öğrenme formasyonu ile tasarlanmıştır. Katılımcılar eğitim boyunca kendi kendine öğrenme formasyonu ile eğitimlere katılırlar. Bu eğitim formatı sayesinde tüm katılımcılar gelecek tüm yaşamlarında kendilerini güncellemeye devam edebilecekler ve her türlü sorunun karşısında çözüm bulabilecekleri yeteneklere sahip olacaklardır.
 
-## **Bilinmeyen Yönleri ile Red Hat ve OpenShift Eğitimi**
+## **Bilinmeyen Yönleri ile Red Hat ve OpenShift**
 
 Kurumsal altyapınızın gerçek gücünü ortaya çıkarmaya hazır mısınız? Bu eğitim, Red Hat ve OpenShift teknolojilerinin gizli kalan özelliklerini kullanarak sistemlerinizi daha verimli, güvenli ve ölçeklenebilir hale getirmenizi sağlar. AlmaLinux ve OpenShift’in sunduğu ileri düzey çözümlerle kurumunuzun dijital dönüşümünü hızlandırın. Bu eğitim, sistem yöneticileri, DevOps mühendisleri ve teknoloji liderlerine, kurumsal seviyede konteyner tabanlı uygulamaların yönetimi ve otomasyonu konusunda derinlemesine bilgi kazandırmak için tasarlanmıştır. Kurumunuzun teknolojik gücünü en üst seviyeye çıkarın!
 
@@ -39,6 +39,8 @@ Bu eğitim, katılımcıların Red Hat ve OpenShift teknolojilerini ileri düzey
 <div style="page-break-after: always;"></div>
 
 ## **Eğitim İçeriği**
+
+![](redhat.jpg)
 
 ### **AlmaLinux Temelleri ve Kurulumu**
 
