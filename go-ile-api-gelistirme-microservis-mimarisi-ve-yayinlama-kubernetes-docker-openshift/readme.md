@@ -1,22 +1,77 @@
-# Go ile API Geliştirme, Microservis Mimarisi ve Yayınlama (Kubernetes, Docker, OpenShift) Eğitimi
+# **Go ile API Geliştirme, Microservis Mimarisi ve Yayınlama (Kubernetes, Docker, OpenShift) Eğitimi**
 
-## Eğitim Süresi:
+![](go-1.jpg)
 
-- **5 Gün**
-- **Ders Süresi:** 50 dakika
-- **Eğitim Saati:** 10:00 - 17:00
+[Download PDF Version](./go.pdf)
 
-**Format 2**
+## **Eğitim Süresi**
 
-- **12 Gün**
-- **Ders Süresi:** 50 dakika
-- **Eğitim Saati:** 10:00 - 17:00
+- **Format 1**
+  - **5 Gün**
+  - **Ders Süresi:** 50 dakika
+  - **Eğitim Saati:** 10:00 - 17:00
 
-## Eğitim Hedefi:
+- **Format 2**
+  - **12 Gün**
+  - **Ders Süresi:** 50 dakika
+  - **Eğitim Saati:** 10:00 - 17:00
 
-Bu eğitim, katılımcıların Go programlama diliyle API geliştirmeyi, microservis mimarisi ile uygulamaların nasıl tasarlanacağını, Docker ile konteynerize edilip Kubernetes ve OpenShift ortamlarında dağıtım süreçlerinin nasıl gerçekleştirileceğini öğretmeyi amaçlamaktadır. Eğitim sonunda katılımcılar, modern yazılım geliştirme süreçlerinde kullanılan en güncel teknolojilerle hem API hem de microservis mimarisini baştan sona inşa edebilir hale gelecekler.
+- > Her iki eğitim formatında eğitimler 50 dakika + 10 dakika moladır. 12:00-13:00 saatleri arasında 1 saat yemek arasındaki verilir. Günde toplam 6 saat eğitim verilir. 5 günlük formatta 30 saat eğitim, 12 günlük formatta toplam 72 saat eğitim verilmektedir. 12 saatlik eğitmde katılımcılar kod yazar ve eğitmenle birlikte sorulan sorulara ve taleplere uygun içerikler ve örnekler çalışılır.
 
-## Eğitim İçeriği:
+- > Eğitimler uzaktan eğitim formatında tasarlanmıştır. Her eğitim için teams linkleri gönderilir. Katılımcılar bu linklere girerek eğitimlere katılırlar. Ayrıca farklı remote çalışma araçları da eğitmen tarafından tüm katılımlara sunulur. Katılımcılar bu araçları kullanarak eğitimlere katılırlar. 
+
+- > Eğitim içeriğinde github ve codespace kullanılır. Katılımcılar bu platformlar üzerinden örnek projeler oluşturur ve eğitmenle birlikte eğitimlerde sorulan sorulara ve taleplere uygun iceriğe cevap verir. Katılımcılar bu araçlarla eğitimlerde sorulan sorulara ve taleplere uygun iceriğe cevap verir.
+
+- > Eğitim yapay zeka destekli kendi kendine öğrenme formasyonu ile tasarlanmıştır. Katılımcılar eğitim boyunca kendi kendine öğrenme formasyonu ile eğitimlere katılırlar. Bu eğitim formatı sayesinde tüm katılımcılar gelecek tüm yaşamlarında kendilerini güncellemeye devam edebilecekler ve her türlü sorunun karşısında çözüm bulabilecekleri yeteneklere sahip olacaklardır.
+
+### **Go ile API Geliştirme**  
+
+**"Microservis Mimarisi ve Go’ya Giriş" Eğitimi**, modern yazılım geliştirme süreçlerinin temel taşlarından biri haline gelen **microservis mimarisi**, **Go programlama dili**, **konteynerleştirme**, ve **orkestrasyon** konularında uzmanlaşmak isteyenler için tasarlanmıştır.  
+
+Bu eğitim, microservislerin sağladığı **ölçeklenebilirlik**, **bağımsız dağıtım** ve **hızlı geliştirme** gibi avantajlarını kavramanızı sağlarken, **Docker**, **Kubernetes**, ve **OpenShift** gibi popüler teknolojilerle bu servislerin nasıl yönetileceğini ve dağıtılacağını öğretecektir.  
+
+- **Microservis Mimarisi**: Büyük ölçekli sistemlerin tasarımı, servisler arası iletişim ve veri tutarlılığı.  
+- **Go ile Uygulama Geliştirme**: Hızlı, güvenli ve performanslı servislerin geliştirilmesi.  
+- **Konteynerleşme**: Docker ile uygulamaları paketleme ve dağıtım.  
+- **Kubernetes ve OpenShift**: Uygulamaların orkestrasyonu, ölçeklendirilmesi ve otomatik yönetimi.  
+- **Monitoring ve Güvenlik**: Prometheus, Grafana ve Istio gibi araçlarla sistemlerin izlenmesi ve güvenli hale getirilmesi.  
+
+Eğitim, yalnızca teknik bilgileri aktarmakla kalmayıp, aynı zamanda gerçek dünya projelerinde karşılaşılan zorluklara yönelik **en iyi uygulamaları**, **pratik çözümleri**, ve **DevOps entegrasyon stratejilerini** de kapsamaktadır.  
+
+İster yazılım geliştirme alanında deneyimli olun ister bu alanda yeni başlayın, **"Microservis Mimarisi ve Go’ya Giriş" Eğitimi** size modern yazılım geliştirme dünyasında rekabetçi bir avantaj sağlayacaktır.  
+
+## **Eğitim Hedefi**
+
+**Microservis Mimarisi ve Go’ya Giriş Eğitimi**, katılımcılara modern yazılım geliştirme süreçlerinde kullanılan microservis mimarisi, konteynerleştirme, orkestrasyon, güvenlik ve performans yönetimi konularında derinlemesine bilgi ve beceri kazandırmayı hedeflemektedir. Bu eğitimin sonunda katılımcılar:
+
+1. **Microservis Mimarisini Anlama:**
+   - Büyük ölçekli sistemlerde microservislerin avantajlarını ve zorluklarını değerlendirerek uygun mimari kararlar alabileceklerdir.
+   - Domain-Driven Design gibi en iyi uygulamaları kullanarak, modüler ve bağımsız bir sistem tasarlayabileceklerdir.
+
+2. **Go ile Mikro Servis Geliştirme Yetkinliği:**
+   - Go dilinin sunduğu performans, eşzamanlılık ve modüler yapılarla etkili microservisler geliştirme becerisi kazanacaklardır.
+   - Go tabanlı popüler framework ve araçlarla REST API ve iş süreçlerini yönetebileceklerdir.
+
+3. **Konteynerleştirme ve Orkestrasyon:**
+   - Docker ve Kubernetes gibi teknolojilerle mikroservis uygulamalarını konteynerleştirme, dağıtma ve ölçeklendirme yetkinlikleri edineceklerdir.
+   - Kubernetes ve OpenShift gibi platformlarla yüksek erişilebilirlik ve kolay yönetim sağlayabileceklerdir.
+
+4. **Monitoring ve Güvenlik:**
+   - Prometheus, Grafana ve Jaeger gibi araçları kullanarak sistemlerin izlenebilirliğini artıracak ve güvenli iletişim protokolleriyle uygulamaları güvenli hale getirebileceklerdir.
+   - OAuth2, JWT ve API Gateway gibi modern güvenlik yaklaşımlarını kullanarak uygulamalarını koruma altına alabileceklerdir.
+
+5. **DevOps Entegrasyonu ve CI/CD Süreçleri:**
+   - Docker Compose, Jenkins ve OpenShift Pipelines gibi araçları kullanarak sürekli entegrasyon ve dağıtım süreçlerini otomatize edebileceklerdir.
+
+6. **İleri Düzey Yönetim ve Optimizasyon:**
+   - Servis mesh kullanarak microservisler arasındaki iletişim ve güvenliği optimize edeceklerdir.
+   - Performans testleri, caching ve yük dengeleme stratejileri ile sistemlerin verimliliğini artıracaklardır.
+
+<div style="page-break-after: always;"></div>
+
+## **Eğitim İçeriği**
+
+![](go-2.jpg)
 
 ### **Bölüm 1: Microservis Mimarisi ve Go’ya Giriş**
 
@@ -179,26 +234,35 @@ Bu eğitim, katılımcıların Go programlama diliyle API geliştirmeyi, microse
    - **Performans Testleri ve Profilleme**
    - **Caching ve Load Balancing Stratejileri**
 
-## Eğitim Yöntemi:
+## **Eğitim Yöntemi**
 
 - **Teorik Bilgi Aktarımı:** Her gün belirli konuların teorik anlatımı.
 - **Uygulamalı Atölyeler:** Gerçek dünya senaryolarına dayalı uygulamalı çalışmalar. Katılımcılar, Go ile API ve microservis geliştirip Docker, Kubernetes ve OpenShift ile uygulamaları dağıtacaklar.
 - **Grup Çalışmaları:** Katılımcıların küçük gruplar halinde çalışarak gerçek bir microservis mimarisi geliştirmeleri ve dağıtmaları.
 - **Vaka Çalışmaları:** Gerçek hayattan başarılı Go microservis projelerinin incelenmesi, karşılaşılan zorluklar ve çözüm stratejileri üzerine tartışmalar.
 
-## Eğitim Çıktıları:
-
-Bu eğitimi tamamlayan katılımcılar;
-- Go programlama dilinde API ve microservis geliştirme becerilerini kazanmış olacaklar,
-- Uygulamalarını Docker ile konteynerize etmeyi öğrenmiş olacaklar,
-- Kubernetes üzerinde uygulama dağıtımı ve yönetimi konusunda deneyim kazanacaklar,
-- OpenShift ortamında CI/CD süreçlerini kurarak modern bir yazılım geliştirme sürecini baştan sona yönetebileceklerdir.
-
 ## Hedef Kitle:
 
-- **Yazılım Geliştiriciler ve Mühendisler:** API ve microservis geliştirme konularında uzmanlaşmak isteyen yazılımcılar.
-- **DevOps Uzmanları:** Kubernetes ve OpenShift ile container orkestrasyonu ve CI/CD süreçlerini yönetmek isteyen DevOps profesyonelleri.
-- **Sistem Mimarları:** Microservis mimarisi ile yüksek ölçeklenebilir ve esnek sistemler tasarlamak isteyen mimarlar.
-- **Teknik Yöneticiler:** Modern yazılım geliştirme süreçlerinde yer almak ve ekibine bu teknolojileri entegre etmek isteyen yöneticiler.
+Bu eğitim, modern yazılım geliştirme süreçlerine hakim olmak isteyen ve **microservis mimarisi**, **Go programlama dili**, **konteynerleştirme**, ve **orkestrasyon** konularında bilgi ve yetkinlik kazanmayı hedefleyen bireylere yöneliktir.  
+
+1. **Yazılım Geliştiriciler**  
+   - Uygulama geliştirme süreçlerini microservis mimarisi ile modernize etmek isteyen yazılım geliştiriciler.  
+   - Go dilinde uzmanlaşarak yüksek performanslı ve ölçeklenebilir çözümler üretmek isteyenler.  
+
+2. **Yazılım Mimarları ve Teknik Liderler**  
+   - Büyük ölçekli sistemlerin tasarımında microservis yaklaşımlarını etkin bir şekilde kullanmayı hedefleyen yazılım mimarları.  
+   - Takımlarına modern teknolojileri entegre etmek isteyen teknik liderler.  
+
+3. **DevOps ve Sistem Yöneticileri**  
+   - Kubernetes, Docker ve OpenShift gibi teknolojilerle konteyner yönetimi ve orkestrasyon süreçlerinde uzmanlaşmak isteyen DevOps mühendisleri.  
+   - Geliştirme ve operasyon ekipleri arasında köprü görevi gören sistem yöneticileri.  
+
+4. **Yeni Teknolojilere İlgi Duşan Profesyoneller**  
+   - Geleneksel yazılım geliştirme yöntemlerinden modern mikroservis mimarisine geçiş yapmak isteyen profesyoneller.  
+   - Kariyerlerini geleceğin teknolojileriyle güçlendirmek isteyen bireyler.  
+
+5. **Üniversite Öğrencileri ve Yeni Mezunlar**  
+   - Yazılım geliştirme alanında kariyer yapmak isteyen ve modern yazılım mimarilerine ilgi duyan öğrenciler.  
+   - İş piyasasında fark yaratmak için güçlü bir teknik altyapı oluşturmayı hedefleyen yeni mezunlar.  
 
 [Eğitim ana materyalleri, sadece eğitmenler için](https://github.com/TuncerKARAARSLAN-VB/training-kit-go-ile-mikro-servis-mimarisi)

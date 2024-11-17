@@ -69,7 +69,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 - **[01 - Bilinmeyen Yönleri ile Red Hat ve Openshift Eğitimi](./bilinmeyen-yonleri-ile-red-hat-ve-openshift-egitimi/readme.md)**
 - **[02 - Red Hat Enterprise Server Eğitimi](red-hat-server-ve-sanallastirma/readme.md)**
 
-### **E - Özel Çözümler Gerektiren Eğitimler - Enerji Sektörü**
+### **E - Enerji Sektörüne Özel Yazılım  Çözümleri**
 
 ![](energy.jpg)
 
