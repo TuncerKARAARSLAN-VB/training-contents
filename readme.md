@@ -69,13 +69,11 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 - **[01 - Bilinmeyen Yönleri ile Red Hat ve Openshift Eğitimi](./bilinmeyen-yonleri-ile-red-hat-ve-openshift-egitimi/readme.md)**
 - **[02 - Red Hat Enterprise Server Eğitimi](red-hat-server-ve-sanallastirma/readme.md)**
 
-### **E - Özel Çözümler Gerektiren Eğitimler**
+### **E - Özel Çözümler Gerektiren Eğitimler - Enerji Sektörü**
 
 ![](energy.jpg)
 
-- **[01 - Yüksek Trafikli Sistem Mimarileri ve Kesintisiz Sistemler](./yuksek-trafigi-sistem-mimarileri-ve-kesintisiz-sistemler/readme.md)**
-- **[02 - Milyonlarca Cihazdan Veri Toplama ve Gerçek Zamanlı Analiz: Modern Yazılım Geliştirme Yöntemleri](./milyonlarca-cihazdan-veri-toplama-ve-gercek-zamanli-analiz-modern-yazilim-gelistirme-yontemleri/readme.md)**
-- **[03 - Enerji Firmaları İçin Mimari Geliştirme ve Sürekli Kendini Yetiştirebilen Ekipler](enerji-firmalari-icin-mimari-gelistirme-ve-surekli-kendini-yetistirebilen-takimlar/readme.md)**
+- **[01 - Enerji Firmaları İçin Mimari Geliştirme ve Sürekli Kendini Yetiştirebilen Ekipler](enerji-firmalari-icin-mimari-gelistirme-ve-surekli-kendini-yetistirebilen-takimlar/readme.md)**
 
 ### **F - Yeni Nesil Yazılım Eğitimleri**
 
