@@ -1,68 +1,104 @@
-# Yöneticiler için Yapay Zeka ve Kurumları Yarına Hazırlama Eğitimi
+# **Yöneticiler için Yapay Zeka ve Kurumları Yarına Hazırlama**
 
-## Eğitim Süresi:
+![](cyber-security-for-managers-1.jpg)
 
-- **5 Gün**
-- **Ders Süresi:** 50 dakika
-- **Eğitim Saati:** 10:00 - 17:00
+[Download PDF Version](./cyber-security-for-managers.pdf)
 
-**Format 2**
+## **Eğitim Süresi**
 
-- **12 Gün**
-- **Ders Süresi:** 50 dakika
-- **Eğitim Saati:** 10:00 - 17:00
+- **Format 1**
+  - **5 Gün**
+  - **Ders Süresi:** 50 dakika
+  - **Eğitim Saati:** 10:00 - 17:00
 
-## Eğitim Hedefi:
+- **Format 2**
+  - **12 Gün**
+  - **Ders Süresi:** 50 dakika
+  - **Eğitim Saati:** 10:00 - 17:00
 
-Bu eğitim, yöneticilere yapay zekanın (YZ) iş dünyasındaki rolünü, stratejik karar alma süreçlerine etkilerini ve işletmelerini geleceğe nasıl hazırlayabileceklerini kapsamlı bir şekilde öğretmeyi amaçlar. Katılımcılar, yapay zekanın iş modellerine nasıl entegre edileceğini, organizasyonel dönüşümde nasıl bir liderlik sergilemeleri gerektiğini ve YZ stratejileri geliştirerek verimliliği artırma yöntemlerini öğrenirler. Ayrıca, katılımcılar yapay zeka projeleri yürütme ve veri yönetimi konusunda kapsamlı bilgi sahibi olacaklardır.
+- > Her iki eğitim formatında eğitimler 50 dakika + 10 dakika moladır. 12:00-13:00 saatleri arasında 1 saat yemek arasındaki verilir. Günde toplam 6 saat eğitim verilir. 5 günlük formatta 30 saat eğitim, 12 günlük formatta toplam 72 saat eğitim verilmektedir. 12 saatlik eğitmde katılımcılar kod yazar ve eğitmenle birlikte sorulan sorulara ve taleplere uygun içerikler ve örnekler çalışılır.
 
-## Eğitim İçeriği:
+- > Eğitimler uzaktan eğitim formatında tasarlanmıştır. Her eğitim için teams linkleri gönderilir. Katılımcılar bu linklere girerek eğitimlere katılırlar. Ayrıca farklı remote çalışma araçları da eğitmen tarafından tüm katılımlara sunulur. Katılımcılar bu araçları kullanarak eğitimlere katılırlar. 
 
-### **Gün 1: Yapay Zeka ve İş Dünyasına Etkisi**
+- > Eğitim içeriğinde github ve codespace kullanılır. Katılımcılar bu platformlar üzerinden örnek projeler oluşturur ve eğitmenle birlikte eğitimlerde sorulan sorulara ve taleplere uygun iceriğe cevap verir. Katılımcılar bu araçlarla eğitimlerde sorulan sorulara ve taleplere uygun iceriğe cevap verir.
 
-- **Yapay Zekaya Giriş ve İşletmelerdeki Rolü:** YZ’nin temel kavramları, tarihsel gelişimi ve iş dünyasında uygulama alanları. YZ'nin iş süreçlerine sağladığı katkılar ve organizasyonlar üzerindeki etkileri.
-- **İş Modellerinde YZ Dönüşümü:** Yapay zeka temelli iş modelleri, veri odaklı karar alma süreçlerinin önemi. YZ kullanarak rekabet avantajı elde etme yolları ve inovasyon stratejileri.
-- **YZ Teknolojileri ve Çeşitleri:** Makine öğrenimi (ML), derin öğrenme (DL), doğal dil işleme (NLP) gibi yapay zeka teknolojilerinin iş dünyasındaki kullanım alanları ve örnekler.
-- **YZ ile İş Süreçlerinin Optimizasyonu:** Verimlilik artırıcı yapay zeka uygulamaları, otomasyon ile insan gücünün daha stratejik alanlarda kullanılması. YZ’nin operasyonel süreçlere katkıları.
+- > Eğitim yapay zeka destekli kendi kendine öğrenme formasyonu ile tasarlanmıştır. Katılımcılar eğitim boyunca kendi kendine öğrenme formasyonu ile eğitimlere katılırlar. Bu eğitim formatı sayesinde tüm katılımcılar gelecek tüm yaşamlarında kendilerini güncellemeye devam edebilecekler ve her türlü sorunun karşısında çözüm bulabilecekleri yeteneklere sahip olacaklardır.
 
-### **Gün 2: Yapay Zeka Stratejileri ve Kurumsal Hazırlık**
+## **Siber Güvenlik Stratejileri - Yöneticiler İçin Karar Destek**
 
-- **YZ Stratejisi Geliştirme:** Kurumlar için etkili bir yapay zeka stratejisi oluşturma, uzun vadeli başarı için gereken adımlar. Yapay zekayı kurumsal stratejiye entegre etme yolları.
-- **Kurum Kültürü ve YZ:** Yapay zekanın başarılı uygulanması için gereken kültürel değişimler. Yöneticilerin bu dönüşüme liderlik etme rolleri ve çalışanların adaptasyon süreçlerinin yönetimi.
-- **Veri Yönetimi ve YZ:** Verinin yapay zekadaki önemi, veri toplama, işleme ve analiz süreçlerinin yönetimi. Kurumlarda veri stratejisi oluşturma, veri güvenliği ve gizlilik konularına dikkat edilmesi.
-- **YZ Uygulamaları için Teknolojik Altyapı:** Yapay zeka sistemleri için gerekli olan teknoloji altyapısının kurulumu, bulut bilişim çözümleri, büyük veri analizi (Big Data) ve ileri analitik platformlar.
+Dijital dünyada işletmelerin karşı karşıya kaldığı siber tehditler giderek daha karmaşık hale geliyor. Bu tehditlerle başa çıkabilmek ve organizasyonel güvenliği sağlam bir temele oturtabilmek için üst düzey yöneticilerin ve birim yöneticilerinin siber güvenlik konusunda derinlemesine bilgiye sahip olmaları kritik bir öneme sahiptir. Bu eğitim, katılımcıların iş dünyasındaki siber güvenlik stratejileri hakkında bilgi edinmelerini, güvenlik risklerini yönetmelerini ve bu tehditlere karşı güçlü savunma sistemleri kurmalarını sağlamayı hedefliyor.
 
-### **Gün 3: YZ ile Liderlik ve Değişim Yönetimi**
+- **Siber Güvenlik Yönetimi:** Tepe yöneticilerinin organizasyonel güvenliği nasıl güçlendirebileceği ve risk yönetimi süreçlerini nasıl optimize edebileceği konusunda derinlemesine bilgi.
+- **Risk ve Tehdit Yönetimi:** Siber tehditleri öngörme, riskleri analiz etme ve etkili bir risk yönetimi planı oluşturma becerileri.
+- **Kurumsal Güvenlik Stratejisi Geliştirme:** Yöneticilerin, iş süreçleriyle uyumlu, sürdürülebilir bir güvenlik stratejisi oluşturma yolları.
+- **Etik ve Yasal Düzenlemeler:** Siber güvenlik ve veri gizliliği konusunda en son yasal düzenlemeler ve etik kurallar hakkında bilgi.
 
-- **YZ Liderliği:** Yapay zeka projelerinde yöneticilerin rolü, değişim yönetimi ve liderlik becerileri. İnovasyon ve teknolojiye öncülük eden liderlerin özellikleri ve başarılı stratejiler.
-- **YZ Proje Yönetimi:** Yapay zeka projelerinin nasıl yönetileceği, proje döngüsü ve aşamaları. Proje yönetiminde başarı faktörleri, bütçeleme ve kaynak yönetimi.
-- **YZ ve Etik Sorunlar:** Yapay zekanın etik kullanımının önemi, önyargı ve adaletli algoritmaların geliştirilmesi. Kurumlarda etik yapay zeka politikalarının oluşturulması ve uygulanması.
-- **YZ Uygulama Başarısı için KPI’lar:** Yapay zeka projelerinde başarının ölçümlenmesi, performans göstergelerinin (KPI) belirlenmesi ve değerlendirilmesi. YZ yatırımlarının geri dönüşünün hesaplanması (ROI).
+## **Eğitim Hedefi**
 
-### **Gün 4: Yapay Zeka Geleceği ve Stratejik Kararlar**
+Bu eğitim, üst düzey yöneticilere ve karar vericilere, siber güvenliğin iş stratejileri ile entegrasyonunu sağlamaları için gerekli bilgileri sunmayı amaçlamaktadır. Katılımcılar, organizasyonlarında güvenlik kültürünü benimsemek, risk yönetimi süreçlerini iyileştirmek ve siber tehditlere karşı proaktif stratejiler geliştirmek için gerekli becerileri kazanacaklardır. Eğitim, siber güvenlikteki en son trendler ve teknolojiler hakkında derinlemesine bilgi sağlayarak, yöneticilerin güvenlik politikalarını etkin bir şekilde oluşturmasına ve liderlik etmesine olanak tanıyacaktır. Ayrıca, organizasyonel güvenliği güçlendirecek ve risklere karşı etkili bir savunma stratejisi oluşturulmasına yardımcı olacak pratik yöntemler sunulacaktır.
 
-- **YZ'nin Geleceği ve Trendler:** Yapay zeka alanındaki en yeni gelişmeler, trendler ve gelecek tahminleri. Kurumların bu gelişmelere nasıl hazırlanması gerektiği, yeni iş fırsatları ve riskler.
-- **YZ ve Sektörel Uygulamalar:** Finans, sağlık, üretim, perakende, hizmet gibi çeşitli sektörlerde yapay zekanın kullanım örnekleri. Kurumların kendi sektörlerine özgü YZ çözümlerini nasıl geliştirebileceği üzerine tartışmalar.
-- **YZ ile İnovasyonun Teşvik Edilmesi:** İnovasyon süreçlerinde yapay zekanın nasıl kullanılacağı, yeni iş modelleri geliştirme ve organizasyonel yeniliklerin YZ ile nasıl tetikleneceği.
-- **Yapay Zeka Tabanlı Karar Alma Süreçleri:** YZ temelli veri analizleri ile stratejik karar alma, yöneticilerin veri odaklı yönetim becerilerinin geliştirilmesi. YZ’nin karar verme süreçlerini nasıl etkilediği ve iyileştirdiği.
+<div style="page-break-after: always;"></div>
 
-## Eğitim Yöntemi:
+## **Eğitim İçeriği**
 
-- **Teorik Bilgi Aktarımı:** Yapay zeka kavramları, stratejileri ve uygulamalarının anlatımı.
-- **Vaka Çalışmaları:** Gerçek dünyadan yapay zeka projeleri üzerinden vaka analizleri. Başarılı ve başarısız YZ projelerinin incelenmesi.
-- **Etkileşimli Tartışmalar:** Katılımcıların kendi sektörlerindeki YZ uygulamaları üzerine fikir alışverişi. Kurumların yapay zeka projelerine nasıl başlayabileceği üzerine öneriler.
-- **Uygulama ve Simülasyonlar:** Yapay zeka teknolojilerini kullanarak karar verme süreçlerinin simülasyonları ve uygulama örnekleri.
+![](cyber-security-for-managers-2.jpg)
 
-## Hedef Kitle:
+### **Siber Güvenlik ve Kurumsal Hazırlık**
 
-- **Üst Düzey Yöneticiler:** Şirketlerini yapay zeka stratejilerine uyarlamak isteyen CEO, CTO ve C-Level yöneticiler.
-- **İnovasyon ve Teknoloji Liderleri:** Kurumlarda inovasyonu yöneten teknoloji liderleri ve karar vericiler.
-- **İş Geliştirme Uzmanları:** İş süreçlerinde yapay zeka uygulamalarını hayata geçirmek isteyen iş geliştirme profesyonelleri.
-- **Operasyon Yöneticileri:** YZ’nin operasyonel süreçlere nasıl entegre edileceğini öğrenmek isteyen operasyon yöneticileri.
+- **Siber Tehditlerin Tanımlanması ve İş Dünyasına Etkisi:** Günümüzde hızla gelişen siber tehditlerin iş dünyasında yaratabileceği tehlikeler, saldırı türleri ve bunların potansiyel etkileri. Örneğin, veritabanı saldırıları veya fidye yazılımları gibi tehditler, şirketlerin itibarını ve finansal durumunu ciddi şekilde etkileyebilir.
+- **Siber Güvenlik Stratejileri ve Kurumsal Uyum:** Kurumların güvenlik stratejileri geliştirme ve bu stratejileri kurum kültürüne entegre etme süreci. Ayrıca, bu stratejilerin yasal düzenlemelere uyumlu olmasının önemi vurgulanır.
+- **Yönetici Perspektifinden Risk Değerlendirmesi:** Kurumların siber güvenlik tehditlerine karşı riskleri nasıl değerlendirebileceği ve bu süreçte yöneticilerin alması gereken kararlar. Yöneticilerin bilgi kaybı veya itibar kaybı gibi potansiyel tazminatlarla karşılaşmamak için alacağı önlemler.
+- **Veri Güvenliği ve Gizliliği:** Kurumların KVKK'ya uyumlu veri güvenliği politikaları oluşturması, gizliliğin sağlanması ve verilerin korunması için alınacak önlemler.
 
-## Beklentilerimiz:
+### **İleri Seviye Güvenlik Teknolojileri ve Altyapı**
+
+- **İleri Seviye Güvenlik Duvarları ve Saldırı Tespit Sistemleri:** Gelişmiş ağ güvenlik sistemleri ve saldırı tespit/önleme sistemleri, kurumların altyapı güvenliğini sağlamada kritik öneme sahiptir. Ayrıca, bu sistemler, şirketlerin dış saldırılara karşı etkili korunmasına yardımcı olur.
+- **DDoS Saldırıları ve Önleme Stratejileri:** Dağıtılmış hizmet dışı bırakma saldırıları (DDoS) gibi siber saldırılar, ağın çalışmasını engelleyebilir ve şirketin hizmetlerini kesintiye uğratabilir. Bu tür saldırılara karşı alacağı önlemler, itibar kaybını ve finansal zararı önleyebilir.
+- **Zararlı Yazılım Tespiti ve Yanıt Stratejileri:** Zararlı yazılımların tespiti ve bu yazılımlara karşı geliştirilen hızlı müdahale stratejileri. Bu, potansiyel veri kayıplarını ve bilgi sızıntılarını engellemek için kritik öneme sahiptir.
+- **Güvenli Altyapı ve Bulut Bilişim:** Bulut altyapıları, kurumların veri güvenliğini sağlamada önemli bir rol oynar. Ancak, KVKK'ya uygunluk ve verilerin bulut ortamlarında güvenli bir şekilde saklanması, şirketlerin hukuki sorumluluklarını yerine getirmeleri için gereklidir.
+
+### **Siber Güvenlikte Liderlik ve Değişim Yönetimi**
+
+- **Siber Güvenlik Liderliği:** Yöneticilerin siber güvenlik stratejileri oluşturma ve uygulama konusunda liderlik yapabilme becerileri. Bu liderlik, organizasyonun güvenliğini sağlamak ve itibar kaybının önüne geçmek için kritik öneme sahiptir.
+- **Kurumsal Kültür ve Siber Güvenlik Uyumu:** Kurum kültürünün siber güvenlik stratejileriyle uyumlu hale getirilmesi. Çalışanların güvenlik bilincinin artırılması ve bu kültürün şirketin her katmanında benimsenmesi, büyük çaplı veri sızıntıları ve güvenlik ihlallerinin önüne geçebilir.
+- **Risk Yönetimi ve Olay Müdahale Protokolleri:** Bir siber güvenlik olayı sonrası alınacak acil önlemler, kriz yönetimi ve olay müdahale süreçleri. Etkin olay müdahalesi, itibar kaybı ve yasal tazminatların önüne geçilmesini sağlayabilir.
+- **Etik ve Hukuki Perspektif:** Yasal sorumluluklar ve etik kuralların siber güvenlik süreçlerine entegrasyonu. KVKK gibi yasal düzenlemelere uyumsuzluk, firmaların ciddi tazminatlarla karşılaşmasına yol açabilir.
+
+### **Stratejik Karar Verme ve YZ Uygulamaları ile Güvenlik İnovasyonu**
+
+- **Yapay Zeka ve Güvenlik İnovasyonu:** Yapay zeka temelli güvenlik çözümleri, proaktif tehdit tespiti ve önleme stratejileri. Yapay zeka, siber saldırıları hızlı bir şekilde tanıma ve buna karşılık verme yeteneği sunarak büyük çaplı veri kayıplarının ve itibar zararlarının önüne geçebilir.
+- **Siber Güvenlik Projelerinde KPI ve ROI Yönetimi:** Siber güvenlik projelerinin başarısını ölçmek için KPI’lar ve ROI hesaplamaları. Bu, şirketlerin güvenlik yatırımlarının etkinliğini değerlendirmelerine ve uzun vadede güvenlik risklerini minimize etmelerine yardımcı olur.
+- **Sektörel Uygulamalar ve Gelecek Trendleri:** Farklı sektörlerdeki siber güvenlik trendleri ve bu sektöre özgü tehditlere karşı alınması gereken önlemler. Bu, sektörel düzeyde güvenlik stratejilerinin nasıl şekillendirileceğini ve organizasyonların gelecekteki tehditlere nasıl adaptasyon sağlayacağını gösterir.
+- **Siber Güvenlik Geleceği:** Gelecekteki siber tehditler, yenilikçi güvenlik çözümleri ve stratejik kararlar üzerine yapılan derinlemesine tartışmalar. Firmaların gelecekteki güvenlik risklerine karşı hazırlıklı olmaları, itibar kaybını ve yüksek tazminatları önleyebilir.
+
+**Eğitim Sürecinden Beklenen Çıktılar:**
+Bu eğitim, katılımcılara siber güvenlik tehditlerini tanıma, etkili stratejiler geliştirme ve bu stratejileri kurumsal yapılarla uyumlu hale getirme becerisi kazandıracaktır. Ayrıca, veri güvenliği ve gizlilik konusunda alınacak önlemler, şirketlerin KVKK'ya uyum sağlama süreçlerine yardımcı olacak ve firmaların yüksek tazminatlarla karşılaşma riskini azaltacaktır. Etkili siber güvenlik yönetimi sayesinde, kurumlar hem hukuki sorumluluklardan hem de itibar kaybı gibi ciddi finansal kayıplardan korunabilir.
+
+<div style="page-break-after: always;"></div>
+
+## **Eğitim Yöntemi**
+
+Eğitim, katılımcıların mevcut bilgi ve deneyimlerini kullanarak etkileşimli tartışmalar, vaka analizleri ve uygulamalı simülasyonlarla zenginleştirilmiştir. Katılımcılar, gerçek dünyadaki siber güvenlik problemlerine çözüm geliştirme konusunda beceri kazanacak, güvenlik risklerini minimize etmek için stratejik kararlar almayı öğreneceklerdir.
+
+Siber güvenlikte liderlik ve karar destek konusunda derinlemesine bilgi sahibi olmak isteyen tüm yöneticileri, bu eğitimde buluşmaya davet ediyoruz!
+
+- **Teorik Bilgi Paylaşımı:** Yöneticilere siber güvenlik kavramları, stratejileri ve uygulamaları hakkında derinlemesine bilgi aktarımı.
+- **Vaka Çalışmaları ve Gerçek Dünya Senaryoları:** Sektörel vaka analizleri, başarılı ve başarısız siber güvenlik projeleri örnekleri üzerinden stratejik çıkarımlar.
+- **Grup Tartışmaları ve Etkileşimli Oturumlar:** Katılımcıların kendi sektörel deneyimlerini paylaşarak, siber güvenlik stratejilerini kurumsal seviyeye nasıl entegre edebileceği üzerine fikir alışverişi.
+- **Simülasyonlar ve Pratik Çalışmalar:** Katılımcıların teorik bilgileri uygulamalı simülasyonlar ile pekiştirmeleri.
+
+## **Hedef Kitle**
+
+- **Tepe Yöneticiler (CEO, CTO, CIO):** Şirketlerinin siber güvenlik stratejilerini belirleyip uygulamak isteyen üst düzey yöneticiler.
+- **Birim Yöneticileri ve Departman Liderleri:** Siber güvenlik konularında detaylı bilgi sahibi olup, kendi departmanlarında stratejik kararlar alması gereken yöneticiler.
+- **Teknoloji Liderleri ve İnovasyon Yöneticileri:** Kurumlarının dijital dönüşüm süreçlerinde siber güvenliği etkin bir şekilde entegre etmek isteyen teknoloji liderleri.
+- **Risk Yönetimi ve Güvenlik Uzmanları:** Siber güvenlik stratejilerinin geliştirilmesinde ve uygulanmasında önemli rol oynayan profesyoneller.
+
+Bu eğitim, üst düzey yöneticilerin ve birim yöneticilerinin siber güvenlikte bilinçli kararlar almasına yardımcı olacak, organizasyonel güvenliği güçlendirecek stratejiler ve araçlar hakkında derinlemesine bilgi sağlayacaktır.
+
+## **Katılımcılardan Beklentilerimiz**
 
 - Katılımcıların iş dünyasında stratejik karar alma süreçlerinde yer alıyor olmaları.
 - Yapay zeka teknolojileri hakkında temel bilgiye sahip olmaları ve kendi sektörlerinde inovasyonu teşvik etmek için isteklilik göstermeleri.
 
-[Eğitim ana materyalleri, sadece eğitmenler için](https://github.com/TuncerKARAARSLAN-VB/training-kit-yoneticiler-icin-yapay-zeka-kurumlari-yarinlara-hazirlama)
+[Eğitim Materyalleri (Eğitmenlere Özel)](https://github.com/TuncerKARAARSLAN-VB/training-kit-yoneticiler-icin-yapay-zeka-kurumlari-yarinlara-hazirlama)
