@@ -1,5 +1,7 @@
 # **Güncel Eğitim Programlarımız**  
 
+![](./images/neden-biz.jpg)
+
 > **Neden eğitimlerimizi tercih etmelisiniz**
 > Diğer kurumsal eğtimlerin aksine biz sadece tek bir program kullanımı hakkında eğitim vermiyoruz, yaşadığınız sorunları biliyoruz, anlıyoruz ve size sorunlarınızın kurumsal çözümleri için özel sektörel çözümler üretiyoruz. 
 > **Eğitimlerimizde sizin kurumsal sorunlarına odaklı senaryolar ile eğitim içeriklerimizi güncelliyoruz, sizlere özel eğitimler sunuyoruz.**
@@ -20,6 +22,8 @@ Bu ortamda kurumlar, çalışanlarının dijital yetkinliklerini artırmak, gele
 Yazılım süreçlerinde sürekli kalite kontrol, siber açık kontrolleri ve güvenlik testleri yapmak, bu tehditlere karşı etkin önlemler almak artık hayati değer taşımaktadır. Ayrıca, hızlı deployment (dağıtım) süreçleri, teknolojinin verimli bir şekilde kullanılabilmesi için kritik önem taşır. Kurumsal dijital dönüşüm, sadece altyapı yatırımlarını değil, aynı zamanda çalışanların eğitimini, yetkinliklerini ve adapte olabilme becerilerini geliştirmeyi gerektirir. Değişim, kurum kültürünün bir parçası haline gelmeli ve çalışanlar bu dönüşüme hazır olmalıdır.
 
 Özellikle yazılım geliştirme ve operasyon süreçlerinde yüksek işlem gücü ve trafiği kaldırabilen, hızlı ve güvenli uygulamaların geliştirilmesi artık bir zaruriyet halini almıştır. Tüm hayatımızın internet üzerinde şekillendiği bu dönemde, yüksek trafikli ve yüksek performanslı uygulamalar kurmak, şirketlerin rekabet gücünü ve güvenliğini artırmak için büyük önem taşımaktadır.
+
+![](./images/owasp.jpg)
 
 Eğitimlerimiz, çalışanlarınızın sadece dijital yetkinliklerini artırmayı değil, aynı zamanda kendini geliştirebilen, çağa ayak uydurabilen ve ekiplerin gelecekteki zorluklara karşı donanımlı olmasını sağlayacak içerik ve formatlarla tasarlandı. Özellikle yapay zeka entegrasyonu, **Kubernetes** ve **Microservices** mimarilerinin avantajlarına, **kodlama kalitesi**, **güvenlik açıkları giderilmiş kodlama** ve **yüksek trafikli mimariler geliştirme** konularına odaklanan programlarımız, kurumların rekabet gücünü artırmayı hedefliyor. Ayrıca, **OWASP** ve diğer güvenlik güncellemeleri ile güvenli mimariler tasarımı ve **kodlama geliştirme sanatı** gibi yaklaşımlarımızla, siber güvenlik tehditlerine karşı etkin çözümlerle teknoloji altyapınızı daha güvenli hale getirmeyi amaçlıyoruz.  
 
@@ -148,11 +152,23 @@ Eğer arzu ederseniz, benimle 4-8-16-32 haftalık sözleşme yaparak sizinle bir
 
 Eğer arzu ederseniz, sizin hayalinizdeki projeyi  birlikte yapabiliriz. Projeleriniz için birlikte çalışabiliriz. Sizin lokasyonunuzda ve gizlilik anlaşması imzalanarak sizinle tam mesai yapabiliriz. 4-8-16-32 haftalık sözleşme yaparak sizin projelerinize sizin lokasyonunuzda destek sağlayabilirim. İsterseniz eğitimleri de sizin lokasyonlarınızda sağlayabiliriz.  Ekiplerinize yerinde özel eğitimleri verebiliriz. İsterseniz proje ortaklığı fikirlerini de açığım. Gizlilik anlaşma çerçevesinde projelerinizi dinleyip, ortak geliştirme fikirlerini de açığım.
 
+**Eğitimlerimizde Farkı Keşfedin: Sizin İçin Özel Olarak Tasarlanmış, Sektör Deneyimiyle Güçlendirilmiş Eğitimler!**
+
+Geçmişteki eğitmenlik ve proje geliştirme tecrübelerimle sektördeki her türlü ihtiyaca yönelik özel eğitim içerikleri hazırladım. Sektördeki pek çok eğitim kurumunun aksine, biz **sizin senaryolarınızla şekillendirilen eğitimler** sunuyoruz. Yani, eğitimlerimiz sizin kurumunuza özel olarak tasarlanır, sizin ihtiyaçlarınıza göre şekillendirilir. 
+
+Her kurumun kendine özgü gereksinimleri vardır ve biz bunu çok iyi biliyoruz. **Eğitimlerimizi sizlere özelleştiriyor, gerçek dünya senaryoları ile sizi buluşturuyoruz.** Böylece, sadece teorik bilgi değil, sektörün zorluklarıyla başa çıkabilecek pratik yetkinlikler kazandırıyoruz.
+
+Sizler için **yüksek başarıyı garanti eden, gerçek dünyaya uygun eğitimler sunuyoruz**. Kolay değil, ciddi sektör deneyimi ve uzmanlık gerektiren bu eğitimlerde, aslında **sadece bir eğitim satın almıyorsunuz**. **Size özel senaryolarla hazırlanmış, yetkin ve deneyimli eğitmenlerimizle kurumsal eğitimler alıyorsunuz.**
+
+---
+Eğitimdeki başarınızı artıran, size özel tasarlanmış programlar sayesinde, sizin için **fark yaratan sonuçlar elde ediyorsunuz.** Hedefleriniz doğrultusunda, iş dünyasının taleplerine uygun, gerçekçi ve etkin eğitimlerle ekiplerinizi güçlendirin, farkınızı ortaya koyun!
+---
+
 ## **Hakkımda**
 
-Merhaba! Ben Tuncer KARAARSLAN, yazılım geliştirme alanında 25 yılı aşkın deneyime sahip bir bilgisayar mühendisiyim. Kariyerime 1991 yılında başladım ve o günden bu yana Microsoft teknolojileri üzerine çeşitli projelerde yer aldım. .NET mimarilerinde geniş bir bilgi birikimim var ve Windows, web, mobil teknolojiler gibi farklı platformlarda yazılımlar geliştirdim. Son yıllarda gömülü yazılım geliştirme alanlarında ve sanallaştırma alanlarında da oldukça geniş deneyimlere sahip oldum. Geçmişte uzun yıllar eğitmenlik tecrübelerimi de profillerimden görebilirsiniz. Sektörel çok fazla deneyimlere sahibim. Sizler için hazırladığım kurumsal eğitim içerikleri umarım hoşunuza gider. Kısaca kendimden bahsetmeye devam etmek isterim.
+Merhaba! Ben Tuncer KARAARSLAN, yazılım geliştirme alanında 25 yılı aşkın deneyime sahip bir bilgisayar mühendisiyim. Kariyerime 1991 yılında başladım ve o günden bu yana Microsoft teknolojileri üzerine çeşitli projelerde yer aldım. .NET mimarilerinde geniş bir bilgi birikimim var ve Windows, web, mobil teknolojiler gibi farklı platformlarda yazılımlar geliştirdim. XCode Objective C, Native Java ile Android Studio, NodeJS projeleri, NGINX, Python, PHP, C# ve C sürekli kullandığım teknolojiler. Son yıllarda gömülü yazılım geliştirme alanlarında ve sanallaştırma alanlarında da oldukça geniş deneyimlere sahip oldum. Geçmişte uzun yıllar eğitmenlik tecrübelerimi de profillerimden görebilirsiniz. Sektörel çok fazla deneyimlere sahibim. Kısaca kendimden bahsetmeye devam etmek isterim.
 
-Yazılım mimarisi, teknik liderlik ve proje yönetimi konularında uzmanlaşarak, birçok firmada takım liderliği ve direktörlük görevlerinde bulundum. Özellikle e-ticaret platformları ve ERP sistemleri entegrasyonları konusundaki deneyimimle, işletmelerin dijital dönüşüm süreçlerine katkı sağladım.
+Yazılım mimarisi, teknik liderlik ve proje yönetimi konularında uzmanlaşarak, birçok firmada takım liderliği ve direktörlük görevlerinde bulundum. Özellikle e-ticaret platformları ve ERP sistemleri entegrasyonları konusundaki deneyimimle, işletmelerin dijital dönüşüm süreçlerine katkılar sağladım.
 
 Gelişen teknolojilere ayak uydurarak, Linux, Docker ve siber güvenlik alanlarında kendimi sürekli olarak güncelliyorum. Ayrıca, yapay zeka ve IoT projeleri üzerinde çalışarak bu alanlarda da tecrübelerimi artırmaya devam ediyorum.
 
@@ -160,5 +176,3 @@ Benimle ilgili çok detaylı bilgileri linkedin profilimden edinebilirsiniz. Ba�
 
 - [LinkedIn Profilim](https://www.linkedin.com/in/tuncerkaraarslan/)
 - [GitHub Profilim](https://github.com/TuncerKARAARSLAN-VB)
-
-Yeni projeler, özel kurumsal eğitim talepleriniz ve iş birlikleri için her zaman iletişime açığım. Birlikte başarılı işler yapmayı dört gözle bekliyorum!
