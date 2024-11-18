@@ -106,6 +106,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 - **[01 - Yapay Zeka ile Kişiselleştirilmiş Müşteri Deneyimi Geliştirme – AI ile müşteri hizmetleri ve CRM'de inovatif yaklaşımlar](yapay-zeka-ile-kisisellestirilmis-musteri-deneyimi-gelistirme/readme.md)**
 - **[02 - NLP (Doğal Dil İşleme) Projeleri için Geliştirme ve Uygulama Eğitimi – Sohbet botları ve metin analizleri için NLP temelli uygulamalar](nlp-dogal-dil-isleme-projeleri-icin-gelistirme/readme.md)**
 - **[03 - İş Gücü Yönetiminde Yapay Zeka ve İnsan Kaynakları Çözümleri – AI ile işe alım, yetenek yönetimi ve çalışan verimliliği](is-gucu-yonetiminde-yapay-zeka-ve-insan-kaynaklari-cozumleri/readme.md)**
+- **[03 - Yapay Zeka ve Kamu Alanında Uygulamalar - Akıllı Şehir Yönetimi ve Planlamada Yapay Zekanın Gücü ve Verimlilik](yapay-zeka-kamu-alaninda-uygulamalar/readme.md)**
 
 Bu eğitimlerle, ekiplerinizin motivasyonunu artırmayı, iş süreçlerini optimize etmeyi ve sektördeki yeniliklere ayak uydurmayı hedefliyoruz. Sizleri dünya standartlarında yetkin kurumlar haline getirmek için eğitim içeriklerimizi güncelliyor ve yeni eğitimler hazırlıyoruz. Sizlere yazılım eğitimleri hazırlamadık. Ülkemizin eksik olduğu konularda sizlerin yeni dünya hakkında farkındalığınızı arttırmaya çalışıyoruz.
 
