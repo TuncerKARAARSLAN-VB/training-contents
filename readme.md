@@ -7,7 +7,7 @@
 > Bu her eğitmenin verebileceği kolay bir eğitim değil, yetkin ve deneyimli özel eğitmenlerimiz sizin için özel olarak eğitimlere hazırlanıyor. 
 > Bizimle çalışarak sorunlarınıza kesin çözümler sağlarsınız. Eğitmlerinde bizi tercih eden tüm kurumlara teşekkür ederiz.
 
-![](egitim.jpg)
+![](./images/egitim.jpg)
 
 > [Lütfen PDF olarak eğitim kataloğumuzu indirin](./trainer-point%20with%20tuncer-erdem.pdf) ***İndirebileceğiniz PDF dokümanındaki tüm linkler github linklerine yönlendirilmektedir. Bu sayede tüm eğitimlerin en güncel eğitim içeriklerine sahip olabileceksiniz. Lütfen PDF dökümanını indirip eğitim almak isteyen birimleriniz ile paylaşın. Kurumlarınıza değer katacak yepyeni eğitimler sayesinde güncel içerikleri sağlayabilirsiniz.***
 
@@ -44,7 +44,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 
 ### **A - İleri Seviye Teknoloji Eğitimlerimiz**
 
-![](tech-training.jpg)
+![](./images/tech-training.jpg)
 
 - **[01 - Sıfırdan Zirveye Docker ile Sanallaştırma With AI](./sifirdan-zirveye-docker-ile-sanallastirma/readme.md)**
 - **[02 - Sıfırdan Zirveye Kubernetes Eğitimi With AI](./sifirdan-zirveye-kubernetes-egitimi/readme.md)**
@@ -54,14 +54,14 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 
 ### **B - Yazılım Süreçleri Eğitimlerimiz**
 
-![](yazilim-surec.jpg)
+![](./images/yazilim-surec.jpg)
 
 - **[01 - Kod Kalite ve Ölçümleme](./kod-kalite-ve-olcumleme-egitimi/readme.md)**
 - **[02 - Yüksek Güvenlikli Kod ve Uygulama Geliştirme](./yuksek-guvenlikli-kod-ve-uygulama-gelistirme/readme.md)**
 
 ### **C - Proje Yönetimi Eğitimlerimiz**
 
-![](proje-yonetimi.jpg)
+![](./images/proje-yonetimi.jpg)
 
 - **[1 - Agile, Scrum, Kanban - Çevik Proje Yönetimi](cevik-proje-yonetimi/readme.md)**
 - **[#2 - DevOps Proje Yönetimi](devops-proje-yonetimi/readme.md)**
@@ -71,20 +71,20 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 
 ### **D - Linux Eğitimlerimiz**
 
-![](redhat.jpg)
+![](./images/redhat.jpg)
 
 - **[01 - Bilinmeyen Yönleri ile Red Hat ve Openshift Eğitimi](./bilinmeyen-yonleri-ile-red-hat-ve-openshift-egitimi/readme.md)**
 - **[02 - Red Hat Enterprise Server Eğitimi](red-hat-server-ve-sanallastirma/readme.md)**
 
 ### **E - Enerji Sektörüne Özel Yazılım  Çözümleri**
 
-![](energy.jpg)
+![](./images/energy.jpg)
 
 - **[01 - Enerji Firmaları İçin Mimari Geliştirme ve Sürekli Kendini Yetiştirebilen Ekipler](enerji-firmalari-icin-mimari-gelistirme-ve-surekli-kendini-yetistirebilen-takimlar/readme.md)**
 
 ### **F - Yeni Nesil Yazılım Eğitimleri**
 
-![](new-generation-software.jpg)
+![](./images/new-generation-software.jpg)
 
 - **[01 - Go ile Microservis Mimarisi ve Yayınlama (Kubernetes, Docker, OpenShift)](./go-ile-api-gelistirme-microservis-mimarisi-ve-yayinlama-kubernetes-docker-openshift/readme.md)**
 - **[02 - Python ile Microservis Mimarisi ve Yayınlama (Kubernetes, Docker, OpenShift)](./python-ile-api-gelistirme-microservis-mimarisi-ve-yayinlama-kubernetes-docker-openshift/readme.md)**
@@ -93,7 +93,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 
 ### **G - Siber Güvenlik Eğitimlerimiz**
 
-![](cyber-security.jpg)
+![](./images/cyber-security.jpg)
 
 - **[01 - Tüm Kurum Çalışanlarına Siber Güvenlik Eğitimi](./kurum-calisanlari-icin-siber-guvenlik-egitimi/readme.md)**
 - **[02 - Sistem Güvenlik ve Yazılım Mimarlarına İleri Seviye Siber Güvenlik  Eğitimi](./ileri-seviye-siber-guvenlik-egitimi/readme.md)**
@@ -101,7 +101,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 
 ### **H - Yapay Zeka Eğitimlerimiz**
 
-![](ai.jpg)
+![](./images/ai.jpg)
 
 - **[01 - Yapay Zeka ile Kişiselleştirilmiş Müşteri Deneyimi Geliştirme – AI ile müşteri hizmetleri ve CRM'de inovatif yaklaşımlar](yapay-zeka-ile-kisisellestirilmis-musteri-deneyimi-gelistirme/readme.md)**
 - **[02 - NLP (Doğal Dil İşleme) Projeleri için Geliştirme ve Uygulama Eğitimi – Sohbet botları ve metin analizleri için NLP temelli uygulamalar](nlp-dogal-dil-isleme-projeleri-icin-gelistirme/readme.md)**
@@ -144,7 +144,7 @@ Eğer arzu ederseniz, benimle 4-8-16-32 haftalık sözleşme yaparak sizinle bir
 
 ## **Birlikte Çalışma**
 
-![](birlikte-calisma.jpg)
+![](./images/birlikte-calisma.jpg)
 
 Eğer arzu ederseniz, sizin hayalinizdeki projeyi  birlikte yapabiliriz. Projeleriniz için birlikte çalışabiliriz. Sizin lokasyonunuzda ve gizlilik anlaşması imzalanarak sizinle tam mesai yapabiliriz. 4-8-16-32 haftalık sözleşme yaparak sizin projelerinize sizin lokasyonunuzda destek sağlayabilirim. İsterseniz eğitimleri de sizin lokasyonlarınızda sağlayabiliriz.  Ekiplerinize yerinde özel eğitimleri verebiliriz. İsterseniz proje ortaklığı fikirlerini de açığım. Gizlilik anlaşma çerçevesinde projelerinizi dinleyip, ortak geliştirme fikirlerini de açığım.
 
