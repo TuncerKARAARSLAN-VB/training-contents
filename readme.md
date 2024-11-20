@@ -3,11 +3,18 @@
 ![](./images/neden-biz.jpg)
 
 > **Neden eğitimlerimizi tercih etmelisiniz**
-> Diğer kurumsal eğtimlerin aksine biz sadece tek bir program kullanımı hakkında eğitim vermiyoruz, yaşadığınız sorunları biliyoruz, anlıyoruz ve size sorunlarınızın kurumsal çözümleri için özel sektörel çözümler üretiyoruz. 
-> **Eğitimlerimizde sizin kurumsal sorunlarına odaklı senaryolar ile eğitim içeriklerimizi güncelliyoruz, sizlere özel eğitimler sunuyoruz.**
-> Onlarca ayrı eğitim almanıza gerek kalmadan, tek bir eğitim programı ile tüm sorunlarınıza özel çözümler üretiyoruz. 
-> Bu her eğitmenin verebileceği kolay bir eğitim değil, yetkin ve deneyimli özel eğitmenlerimiz sizin için özel olarak eğitimlere hazırlanıyor. 
-> Bizimle çalışarak sorunlarınıza kesin çözümler sağlarsınız. Eğitmlerinde bizi tercih eden tüm kurumlara teşekkür ederiz.
+
+- Diğer kurumsal eğtimlerin aksine biz sadece tek bir program kullanımını anlatmıyoruz, yaşadığınız sorunları biliyoruz, anlıyoruz ve size sorunlarınızın kurumsal çözümleri için özel çözümler üretiyoruz. 
+
+- **Eğitimlerimizi sizin kurumsal sorunlarınıza odaklanan senaryolarla güncelliyoruz, size özel eğitimler sunuyoruz.**
+
+- Birbirinden kopuk onlarca eğitim almanıza gerek kalmadan, tek bir eğitim programı ile size özel eğitim içeirikleriyle sie özel çözümler üretiyoruz. 
+
+- Bu her eğitmenin verebileceği kolay bir eğitim değil, yetkin ve deneyimli özel eğitmenlerimiz sizin için özel olarak eğitimlere hazırlanıyor. 
+
+- **Her eğitim öncesinde ve hatta eğitim süresince eğitmenlerimiz sizinle birlikte çalışarak eğitimlerini güncellemektedir.**
+
+- Bizimle çalışarak sorunlarınıza kesin çözümler sağlarsınız. Eğitmlerinde bizi tercih eden tüm kurumlara teşekkür ederiz.
 
 ![](./images/egitim.jpg)
 
