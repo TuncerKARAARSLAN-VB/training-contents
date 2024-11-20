@@ -36,8 +36,6 @@ Bu eğitim, yazılım geliştirme ve dağıtım süreçlerini daha hızlı, güv
 
 Bu ileri seviye eğitim, katılımcılara **CI/CD** süreçlerini daha etkin bir şekilde yönetmek ve otomatikleştirmek için gereken derinlemesine bilgi ve becerileri kazandırmayı hedeflemektedir. Katılımcılar, **Docker**, **Kubernetes** ve **OpenShift** gibi modern container teknolojilerini kullanarak güvenli, ölçeklenebilir ve sürdürülebilir yazılım dağıtım süreçlerini nasıl tasarlayacaklarını öğrenirler.
 
-**Eğitimdeki ana hedefler şunlardır**
-
 1. **CI/CD Süreçlerini Derinlemesine Anlamak:** Katılımcılar, CI/CD süreçlerinin temellerinden ileri düzey uygulamalarına kadar geniş bir bilgi birikimi elde ederler. Popüler CI/CD araçlarını (Jenkins, GitLab CI, CircleCI vb.) etkin bir şekilde kullanarak yazılım geliştirme ve dağıtım süreçlerini optimize ederler.
 
 2. **Container Teknolojileri ile Verimliliği Artırmak:** Docker, Kubernetes ve OpenShift ile container'ların yönetimini, orkestrasyonunu ve dağıtımını öğrenerek uygulama geliştirme süreçlerini daha güvenli ve verimli hale getirirler.

@@ -24,9 +24,19 @@
 
 - > Eğitim yapay zeka destekli kendi kendine öğrenme formasyonu ile tasarlanmıştır. Katılımcılar eğitim boyunca kendi kendine öğrenme formasyonu ile eğitimlere katılırlar. Bu eğitim formatı sayesinde tüm katılımcılar gelecek tüm yaşamlarında kendilerini güncellemeye devam edebilecekler ve her türlü sorunun karşısında çözüm bulabilecekleri yeteneklere sahip olacaklardır.
 
-## **Yapay Zeka ve Kamu Alanında Uygulamalar  Akıllı Şehir Yönetimi ve Planlamada Yapay Zekanın Gücü ve Verimlilik**
+## **Eğitim ve Yapay Zeka ile Akıllı Şehir Çözümleri**  
 
-## **Eğitim Amacı**
+Geleceğin şehirlerini inşa etmek için siz de yerinizi alın!  
+**Akıllı Şehirler ve Yapay Zeka Eğitimi**, şehir yönetiminde dijital dönüşüm, veriye dayalı karar alma ve yapay zeka entegrasyonu konularında uzmanlaşmak isteyenler için tasarlandı.  
+
+- **Ulaşım, enerji, çevre ve sağlık** gibi kritik alanlarda yapay zekanın kullanımını,  
+- Verilerin toplanması, analizi ve güvenli yönetimini,  
+- Akıllı şehirler için ileri düzey uygulama ve çözümleri öğreneceksiniz.  
+
+Belediye çalışanları, yazılım geliştiriciler, mühendisler ve şehir planlamacıları için özel olarak hazırlanan bu eğitim, teoriyi pratiğe dönüştürme fırsatı sunar.  
+**Geleceği şekillendiren profesyoneller arasında yerinizi almak için şimdi katılın!**  
+
+## **Eğitim Hedefi**
 
 Bu eğitim, yapay zeka ve akıllı şehir konseptlerini anlamaya, bu iki kavramın kamu yönetimi ve toplum hizmetlerinde nasıl entegre edilebileceğini öğrenmeye odaklanmıştır. Eğitim, katılımcılara akıllı şehirlerin planlanması ve yönetimi süreçlerinde yapay zeka teknolojilerinin kullanımını teorik ve uygulamalı olarak öğretmeyi hedeflemektedir.  
 
@@ -38,6 +48,8 @@ Ayrıca, şehirlerin dijitalleşmesiyle ortaya çıkan veri toplama, analiz ve r
 4. **Veri güvenliği, etik ve sürdürülebilirlik gibi kritik konularda farkındalık geliştirir.**  
 
 Sonuç olarak, eğitim, şehir yönetiminde yenilikçi yaklaşımlarla yapay zeka tabanlı çözümler geliştirmek isteyen kamu yöneticileri, şehir planlamacıları ve teknoloji uzmanlarına rehberlik etmeyi amaçlamaktadır.
+
+<div style="page-break-after: always;"></div>
 
 ## **Eğitim İçeriği:**
 

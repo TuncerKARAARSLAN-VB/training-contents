@@ -34,7 +34,7 @@ Eğitimlerinizi aldığınızda, uygulamalı danışmanlık desteğimizle, öğr
 
 Kubernetes konusunda kapsamlı eğitim ve profesyonel danışmanlık hizmetlerimizle, dijital dönüşüm yolculuğunuzda sizi bir adım öne taşıyoruz. Kurumunuzun potansiyelini en üst seviyeye çıkarmak için Kubernetes’i etkin kullanmaya bugün başlayın!
 
-## Danışmanlık Formatlarımız
+## **Danışmanlık Formatlarımız**
 
 Bu paketleri tümüyle yeni teknolojiye geçiş aşamasındaki kurumlara tavsiye ediyoruz. BU paketin en büyük özelliği, sizinle birlikte hareket ediyoruz ve sizin ekibinizin bir parçası gibi sizin için sürekli arge yaparak olası tüm sorunları aşmanızı ve yol almanızı sağlıyoruz. Projenizin fail etmesi riskini ortadan kaldırıyoruz. Çünkü bu paketlerde sizin için çalışan arka plandaki dev bir ekibe sahip oluyorsunuz. Sorunlarınız bizim sorunlarımız oluyor.  Bu paketlerin en büyük özelliği, sizin için sürekli arge yapan ve tüm sorunları aşmanızı sağlayan bir ekiple birlikte çalışma konforunu kurumunuza sağlıyoruz.
 
