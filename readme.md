@@ -2,9 +2,9 @@
 
 ![](./images/neden-biz.jpg)
 
-> **Neden eğitimlerimizi tercih etmelisiniz**
+## **Neden Eğitimlerimizi Tercih Etmelisiniz**
 
-- Diğer kurumsal eğtimlerin aksine biz sadece tek bir program kullanımını anlatmıyoruz, yaşadığınız sorunları biliyoruz, anlıyoruz ve size sorunlarınızın kurumsal çözümleri için özel çözümler üretiyoruz. 
+- Diğer kurumsal eğtimlerin aksine biz sadece tek bir program kullanımını anlatmıyoruz, yaşadığınız sorunları biliyoruz, anlıyoruz ve size sorunlarınızın kurumsal çözümleri için özel çözümler üretiyoruz.
 
 - **Eğitimlerimizi sizin kurumsal sorunlarınıza odaklanan senaryolarla güncelliyoruz, size özel eğitimler sunuyoruz.**
 
@@ -15,6 +15,8 @@
 - **Her eğitim öncesinde ve hatta eğitim süresince eğitmenlerimiz sizinle birlikte çalışarak eğitimlerini güncellemektedir.**
 
 - Bizimle çalışarak sorunlarınıza kesin çözümler sağlarsınız. Eğitmlerinde bizi tercih eden tüm kurumlara teşekkür ederiz.
+
+- **Sanallaştırma ve Siber Güvenlik Alanlarında Dünyadaki En Son Gelişmelerle Güncellenmiş Eğitim ve Danışmanlık Hizmetleri**
 
 ![](./images/egitim.jpg)
 
@@ -151,6 +153,24 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
     6. **DevOpsSec Araçları ve Teknikleri**: DevOpsSec ekosisteminde kullanılan araçlar, teknikler ve güvenlik uygulamalarına dair pratik bilgi edinerek, gerçek dünya projelerinde güvenliği etkin bir şekilde uygulayabileceklerdir.
 
     Bu eğitim, DevOpsSec'in dinamik ve güvenli bir yazılım geliştirme süreci yaratma becerisi kazandırmayı amaçlamaktadır. Katılımcılar, güvenlik ve hız arasında mükemmel bir denge kurarak, güvenli dijital projeler geliştirmeye hazır hale geleceklerdir.
+
+- **[06 - Sıfırdan Zirveye Git ve GitHub Workflow ](./sifirdan-zirveye-git-github-workflow/README.md)**
+
+    Yazılım geliştirme süreçlerinde verimliliği artırmak ve güvenliği sağlamak, CI/CD (Sürekli Entegrasyon/Sürekli Dağıtım) uygulamaları ile mümkündür. Bu eğitim, GitHub Actions'ı kullanarak CI/CD süreçlerini optimize etmek, güvenliği sağlamak ve uygulama dağıtımını modern container teknolojileri ile entegre etmek isteyen yazılım geliştiriciler, DevOps mühendisleri ve sistem yöneticileri için kapsamlı bir rehber sunar.
+
+    Katılımcılar, GitHub Actions ile CI/CD süreçlerini geliştirirken, güvenlik, verimlilik ve sürdürülebilirlik odaklı en iyi uygulamaları öğrenir. Gerçek dünya senaryoları üzerinden teorik bilgileri pratiğe dökme fırsatı bulurlar.
+
+    **Eğitim Hedefi**
+
+    Bu ileri seviye eğitim, katılımcılara **GitHub Actions** ile CI/CD süreçlerini etkili bir şekilde yönetmek ve otomatikleştirmek için gereken derinlemesine bilgi ve becerileri kazandırmayı hedefler. Katılımcılar, **Docker**, **Kubernetes** ve **OpenShift** gibi container teknolojileri ile modern yazılım dağıtım süreçlerini nasıl daha güvenli, ölçeklenebilir ve sürdürülebilir hale getireceklerini öğrenirler.
+
+    1. **CI/CD Süreçlerini GitHub Actions ile Derinlemesine Anlamak:** Katılımcılar, GitHub Actions ile CI/CD süreçlerini optimize ederek, popüler CI/CD araçlarıyla entegrasyonu nasıl geliştireceklerini öğrenir. Yazılım geliştirme ve dağıtım süreçlerini daha verimli hale getirirler.
+
+    2. **Container Teknolojileri ile GitHub Actions’ı Birleştirerek Verimliliği Artırmak:** Docker, Kubernetes ve OpenShift ile container yönetimi, orkestrasyonu ve dağıtımını GitHub Actions iş akışlarıyla entegre ederek, uygulama geliştirme süreçlerini güvenli ve verimli hale getirirler.
+
+    3. **Yüksek Güvenlikli ve Ölçeklenebilir Dağıtımlar Tasarlamak:** Güvenlik ve ölçeklenebilirlik odaklı dağıtım süreçleri geliştirerek, GitHub Actions ile CI/CD pipeline’larını güvenli hale getirir ve büyük ölçekli sistemlerde yüksek erişilebilirlik sağlarlar.
+
+    4. **Gerçek Dünya Uygulamalarını GitHub Actions ile Pratikte Uygulamak:** Katılımcılar, GitHub Actions iş akışlarını gerçek dünya projelerine uygulayarak öğrendikleri teoriyi pratiğe dökme fırsatı bulurlar.
 
 ### **B - Yazılım Süreçleri Eğitimlerimiz**
 
