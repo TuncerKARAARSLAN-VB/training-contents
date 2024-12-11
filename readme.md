@@ -172,6 +172,30 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 
     4. **Gerçek Dünya Uygulamalarını GitHub Actions ile Pratikte Uygulamak:** Katılımcılar, GitHub Actions iş akışlarını gerçek dünya projelerine uygulayarak öğrendikleri teoriyi pratiğe dökme fırsatı bulurlar.
 
+- **[07 - WSO2 Enterprise Integrator, Api Manager ve Identity Server](./wso2/README.md)**
+
+    WSO2 platformu ile yazılım geliştirme süreçlerinde verimliliği artırmak, entegrasyonları optimize etmek ve güvenliği sağlamak, CI/CD (Sürekli Entegrasyon/Sürekli Dağıtım) uygulamaları ile mümkün hale gelir. Bu kapsamlı eğitim, WSO2’nun sunduğu güçlü araçları kullanarak CI/CD süreçlerini optimize etmek, güvenliği pekiştirmek ve uygulama dağıtımını modern container teknolojileriyle entegre etmek isteyen yazılım geliştiriciler, DevOps mühendisleri ve sistem yöneticileri için detaylı bir rehber sunmaktadır.
+
+    Eğitimde, katılımcılar WSO2 platformunun en iyi özelliklerini kullanarak CI/CD süreçlerini geliştirecek, güvenlik, verimlilik ve sürdürülebilirlik odaklı en iyi uygulamaları öğrenme fırsatına sahip olacaklardır. Gerçek dünya senaryoları üzerinden teorik bilgilerini pratiğe dökme imkânı bulacaklar.
+
+    ### **Eğitim Hedefi**
+
+    Bu ileri seviye eğitim, katılımcılara **WSO2** platformu ile CI/CD süreçlerini yönetme ve otomatikleştirme konusunda derinlemesine bilgi ve beceriler kazandırmayı hedefler. Katılımcılar, **Docker**, **Kubernetes** ve **OpenShift** gibi modern container teknolojileriyle WSO2’yi entegre ederek yazılım dağıtım süreçlerini güvenli, ölçeklenebilir ve sürdürülebilir hale getirmeyi öğrenecekler.
+
+    1. **CI/CD Süreçlerini WSO2 ile Derinlemesine Anlamak:**  
+    Katılımcılar, WSO2’nun güçlü API yönetimi, entegrasyon araçları ve güvenlik özellikleriyle CI/CD süreçlerini nasıl optimize edeceklerini öğrenirler. WSO2 Enterprise Integrator (EI), API Manager (APIM) ve Identity Server (IS) gibi ürünlerin CI/CD pipeline’larına entegrasyonunu detaylı bir şekilde keşfederler. Katılımcılar, bu araçları kullanarak yazılım geliştirme ve dağıtım süreçlerini hızlandırmak için en iyi uygulamaları öğrenir.
+
+    2. **Container Teknolojileri ile WSO2’yi Entegre Ederek Verimliliği Artırmak:**  
+    WSO2’nin container tabanlı çözümleri Docker, Kubernetes ve OpenShift ile entegre ederek uygulama geliştirme süreçlerini daha verimli ve güvenli hale getireceklerdir. Katılımcılar, WSO2 ürünlerini Docker konteynerlerinde çalıştırmayı, Kubernetes ile orkestrasyon yapmayı ve OpenShift üzerinde dağıtımları yönetmeyi öğrenecekler. Bu entegrasyon sayesinde daha hızlı, esnek ve güvenli yazılım dağıtım süreçleri elde edilecektir.
+
+    3. **Yüksek Güvenlikli ve Ölçeklenebilir Dağıtımlar Tasarlamak:**  
+    WSO2 platformunun sunduğu güçlü güvenlik özelliklerinden yararlanarak CI/CD pipeline’larını güvenli hale getirecekler. Katılımcılar, WSO2 Identity Server (IS) ile kimlik yönetimi ve API güvenliği süreçlerini güvenli hale getirmenin yollarını keşfedecekler. Ayrıca, büyük ölçekli sistemlerde yüksek erişilebilirlik sağlayarak dağıtım süreçlerini ölçeklendirmenin yollarını öğrenecekler.
+
+    4. **Gerçek Dünya Uygulamalarını WSO2 ile Pratikte Uygulamak:**  
+    Katılımcılar, teorik bilgilerini gerçek dünya projelerine uygulama fırsatı bulacaklardır. WSO2 iş akışlarını kullanarak CI/CD süreçlerini otomatikleştirir, API entegrasyonlarını sağlar ve uygulama dağıtımlarını hızlandırırlar. Gerçek senaryolar üzerinde çalışarak, modern yazılım geliştirme süreçlerine nasıl entegre olacaklarını pratikte öğrenirler.
+
+    Bu eğitim, WSO2 platformu ile modern yazılım geliştirme ve dağıtım süreçlerini optimize etmek, güvenliği sağlamak ve yüksek verimli CI/CD pipeline’ları oluşturmak isteyen profesyoneller için eşsiz bir fırsat sunuyor.
+
 ### **B - Yazılım Süreçleri Eğitimlerimiz**
 
 ![](./images/yazilim-surec.jpg)
