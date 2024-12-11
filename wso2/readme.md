@@ -246,4 +246,4 @@ Katılımcılar, eğitimin sonunda WSO2’nin sunduğu çözümler ile dijital a
 
 - **Kapsamlı Düşünme**: Katılımcıların DevSecOps kültürünü ve WSO2 platformunun sağladığı güvenlik ve entegrasyon çözümlerini sadece teknik seviyede değil, organizasyonel düzeyde de nasıl entegre edebileceklerini düşünmeleri ve uygulamaları beklenir. Bu eğitimde, WSO2 teknolojileri ile organizasyonel güvenlik ve verimlilik hedeflerini nasıl destekleyecekleri konusunda derinlemesine bir anlayış kazanacaklardır.
 
-[Eğitim Materyalleri (Eğitmenlere Özel)](https://github.com/TuncerKARAARSLAN-VB/training-kit-devsecops)
+[Eğitim Materyalleri (Eğitmenlere Özel)](https://github.com/TuncerKARAARSLAN-VB/training-kit-wso2)
