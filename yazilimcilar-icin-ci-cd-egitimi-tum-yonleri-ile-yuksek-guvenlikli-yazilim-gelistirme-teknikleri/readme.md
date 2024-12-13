@@ -117,14 +117,6 @@ Eğitimi tamamlayan katılımcılar, günümüzün yüksek güvenlikli yazılım
     - Tersine mühendisliğe karşı koruma yöntemleri  
   - CI/CD süreçlerinde güvenliğin entegrasyonu  
 
----
-
-- **Pratik Uygulamalar ve Vaka Çalışmaları**  
-  - Gerçek dünyadan vaka çalışmaları  
-  - CI/CD süreçlerinin güvenli bir şekilde nasıl uygulanacağına dair örnekler  
-  - Katılımcıların projelerinde CI/CD uygulamaları tasarlamaları  
-  - Eğitim değerlendirmesi ve geribildirim oturumu  
-
 <div style="page-break-after: always;"></div>
 
 ## **Eğitim Yöntemi**

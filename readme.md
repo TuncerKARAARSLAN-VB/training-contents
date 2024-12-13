@@ -59,7 +59,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 
 ![](./images/tech-training.jpg)
 
-- **[01 - Sıfırdan Zirveye Docker ile Sanallaştırma With AI](./sifirdan-zirveye-docker-ile-sanallastirma/readme.md)**
+- **[01 - Sıfırdan Zirveye Docker ile Sanallaştırma (AI Destekli)](./sifirdan-zirveye-docker-ile-sanallastirma/readme.md)**
 
     Modern yazılım dünyasının en güçlü araçlarından biri olan Docker'ı öğrenmek ve sanallaştırma dünyasında ustalaşmak ister misiniz? "Sıfırdan Zirveye Docker ile Sanallaştırma" eğitimi, sizi sıfırdan alıp Docker ekosistemine hâkim bir profesyonele dönüştürecek!
 
@@ -72,7 +72,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 
     Bu eğitim, katılımcılara docker temel prensiplerini, mimarisini ve uygulama senaryolarını öğretmeyi amaçlamaktadır. Eğitim sonunda katılımcılar, kendi docker yapılandırmalarını oluşturabilecek, yönetebilecek ve uygulama dağıtımlarını gerçekleştirebilecek düzeye geleceklerdir.
 
-- **[02 - Sıfırdan Zirveye Kubernetes Eğitimi With AI](./sifirdan-zirveye-kubernetes-egitimi/readme.md)**
+- **[02 - Sıfırdan Zirveye Kubernetes Eğitimi (AI Destekli)](./sifirdan-zirveye-kubernetes-egitimi/readme.md)**
 
     Kubernetes, modern yazılım geliştirme ve dağıtım süreçlerinde mikroservisleri yönetmek için kullanılan güçlü bir açık kaynaklı platformdur. Bu eğitimde, Kubernetes’in temellerinden ileri seviye konseptlerine kadar geniş bir yelpazede bilgi edinecek, uygulama yönetimini ve altyapı yönetimini optimize edebileceksiniz.
 
@@ -82,7 +82,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 
     Bu eğitim, katılımcılara Kubernetes’in temel prensiplerini, mimarisini ve uygulama senaryolarını öğretmeyi amaçlamaktadır. Eğitim sonunda katılımcılar, kendi Kubernetes küme yapılandırmalarını oluşturabilecek, yönetebilecek ve uygulama dağıtımlarını gerçekleştirebilecek düzeye geleceklerdir.
 
-- **[03 - Yazılımcılar için CI/CD Eğitimi - Tüm Yönleri İle Yüksek Güvenlikli Yazılım Geliştirme Teknikleri With AI](./yazilimcilar-icin-ci-cd-egitimi-tum-yonleri-ile-yuksek-guvenlikli-yazilim-gelistirme-teknikleri/readme.md)**
+- **[03 - Yazılımcılar için CI/CD Eğitimi - Tüm Yönleri İle Yüksek Güvenlikli Yazılım Geliştirme Teknikleri (AI Destekli)](./yazilimcilar-icin-ci-cd-egitimi-tum-yonleri-ile-yuksek-guvenlikli-yazilim-gelistirme-teknikleri/readme.md)**
 
     Yazılım geliştirme süreçlerinizi hızlandırmak ve güvenliğini artırmak için kapsamlı bir eğitim fırsatı. Bu eğitim, CI/CD (Sürekli Entegrasyon ve Sürekli Dağıtım) süreçlerini etkili bir şekilde yönetebilmek ve güvenliği ön planda tutarak hatasız yazılımlar geliştirebilmek için gerekli becerileri kazandırmayı hedefliyor.
 
@@ -96,7 +96,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 
     Eğitimi tamamlayan katılımcılar, günümüzün yüksek güvenlikli yazılım geliştirme gereksinimlerine uygun olarak, daha hızlı ve güvenli yazılım projeleri geliştirme yeteneğine sahip olacaklardır.
 
-- **[04 - Sistem Yöneticileri ve Mimarlar için İleri Seviye CI/CD Eğitimi ve Kubernetes, Docker, Openshift Deployment With AI](./ileri-seviye-ci-cd-egitimi-kubernetes-docker-openshift-deployment/readme.md)**
+- **[04 - Sistem Yöneticileri ve Mimarlar için İleri Seviye CI/CD Eğitimi ve Kubernetes, Docker, Openshift Deployment (AI Destekli)](./ileri-seviye-ci-cd-egitimi-kubernetes-docker-openshift-deployment/readme.md)**
 
     Yazılım geliştirme süreçlerinde verimliliği artırmak ve güvenliği sağlamak için kritik öneme sahip CI/CD (Sürekli Entegrasyon/Sürekli Dağıtım), günümüzde vazgeçilmez bir araçtır. Bu ileri seviye eğitim, Docker, Kubernetes ve OpenShift gibi container teknolojilerini kullanarak CI/CD süreçlerini daha etkili ve güvenli hale getirmeyi hedefleyen yazılım geliştiriciler, DevOps mühendisleri ve sistem yöneticileri için kapsamlı bir rehber sunmaktadır.
 
@@ -114,7 +114,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 
     4. **Gerçek Dünya Uygulamalarını Pratikte Uygulamak:** Katılımcılar, gerçek dünya vaka çalışmalarıyla öğrendikleri teoriyi pratiğe dökme fırsatı bulurlar.
 
-- **[05 - Yüksek Seviyeli Kod Korumalı Yazılım Geliştirme Süreçleri ve DevOpsSec with AI](./devsecops/readme.md)**
+- **[05 - Yüksek Seviyeli Kod Korumalı Yazılım Geliştirme Süreçleri ve DevOpsSec (AI Destekli)](./devsecops/readme.md)**
 
     Günümüzün hızla değişen dijital dünyasında, yazılım geliştirme süreçlerinin güvenli, hızlı ve verimli olması her zamankinden daha önemli hale gelmiştir. Bu noktada DevOpsSec devreye giriyor. DevOpsSec, yazılım geliştirme (Dev), operasyon (Ops) ve güvenlik (Sec) alanlarını birleştirerek, güvenliği yazılım geliştirme süreçlerinin her aşamasına entegre eden bir yaklaşım sunar.
 
@@ -154,7 +154,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 
     Bu eğitim, DevOpsSec'in dinamik ve güvenli bir yazılım geliştirme süreci yaratma becerisi kazandırmayı amaçlamaktadır. Katılımcılar, güvenlik ve hız arasında mükemmel bir denge kurarak, güvenli dijital projeler geliştirmeye hazır hale geleceklerdir.
 
-- **[06 - Sıfırdan Zirveye Git ve GitHub Workflow ](./sifirdan-zirveye-git-github-workflow/README.md)**
+- **[06 - Sıfırdan Zirveye Git ve GitHub Workflow (AI Destekli)](./sifirdan-zirveye-git-github-workflow/README.md)**
 
     Yazılım geliştirme süreçlerinde verimliliği artırmak ve güvenliği sağlamak, CI/CD (Sürekli Entegrasyon/Sürekli Dağıtım) uygulamaları ile mümkündür. Bu eğitim, GitHub Actions'ı kullanarak CI/CD süreçlerini optimize etmek, güvenliği sağlamak ve uygulama dağıtımını modern container teknolojileri ile entegre etmek isteyen yazılım geliştiriciler, DevOps mühendisleri ve sistem yöneticileri için kapsamlı bir rehber sunar.
 
@@ -172,7 +172,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 
     4. **Gerçek Dünya Uygulamalarını GitHub Actions ile Pratikte Uygulamak:** Katılımcılar, GitHub Actions iş akışlarını gerçek dünya projelerine uygulayarak öğrendikleri teoriyi pratiğe dökme fırsatı bulurlar.
 
-- **[07 - WSO2 Enterprise Integrator, Api Manager ve Identity Server](./wso2/README.md)**
+- **[07 - WSO2 Enterprise Integrator, Api Manager ve Identity Server (AI Destekli)](./wso2/README.md)**
 
     WSO2 platformu ile yazılım geliştirme süreçlerinde verimliliği artırmak, entegrasyonları optimize etmek ve güvenliği sağlamak, CI/CD (Sürekli Entegrasyon/Sürekli Dağıtım) uygulamaları ile mümkün hale gelir. Bu kapsamlı eğitim, WSO2’nun sunduğu güçlü araçları kullanarak CI/CD süreçlerini optimize etmek, güvenliği pekiştirmek ve uygulama dağıtımını modern container teknolojileriyle entegre etmek isteyen yazılım geliştiriciler, DevOps mühendisleri ve sistem yöneticileri için detaylı bir rehber sunmaktadır.
 
@@ -200,7 +200,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 
 ![](./images/yazilim-surec.jpg)
 
-- **[01 - Kod Kalite ve Ölçümleme](./kod-kalite-ve-olcumleme-egitimi/readme.md)**
+- **[01 - Kod Kalite ve Ölçümleme (AI Destekli)](./kod-kalite-ve-olcumleme-egitimi/readme.md)**
 
     Bu eğitim, yazılım geliştirme dünyasında başarıyı yakalamak için kritik öneme sahip olan "Kod Kalitesi" konusuna derinlemesine bir bakış sunuyor. Yazılım projelerinin sürdürülebilirliği, güvenliği, verimliliği ve bakım kolaylığı doğrudan kod kalitesine bağlıdır. Bu eğitimde, kodun sadece çalışması değil, aynı zamanda sürdürülebilir, anlaşılabilir ve güvenli bir şekilde yazılması gerektiği üzerinde durulacaktır.
 
@@ -218,7 +218,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 
     Eğitim hedefi, katılımcıların yazılım geliştirme süreçlerinde kod kalitesinin önemini anlamalarını sağlamak, kod kalitesini değerlendirmek ve iyileştirmek için gerekli araç ve teknikleri öğrenmelerini sağlamaktır. Katılımcılar, yazılım projelerinin sürdürülebilirliğini artırmak, bakım maliyetlerini düşürmek ve ekip verimliliğini yükseltmek amacıyla kod kalitesini nasıl yönetebileceklerini keşfedeceklerdir. Ayrıca, kod yazma standartlarını benimseme, kod inceleme süreçlerini etkin bir şekilde kullanma ve DevOps entegrasyonu ile otomatik kalite kontrolü uygulama konularında bilgi sahibi olacaklardır. Eğitim, katılımcılara gerçek dünya örnekleri ve başarı hikayeleri ile pratik bir bakış açısı kazandırmayı amaçlamaktadır.
 
-- **[02 - Yüksek Güvenlikli Kod ve Uygulama Geliştirme](./yuksek-guvenlikli-kod-ve-uygulama-gelistirme/readme.md)**
+- **[02 - Yüksek Güvenlikli Kod ve Uygulama Geliştirme (AI Destekli)](./yuksek-guvenlikli-kod-ve-uygulama-gelistirme/readme.md)**
 
     Teknolojinin hızla gelişmesiyle birlikte yazılım güvenliği, her geçen gün daha kritik bir öneme sahip olmaktadır. Siber saldırıların artan sıklığı, güvenlik açıklarının hızla kötüye kullanılmasına yol açmakta ve hem bireyler hem de kurumlar için büyük riskler yaratmaktadır. Bu bağlamda, yazılım geliştiricilerinin güvenli yazılım geliştirme süreçleri hakkında derinlemesine bilgi sahibi olmaları hayati önem taşır.
 
@@ -243,7 +243,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 
 ![](./images/proje-yonetimi.jpg)
 
-- **[1 - Agile, Scrum, Kanban - Çevik Proje Yönetimi](cevik-proje-yonetimi/readme.md)**
+- **[1 - Agile, Scrum, Kanban - Çevik Proje Yönetimi (AI Destekli)](cevik-proje-yonetimi/readme.md)**
 
     Agile Yönetimi, geleneksel ve hiyerarşik proje yönetimi yöntemlerinin sınırlamalarını aşarak, projelerin daha hızlı, esnek ve verimli bir şekilde yönetilmesini sağlayan bir yaklaşımı ifade eder. Hızla değişen iş dünyasında, müşteri taleplerine hızla uyum sağlamak ve rekabetçi kalmak için esneklik ve hızlı adaptasyon yeteneği oldukça önemlidir. Agile, bu ihtiyaçları karşılamak amacıyla geliştirilmiş bir yönetim felsefesidir ve projelerin her aşamasında sürekli iyileştirme, şeffaflık ve takım içi işbirliğini ön planda tutar.
 
@@ -293,7 +293,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 
     10. **Agile Araçları ve Tekniklerini Kullanabilmek**: Eğitim, Agile projelerde yaygın olarak kullanılan araçları (örneğin, Jira, Trello, Azure DevOps) etkin bir şekilde kullanma becerisi kazandıracaktır. Katılımcılar, bu araçlarla projelerinin planlamasını, izlenmesini ve yönetilmesini kolaylaştırabileceklerdir.
 
-- **[#2 - DevOps Proje Yönetimi](devops-proje-yonetimi/readme.md)**
+- **[2 - DevOps Proje Yönetimi (AI Destekli)](devops-proje-yonetimi/readme.md)**
 
     DevOps Proje Yönetimi eğitimimizde, katılımcılara DevOps kültürü, araçları ve uygulamaları hakkında derinlemesine bilgi sunarak, bu bilgilerin projelerde nasıl başarılı bir şekilde yönetileceğini öğretmeyi amaçlamaktadır. Eğitim, DevOps'un temel ilkelerinden başlayarak, yazılım geliştirme ve IT operasyonları arasındaki işbirliğini güçlendirmek için kullanılan modern yöntemleri, araçları ve stratejileri kapsamlı bir şekilde ele alacaktır. Katılımcılar, DevOps süreçlerinin her aşamasını yönetme yetkinliği kazanacak ve bu süreçlerin organizasyonel düzeyde nasıl sürdürülebilir ve verimli hale getirilebileceğini öğreneceklerdir.
 
@@ -307,7 +307,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
     - DevOps kültürünü, iletişim süreçlerini ve iş birliğini güçlendirecek projelerde nasıl liderlik yapılacağını öğrenmek.
     - Yazılım geliştirme, operasyonel süreçler ve DevOps süreçleri arasında verimli bir entegrasyon sağlamak.
 
-- **[#3 - Feature Driven Development - FDD Proje Yönetimi](fdd-proje-yonetimi/readme.md)**
+- **[3 - Feature Driven Development - FDD Proje Yönetimi (AI Destekli)](fdd-proje-yonetimi/readme.md)**
 
     Feature-Driven Development (FDD), yazılım geliştirme süreçlerinde proje yönetimini ve ekip çalışmalarını daha verimli hale getiren bir metodolojidir. Agile prensipleriyle uyumlu olarak, FDD, büyük projeleri küçük, bağımsız ve yönetilebilir parçalara (features) ayırarak, yazılım geliştirmeyi daha düzenli ve sistematik hale getirir. Bu yaklaşım, özellikle büyük ve karmaşık projelerde, işlevsel özelliklerin hızlı bir şekilde geliştirilmesi ve teslim edilmesi için etkili bir yöntem sunar.
 
@@ -335,7 +335,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
     5. **FDD’nin Gerçek Hayatta Kullanımı**  
     - FDD’nin büyük ve karmaşık yazılım projelerindeki başarı hikayelerinden yola çıkarak katılımcıların pratikte karşılaşabilecekleri durumları çözümleyebilmelerini sağlamak.  
 
-- **[#4 - Validation and Verification - V-Model Proje Yönetimi](vmodel-proje-yonetimi/readme.md)**
+- **[4 - Validation and Verification - V-Model Proje Yönetimi (AI Destekli)](vmodel-proje-yonetimi/readme.md)**
 
     Yazılım projelerinde kaliteyi ve verimliliği artırmak için etkili bir model arayışında mısınız? V-Model, yazılım geliştirme ve test süreçlerini paralel bir şekilde yöneterek projelerinizi daha düzenli ve hatasız hale getirir. Bu eğitim, V-Model metodolojisini derinlemesine anlamanızı ve uygulamalı olarak projelerinizde nasıl kullanabileceğinizi öğretir.
 
@@ -349,7 +349,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 
     Bu eğitimin temel hedefi, katılımcılara V-Model yazılım geliştirme metodolojisinin kapsamını, aşamalarını ve uygulama yöntemlerini öğretmektir. Katılımcılar, yazılım geliştirme ve test süreçlerini paralel olarak nasıl yönetebileceğini öğrenerek, projelerinde daha yüksek kalite, verimlilik ve uyum sağlamak için gerekli becerilere sahip olacaklardır. Ayrıca, doğrulama ve doğrulama süreçlerinin nasıl entegre edileceği, testlerin nasıl otomatikleştirileceği ve sürekli entegrasyon ile süreçlerin nasıl hızlandırılacağı gibi kritik konuları anlamalarını hedeflemektedir. Bu eğitim, yazılım geliştirme ve test süreçlerini optimize ederek, katılımcıların projelerinde daha etkili ve hatasız sonuçlar elde etmelerini amaçlamaktadır.
 
-- **[#5 - Rapily Application Development - RAD Proje Yönetimi](rad-proje-yonetimi/readme.md)**
+- **[5 - Rapily Application Development - RAD Proje Yönetimi (AI Destekli)](rad-proje-yonetimi/readme.md)**
 
     Yazılım geliştirme süreçleri hızla değişiyor ve modern iş dünyasında hız, esneklik ve müşteri memnuniyeti her zamankinden daha önemli. RAD (Rapid Application Development), yazılım geliştirme sürecini hızlandıran ve müşteri geri bildirimlerine dayalı sürekli iyileştirmeyi teşvik eden bir metodolojidir. Bu eğitim, RAD’ın temel prensiplerini, süreçlerini ve uygulama araçlarını derinlemesine inceleyerek, yazılım geliştirme becerilerinizi bir adım öteye taşıyacak.
 
@@ -402,7 +402,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 
 ![](./images/redhat.jpg)
 
-- **[01 - Bilinmeyen Yönleri ile Red Hat ve Openshift Eğitimi](./bilinmeyen-yonleri-ile-red-hat-ve-openshift-egitimi/readme.md)**
+- **[01 - Bilinmeyen Yönleri ile Red Hat ve Openshift Eğitimi (AI Destekli)](./bilinmeyen-yonleri-ile-red-hat-ve-openshift-egitimi/readme.md)**
 
     Kurumsal altyapınızın gerçek gücünü ortaya çıkarmaya hazır mısınız? Bu eğitim, Red Hat ve OpenShift teknolojilerinin gizli kalan özelliklerini kullanarak sistemlerinizi daha verimli, güvenli ve ölçeklenebilir hale getirmenizi sağlar. AlmaLinux ve OpenShift’in sunduğu ileri düzey çözümlerle kurumunuzun dijital dönüşümünü hızlandırın. Bu eğitim, sistem yöneticileri, DevOps mühendisleri ve teknoloji liderlerine, kurumsal seviyede konteyner tabanlı uygulamaların yönetimi ve otomasyonu konusunda derinlemesine bilgi kazandırmak için tasarlanmıştır. Kurumunuzun teknolojik gücünü en üst seviyeye çıkarın!
 
@@ -414,7 +414,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 
     **Alma Linux Güncellemesi:** Bu eğitim, katılımcıların AlmaLinux ve OpenShift teknolojilerini ileri düzeyde anlamalarını ve kurumsal ortamlarda bu sistemleri etkin bir şekilde kullanabilmelerini hedeflemektedir. Eğitimin sonunda, AlmaLinux tabanlı bir işletim sistemi üzerinde güçlü bir altyapı kurma ve OpenShift platformunda konteyner tabanlı uygulamaların yönetimi, dağıtımı ve otomasyonunu gerçekleştirebilir hale gelmeyi amaçlıyoruz. Katılımcılar, AlmaLinux ve OpenShift'in az bilinen fakat güçlü özelliklerini keşfedecek, bu teknolojilerle sistemlerini daha verimli ve güvenli hale getirmeyi öğreneceklerdir.
 
-- **[02 - Red Hat Enterprise Server Eğitimi](red-hat-server-ve-sanallastirma/readme.md)**
+- **[02 - Red Hat Enterprise Server Eğitimi (AI Destekli)](red-hat-server-ve-sanallastirma/readme.md)**
 
     Red Hat, açık kaynak yazılım ve teknoloji çözümleri sunan dünya çapında bir liderdir. 1993 yılında kurulan Red Hat, işletmelerin dijital dönüşümünü desteklemek için güvenli, ölçeklenebilir ve esnek yazılım çözümleri sağlar. Şirketin sunduğu ürünler, Linux tabanlı işletim sistemleri, bulut altyapıları, konteyner teknolojileri ve yönetim araçları gibi çeşitli alanlarda işletmelere güç katmaktadır.
 
@@ -432,7 +432,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 
 ![](./images/energy.jpg)
 
-- **[01 - Enerji Firmaları İçin Mimari Geliştirme ve Sürekli Kendini Yetiştirebilen Ekipler](enerji-firmalari-icin-mimari-gelistirme-ve-surekli-kendini-yetistirebilen-takimlar/readme.md)**
+- **[01 - Enerji Firmaları İçin Mimari Geliştirme ve Sürekli Kendini Yetiştirebilen Ekipler (AI Destekli)](enerji-firmalari-icin-mimari-gelistirme-ve-surekli-kendini-yetistirebilen-takimlar/readme.md)**
 
     Enerji sektörü, hızla dijitalleşen ve veri yoğun bir sektör haline gelmiştir. Bu dijital dönüşümle birlikte, enerji üretiminden tüketimine kadar olan tüm süreçlerde veri işleme, depolama ve analizi giderek daha kritik bir hale gelmektedir. Ancak bu süreçlerin verimli bir şekilde yönetilmesi, birçok teknik ve operasyonel zorluğu beraberinde getirmektedir.
 
@@ -512,7 +512,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 
 ![](./images/new-generation-software.jpg)
 
-- **[01 - Go ile Microservis Mimarisi ve Yayınlama (Kubernetes, Docker, OpenShift)](./go-ile-api-gelistirme-microservis-mimarisi-ve-yayinlama-kubernetes-docker-openshift/readme.md)**
+- **[01 - Go ile Microservis Mimarisi ve Yayınlama (Kubernetes, Docker, OpenShift) (AI Destekli)](./go-ile-api-gelistirme-microservis-mimarisi-ve-yayinlama-kubernetes-docker-openshift/readme.md)**
 
     **"Microservis Mimarisi ve Go’ya Giriş" Eğitimi**, modern yazılım geliştirme süreçlerinin temel taşlarından biri haline gelen **microservis mimarisi**, **Go programlama dili**, **konteynerleştirme**, ve **orkestrasyon** konularında uzmanlaşmak isteyenler için tasarlanmıştır.  
 
@@ -555,7 +555,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
     - Servis mesh kullanarak microservisler arasındaki iletişim ve güvenliği optimize edeceklerdir.
     - Performans testleri, caching ve yük dengeleme stratejileri ile sistemlerin verimliliğini artıracaklardır.
 
-- **[02 - Python ile Microservis Mimarisi ve Yayınlama (Kubernetes, Docker, OpenShift)](./python-ile-api-gelistirme-microservis-mimarisi-ve-yayinlama-kubernetes-docker-openshift/readme.md)**
+- **[02 - Python ile Microservis Mimarisi ve Yayınlama (Kubernetes, Docker, OpenShift) (AI Destekli)](./python-ile-api-gelistirme-microservis-mimarisi-ve-yayinlama-kubernetes-docker-openshift/readme.md)**
 
     Bu eğitim, microservis mimarisi, Docker, Kubernetes, OpenShift ve uygulama güvenliği gibi konuları kapsayarak, katılımcılara Python ile güçlü ve ölçeklenebilir mikro hizmetler geliştirme yeteneği kazandıracaktır. Eğitim, aşağıdaki temel başlıklarda derinlemesine bilgi sunmaktadır:
 
@@ -591,7 +591,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 
     Bu eğitim, katılımcıların mikro hizmet mimarisi, konteynerleştirme, orkestrasyon ve güvenlik konularında yetkinlik kazanmalarını sağlayarak, modern yazılım geliştirme dünyasında başarılı projelere imza atmalarına yardımcı olacaktır.
 
-- **[03 - C# ile Microservis Mimarisi ve Yayınlama (Kubernetes, Docker, OpenShift)](./csharp-ile-api-gelistirme-microservis-mimarisi-ve-yayinlama-kubernetes-docker-openshift/readme.md)**
+- **[03 - C# ile Microservis Mimarisi ve Yayınlama (Kubernetes, Docker, OpenShift) (AI Destekli)](./csharp-ile-api-gelistirme-microservis-mimarisi-ve-yayinlama-kubernetes-docker-openshift/readme.md)**
 
     Bu eğitim, yazılım geliştirme dünyasında giderek daha fazla önem kazanan mikroservis mimarisi, konteynerleştirme ve bulut tabanlı dağıtım süreçleri konularında derinlemesine bilgi edinmek isteyen yazılım geliştiricileri, DevOps mühendisleri ve sistem yöneticileri için tasarlanmıştır. Eğitim, C# dilinde mikroservis geliştirme, Docker ile konteynerleştirme ve modern bulut platformları olan Kubernetes ve OpenShift üzerinde dağıtım yapma süreçlerini kapsamlı bir şekilde ele alacaktır.
 
@@ -625,15 +625,15 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 
 ![](./images/cyber-security.jpg)
 
-- **[01 - Tüm Kurum Çalışanlarına Siber Güvenlik Eğitimi](./kurum-calisanlari-icin-siber-guvenlik-egitimi/readme.md)**
-- **[02 - Sistem Güvenlik ve Yazılım Mimarlarına İleri Seviye Siber Güvenlik  Eğitimi](./ileri-seviye-siber-guvenlik-egitimi/readme.md)**
-- **[03 - Yöneticiler için Yapay Zeka Destekli Siber Güvenlik Eğitimi](./yoneticiler-icin-yapay-zeka-ve-kurumlari-yarina-hazirlama/readme.md)**
+- **[01 - Tüm Kurum Çalışanlarına Siber Güvenlik Eğitimi (AI Destekli)](./kurum-calisanlari-icin-siber-guvenlik-egitimi/readme.md)**
+- **[02 - Sistem Güvenlik ve Yazılım Mimarlarına İleri Seviye Siber Güvenlik  Eğitimi (AI Destekli)](./ileri-seviye-siber-guvenlik-egitimi/readme.md)**
+- **[03 - Yöneticiler için Yapay Zeka Destekli Siber Güvenlik Eğitimi (AI Destekli)](./yoneticiler-icin-yapay-zeka-ve-kurumlari-yarina-hazirlama/readme.md)**
 
 ### **H - Yapay Zeka Eğitimlerimiz**
 
 ![](./images/ai.jpg)
 
-- **[01 - Yapay Zeka ile Kişiselleştirilmiş Müşteri Deneyimi Geliştirme – AI ile müşteri hizmetleri ve CRM'de inovatif yaklaşımlar](yapay-zeka-ile-kisisellestirilmis-musteri-deneyimi-gelistirme/readme.md)**
+- **[01 - Yapay Zeka ile Kişiselleştirilmiş Müşteri Deneyimi Geliştirme – AI ile müşteri hizmetleri ve CRM'de inovatif yaklaşımlar (AI Destekli)](yapay-zeka-ile-kisisellestirilmis-musteri-deneyimi-gelistirme/readme.md)**
 
     Bu eğitim, yapay zeka teknolojilerinin müşteri deneyiminde nasıl kullanılabileceğini öğretirken, **KVKK uyumu**, **mikroservis mimarileri**, **Kubernetes ve Docker** teknolojilerinin entegrasyonu üzerine yoğunlaşır. Eğitimde, bulut sağlayıcılarının yurtdışı sunucularında barındırılmasının riskleri ve **yerel altyapılarla güvenli sistemler geliştirme yöntemleri** ele alınır.
 
@@ -649,7 +649,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
     - **Yerel altyapılarda** güvenli ve sürdürülebilir AI projeleri kurma bilgisine sahip olacaklardır.
     - Bulut tabanlı çözümler yerine **yerel veri merkezlerinde** barındırılan altyapılarla güvenlik risklerini nasıl minimize edebileceklerini öğreneceklerdir.
 
-- **[02 - NLP (Doğal Dil İşleme) Projeleri için Geliştirme ve Uygulama Eğitimi – Sohbet botları ve metin analizleri için NLP temelli uygulamalar](nlp-dogal-dil-isleme-projeleri-icin-gelistirme/readme.md)**
+- **[02 - NLP (Doğal Dil İşleme) Projeleri için Geliştirme ve Uygulama Eğitimi – Sohbet botları ve metin analizleri için NLP temelli uygulamalar (AI Destekli)](nlp-dogal-dil-isleme-projeleri-icin-gelistirme/readme.md)**
 
     Bu eğitim, kamu kurumları ve büyük kuruluşlar için **Doğal Dil İşleme (NLP)** projelerinin geliştirilmesi, uygulanması ve yönetilmesi konularında derinlemesine bir eğitim sunmaktadır. Kamu sektöründe NLP teknolojilerinin kullanımı, verimliliği artırma, süreçleri iyileştirme ve vatandaşlara daha hızlı hizmet sunma gibi önemli faydalar sağlar. Katılımcılar, NLP teknolojileri ile kamuya yönelik hizmetlerdeki süreçlerini dijitalleştirerek daha verimli ve etkili projeler geliştirebileceklerdir.
 
@@ -669,7 +669,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 
     Bu eğitim, kamu sektörü projelerinde doğal dil işleme teknolojilerinin etkin kullanımını sağlayarak, katılımcıların bu alandaki bilgi ve becerilerini geliştirmeyi hedeflemektedir.
 
-- **[03 - İş Gücü Yönetiminde Yapay Zeka ve İnsan Kaynakları Çözümleri – AI ile işe alım, yetenek yönetimi ve çalışan verimliliği](is-gucu-yonetiminde-yapay-zeka-ve-insan-kaynaklari-cozumleri/readme.md)**
+- **[03 - İş Gücü Yönetiminde Yapay Zeka ve İnsan Kaynakları Çözümleri – AI ile işe alım, yetenek yönetimi ve çalışan verimliliği (AI Destekli)](is-gucu-yonetiminde-yapay-zeka-ve-insan-kaynaklari-cozumleri/readme.md)**
 
     Günümüz iş dünyası hızla değişirken, İnsan Kaynakları (İK) birimleri için yapay zeka (AI) vazgeçilmez bir araç haline geliyor. **"Yapay Zeka ile İnsan Kaynakları Yönetimi"** eğitim programımız, İK süreçlerinde verimliliği artırmak, doğru işe alım kararları vermek ve çalışanların gelişimini desteklemek için AI’ın gücünü nasıl kullanabileceğinizi anlatılıyor.
 
