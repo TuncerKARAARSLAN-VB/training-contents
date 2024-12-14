@@ -114,35 +114,35 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 
     4. **Gerçek Dünya Uygulamalarını Pratikte Uygulamak:** Katılımcılar, gerçek dünya vaka çalışmalarıyla öğrendikleri teoriyi pratiğe dökme fırsatı bulurlar.
 
-- **[05 - Yüksek Seviyeli Kod Korumalı Yazılım Geliştirme Süreçleri ve DevOpsSec (AI Destekli)](./devsecops/readme.md)**
+- **[05 - Yüksek Seviyeli Kod Korumalı Yazılım Geliştirme Süreçleri ve DevSecOps (AI Destekli)](./devsecops/readme.md)**
 
-    Günümüzün hızla değişen dijital dünyasında, yazılım geliştirme süreçlerinin güvenli, hızlı ve verimli olması her zamankinden daha önemli hale gelmiştir. Bu noktada DevOpsSec devreye giriyor. DevOpsSec, yazılım geliştirme (Dev), operasyon (Ops) ve güvenlik (Sec) alanlarını birleştirerek, güvenliği yazılım geliştirme süreçlerinin her aşamasına entegre eden bir yaklaşım sunar.
+    Günümüzün hızla değişen dijital dünyasında, yazılım geliştirme süreçlerinin güvenli, hızlı ve verimli olması her zamankinden daha önemli hale gelmiştir. Bu noktada DevSecOps devreye giriyor. DevSecOps, yazılım geliştirme (Dev), güvenlik (Sec) ve operasyon (Ops) alanlarını birleştirerek, güvenliği yazılım geliştirme süreçlerinin her aşamasına entegre eden bir yaklaşım sunar.
 
-    **Neden DevOpsSec?**
+    **Neden DevSecOps?**
 
-    Geleneksel güvenlik yaklaşımları genellikle yazılım geliştirme sürecinin son aşamalarına odaklanır. Ancak DevOpsSec, güvenliği baştan sona dahil ederek, daha güvenli bir yazılım geliştirme ortamı sağlar. Erken aşamalarda yapılan güvenlik taramaları ve testler, zafiyetlerin erken tespit edilmesine ve minimize edilmesine olanak tanır. Bu sayede, güvenlik açıkları daha hızlı kapanır ve yazılım projeleri daha güvenli hale gelir.
+    Geleneksel güvenlik yaklaşımları genellikle yazılım geliştirme sürecinin son aşamalarına odaklanır. Ancak DevSecOps, güvenliği baştan sona dahil ederek, daha güvenli bir yazılım geliştirme ortamı sağlar. Erken aşamalarda yapılan güvenlik taramaları ve testler, zafiyetlerin erken tespit edilmesine ve minimize edilmesine olanak tanır. Bu sayede, güvenlik açıkları daha hızlı kapanır ve yazılım projeleri daha güvenli hale gelir.
 
-    **DevOpsSec'in Faydaları**
+    **DevSecOps'in Faydaları**
 
     **Erken Güvenlik Testi ve Tarama:** Güvenlik testleri, yazılım geliştirme sürecinin ilk aşamalarında yapılır. Bu, zafiyetlerin erken tespit edilmesini ve daha düşük maliyetlerle çözülmesini sağlar.
 
-    **Otomasyon ve Sürekli İzleme:** DevOpsSec, güvenlik uygulamalarını otomatikleştirerek, sürekli izleme ve anında müdahale sağlar. Olası tehditler daha hızlı algılanır ve yanıt verilir.
+    **Otomasyon ve Sürekli İzleme:** DevSecOps, güvenlik uygulamalarını otomatikleştirerek, sürekli izleme ve anında müdahale sağlar. Olası tehditler daha hızlı algılanır ve yanıt verilir.
 
-    **Hızlı Geliştirme ve Güvenlik Dengelemesi:** Yazılım geliştirme süreci hızlanırken güvenlik riskleri en aza indirilir. DevOpsSec, güvenlik ve hız arasındaki dengeyi mükemmel bir şekilde kurar.
+    **Hızlı Geliştirme ve Güvenlik Dengelemesi:** Yazılım geliştirme süreci hızlanırken güvenlik riskleri en aza indirilir. DevSecOps, güvenlik ve hız arasındaki dengeyi mükemmel bir şekilde kurar.
 
     **Ekipler Arası İşbirliği:** Geliştiriciler, operasyon ekipleri ve güvenlik uzmanları arasında güçlü bir işbirliği sağlar. Güvenlik, yalnızca bir departmanın sorumluluğu değil, tüm ekibin ortak sorumluluğudur.
 
-    **Risk Yönetimi:** DevOpsSec, sürekli risk değerlendirmesi ve yönetimi yaparak yazılımın her aşamasında potansiyel tehditleri en aza indirir.
+    **Risk Yönetimi:** DevSecOps, sürekli risk değerlendirmesi ve yönetimi yaparak yazılımın her aşamasında potansiyel tehditleri en aza indirir.
 
-    **DevOpsSec ile Güvenli Geleceğe Adım Atın**
+    **DevSecOps ile Güvenli Geleceğe Adım Atın**
 
-    DevOpsSec, sadece güvenlikten ödün vermemekle kalmaz, aynı zamanda yazılım geliştirme süreçlerini daha hızlı, verimli ve esnek hale getirir. Herkesin güvenli bir dijital deneyim yaşaması için, yazılım geliştirme süreçlerinin her aşamasında güvenliği sağlamak artık bir zorunluluk. DevOpsSec, işte bu zorunluluğu yerine getiren güçlü bir çözümdür.
+    DevSecOps, sadece güvenlikten ödün vermemekle kalmaz, aynı zamanda yazılım geliştirme süreçlerini daha hızlı, verimli ve esnek hale getirir. Herkesin güvenli bir dijital deneyim yaşaması için, yazılım geliştirme süreçlerinin her aşamasında güvenliği sağlamak artık bir zorunluluk. DevSecOps, işte bu zorunluluğu yerine getiren güçlü bir çözümdür.
 
     **Eğitimin Hedefi**
 
     1. **Güvenli Yazılım Geliştirme**: Katılımcılar, güvenliği yazılım geliştirme sürecinin başından itibaren nasıl entegre edeceklerini öğreneceklerdir. Kod yazımında güvenlik önlemleri almayı, güvenlik açıklarını erken tespit etmeyi ve çözmeyi öğreneceklerdir.
     
-    2. **Otomasyon ve Sürekli İzleme**: DevOpsSec sürecinde güvenlik testlerinin ve taramalarının otomatikleştirilmesi, sürekli izleme ve erken müdahale yöntemleri üzerine bilgiler edineceklerdir.
+    2. **Otomasyon ve Sürekli İzleme**: DevSecOps sürecinde güvenlik testlerinin ve taramalarının otomatikleştirilmesi, sürekli izleme ve erken müdahale yöntemleri üzerine bilgiler edineceklerdir.
 
     3. **Tehdit Yönetimi**: Yazılım sistemlerinde potansiyel güvenlik tehditlerini hızlı bir şekilde tanıyıp, bu tehditlere nasıl müdahale edileceğini anlayacaklardır.
 
@@ -150,9 +150,9 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 
     5. **Risk Değerlendirmesi ve Yönetimi**: Katılımcılar, güvenlik risklerini nasıl değerlendireceklerini ve yazılım geliştirme sürecinin her aşamasında bu riskleri nasıl yöneteceklerini öğreneceklerdir.
 
-    6. **DevOpsSec Araçları ve Teknikleri**: DevOpsSec ekosisteminde kullanılan araçlar, teknikler ve güvenlik uygulamalarına dair pratik bilgi edinerek, gerçek dünya projelerinde güvenliği etkin bir şekilde uygulayabileceklerdir.
+    6. **DevSecOps Araçları ve Teknikleri**: DevSecOps ekosisteminde kullanılan araçlar, teknikler ve güvenlik uygulamalarına dair pratik bilgi edinerek, gerçek dünya projelerinde güvenliği etkin bir şekilde uygulayabileceklerdir.
 
-    Bu eğitim, DevOpsSec'in dinamik ve güvenli bir yazılım geliştirme süreci yaratma becerisi kazandırmayı amaçlamaktadır. Katılımcılar, güvenlik ve hız arasında mükemmel bir denge kurarak, güvenli dijital projeler geliştirmeye hazır hale geleceklerdir.
+    Bu eğitim, DevSecOps'in dinamik ve güvenli bir yazılım geliştirme süreci yaratma becerisi kazandırmayı amaçlamaktadır. Katılımcılar, güvenlik ve hız arasında mükemmel bir denge kurarak, güvenli dijital projeler geliştirmeye hazır hale geleceklerdir.
 
 - **[06 - Sıfırdan Zirveye Git ve GitHub Workflow (AI Destekli)](./sifirdan-zirveye-git-github-workflow/README.md)**
 
