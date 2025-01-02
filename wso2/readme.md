@@ -112,90 +112,171 @@ Katılımcılar, eğitimin sonunda WSO2’nin sunduğu çözümler ile dijital a
 
 ### **1. Giriş ve Temel Kavramlar**
 
-1. WSO2 Nedir?  
-   - Tarihçesi ve gelişimi  
-   - Kullanım alanları ve faydaları  
-2. WSO2 Ürünleri  
-   - API Manager  
-   - Enterprise Integrator (EI)  
-   - Identity Server (IS)  
-   - Analytics  
-3. WSO2’nin Rakiplerinden Farkları  
-4. Mimarisi ve Bileşenleri  
+1. **WSO2 Nedir?**
+   - Tarihçesi ve gelişimi: WSO2'nun evrimi, ilk çıkış noktaları, zaman içinde gelişimi
+   - Kullanım alanları ve faydaları: API yönetimi, kimlik doğrulama, entegrasyon, veri analitiği
+   - WSO2’nun sektördeki rolü ve katkıları
+
+2. **WSO2 Ürünleri**
+   - **API Manager**: API yönetimi, API lifecycle yönetimi, API güvenliği, analiz
+   - **Enterprise Integrator (EI)**: Entegrasyon çözümleri, ESB kullanımı, mikroservis entegrasyonu
+   - **Identity Server (IS)**: Kimlik doğrulama, SSO, OAuth2.0, OpenID Connect, federasyon
+   - **Analytics**: API analitiği, izleme, performans raporlama
+
+3. **WSO2’nin Rakiplerinden Farkları**
+   - API yönetimi, güvenlik ve entegrasyon alanındaki avantajları
+   - WSO2'yu rakiplerinden ayıran teknolojiler ve özellikler
+
+4. **Mimarisi ve Bileşenleri**
+   - WSO2’nun bileşen mimarisi: API Manager, Identity Server, Enterprise Integrator ve Analytics
+   - API Gateway, API Publisher, API Store, Microgateway
+   - Dağıtık sistemlerde WSO2 platformu
 
 ### **2. Kurulum ve Altyapı Hazırlığı**
 
-1. Sistem Gereksinimleri  
-2. WSO2 Ürünlerinin Kurulumu  
-   - Docker ve Kubernetes ile kurulum  
-   - On-premise ve cloud ortamları  
-3. İlk Yapılandırma Adımları  
-   - Temel konfigürasyonlar  
-   - Güvenlik ayarları  
+1. **Sistem Gereksinimleri**
+   - Yazılım ve donanım gereksinimleri
+   - Desteklenen işletim sistemleri ve platformlar
+
+2. **WSO2 Ürünlerinin Kurulumu**
+   - **Docker ve Kubernetes ile Kurulum**: WSO2'nun konteyner tabanlı kurulumu, Dockerfile yapıları
+   - **On-premise ve Cloud Ortamları**: AWS, Azure, Google Cloud üzerinde WSO2 kurulumu
+   - **Kurulum Adımları**: WSO2 API Manager, Identity Server ve EI kurulumu
+
+3. **İlk Yapılandırma Adımları**
+   - Temel yapılandırmalar: Yönetim konsoluna giriş, ilk ayarlar
+   - **Güvenlik Ayarları**: SSL sertifikaları, HTTP güvenlik politikaları, kullanıcı rolleri
 
 ### **3. WSO2 API Manager**
 
-1. API Yaşam Döngüsü  
-   - API tasarımı ve yayınlama  
-   - Sürüm yönetimi  
-2. Gateway ve Proxies  
-3. Uygulamalar ve Subscriptions  
-4. API Güvenliği  
-   - OAuth2.0, JWT, Basic Auth  
-   - Rate Limiting ve Throttling  
-5. API Analytics ve Monitoring  
-6. WSO2 API Manager ile Entegrasyonlar  
+1. **API Yaşam Döngüsü**
+   - API tasarımı, API yayınlama, sürüm yönetimi, geri çekme işlemleri
+   - **API Gateway ile Bağlantı**: Gateway üzerinden API erişimi, proxy yapılandırması
+
+2. **Gateway ve Proxies**
+   - API Gateway’in temel işlevi, Proxy kullanımı
+   - **C# ile API Gateway Entegrasyonu**: C# uygulamaları üzerinden API Gateway'e erişim
+
+3. **Uygulamalar ve Subscriptions**
+   - Uygulama yönetimi, abonelik işlemleri
+   - **C# ile Subscription Yönetimi**: C# kullanarak API aboneliği ve kullanıcı yönetimi
+
+4. **API Güvenliği**
+   - OAuth2.0, JWT, Basic Auth ile kimlik doğrulama
+   - **Rate Limiting ve Throttling**: API güvenliği sağlamak için kullanım sınırlamaları
+
+5. **API Analytics ve Monitoring**
+   - API kullanım verilerinin toplanması ve raporlama
+   - **Prometheus, Grafana ile İzleme**: API performansı izleme, uyarılar
+
+6. **WSO2 API Manager ile Entegrasyonlar**
+   - WSO2 API Manager’ın diğer sistemler ile entegrasyonu (Veritabanları, Mikroservisler, vb.)
 
 ### **4. WSO2 Enterprise Integrator (EI)**
 
-1. Enterprise Service Bus (ESB) Nedir?  
-   - SOA ve Mikroservis Mimarisi ile ilişkisi  
-2. Mediator'lar  
+1. **Enterprise Service Bus (ESB) Nedir?**
+   - SOA ve Mikroservis Mimarisi ile ilişkisi, ESB’nin temel işlevi
+   - WSO2 EI ile hizmet yönlendirme, veri dönüştürme, protokol dönüştürme
+
+2. **Mediator’lar**
+   - Mediator’ların detaylı açıklamaları (Log, Filter, Sequence, Enrich, Switch, vb.)
+   - **Özel Mediator Oluşturma**: Kendi ihtiyaçlarınıza göre mediator yazma
+   - **C# ile Mediator Kullanımı**: C# uygulamalarına özel mediator yapılandırması
    - Log, Filter, Sequence, Payload Factory, Call, Callout, Property, Enrich, Switch, Validate, Aggregate, Script, Clone, Router, Respond, Mediation, Send, Throttle, Inject, Fail, Sort, Java, Flow, Exception, Timeout, LogMessage, Retry, Callback, Redirect, Convert, SetProperty, Store, MessageStore, XMLToJSON, JSONToXML, Unzip, Zip, Delay, Group, Publish, Custom, XSLT, JDBCCall, RM, SequenceCall
-   - Özel Mediator oluşturma  
-3. Message Transformation ve Enrichment  
-4. REST ve SOAP Entegrasyonları  
-5. File, Database ve Queue İşlemleri  
-6. İş Süreçleri (Business Processes) ve BPMN  
-7. Transaction Management  
+
+3. **Message Transformation ve Enrichment**
+   - Mesaj formatları arası dönüşüm, veri zenginleştirme işlemleri
+
+4. **REST ve SOAP Entegrasyonları**
+   - RESTful API ve SOAP servis entegrasyonu
+   - **C# ile REST API Entegrasyonu**: C# üzerinden REST API çağrıları yapma
+
+5. **File, Database ve Queue İşlemleri**
+   - Dosya, veritabanı ve mesaj kuyruğu işlemleri, WSO2 EI ile veritabanı yönetimi
+
+6. **İş Süreçleri (Business Processes) ve BPMN**
+   - BPMN ile iş süreçlerinin modellenmesi, Workflow yönetimi
+
+7. **Transaction Management**
+   - WSO2 EI ile dağıtık işlemler ve transaction yönetimi
 
 ### **5. WSO2 Identity Server (IS)**
 
-1. Kullanıcı Yönetimi ve Role Tabanlı Yetkilendirme  
-2. Single Sign-On (SSO) ve Çok Faktörlü Kimlik Doğrulama  
-3. Federasyon Kimlik Yönetimi  
-   - SAML, OpenID Connect  
-4. Kimlik Doğrulama Akışları  
-5. API Güvenlik Protokolleri  
-6. OAuth2.0 ile Token Yönetimi  
-7. Entegrasyon Senaryoları  
+1. **Kullanıcı Yönetimi ve Role Tabanlı Yetkilendirme**
+   - Kullanıcı ve grup yönetimi, rol bazlı erişim kontrolleri
+   - **C# ile Kimlik Doğrulama ve Yetkilendirme**: C# uygulamalarında kullanıcı yönetimi
+
+2. **Single Sign-On (SSO) ve Çok Faktörlü Kimlik Doğrulama**
+   - SSO'nun avantajları, MFA uygulamaları
+
+3. **Federasyon Kimlik Yönetimi**
+   - SAML, OpenID Connect, WS-Federation gibi federasyon protokolleri
+   - **C# ile Federasyon Kimlik Yönetimi**: C# ile federasyon yapısı oluşturma
+
+4. **Kimlik Doğrulama Akışları**
+   - OAuth2.0, OpenID Connect akışları, token tabanlı doğrulama
+
+5. **API Güvenlik Protokolleri**
+   - OAuth2.0 ile API güvenliği sağlama, JWT kullanımı
+
+6. **OAuth2.0 ile Token Yönetimi**
+   - OAuth2.0 protokolü ile erişim token’larının yönetimi
+
+7. **Entegrasyon Senaryoları**
+   - Kimlik yönetimi, API güvenliği ve SSO entegrasyonu
+   - **C# ile SSO Entegrasyonu**: C# uygulamalarında SSO yapılandırma
 
 ### **6. İleri Düzey Konular**
 
-1. WSO2 ile CI/CD Süreçleri  
-   - Jenkins, GitHub Actions, GitLab ile Pipeline Tasarımı  
-2. Performans Optimizasyonu  
-   - Cache, Thread Pools  
-3. Monitoring ve Alerting  
-   - Prometheus, Grafana  
-4. Özel Plugin ve Genişletilebilirlik  
-5. Debugging ve Hata Yönetimi  
-6. Yük Dengeleme ve High Availability  
+1. **WSO2 ile CI/CD Süreçleri**
+   - Jenkins, GitHub Actions, GitLab ile otomatikleştirilmiş pipeline
+   - **C# ve WSO2 Entegrasyonu**: CI/CD süreçlerine C# uygulamalarının entegrasyonu
+
+2. **Performans Optimizasyonu**
+   - WSO2 platformunda cache yönetimi, thread pooling, iş yükü optimizasyonu
+
+3. **Monitoring ve Alerting**
+   - Prometheus, Grafana ile WSO2 ürünlerinin izlenmesi, uyarı sistemleri
+
+4. **Özel Plugin ve Genişletilebilirlik**
+   - WSO2 ürünlerini genişletmek için özelleştirilmiş plugin'ler yazma
+
+5. **Debugging ve Hata Yönetimi**
+   - WSO2 ürünlerinde hata ayıklama, log yönetimi
+
+6. **Yük Dengeleme ve High Availability**
+   - WSO2 platformunda yük dengeleme ve yüksek erişilebilirlik sağlama
 
 ### **7. Gerçek Hayat Senaryoları**
 
-1. Senaryo: API Gateway Kullanımı  
-2. Senaryo: Mikroservis Tabanlı Entegrasyon  
-3. Senaryo: Kimlik Doğrulama ile API Güvenliği  
-4. Senaryo: SOAP'tan REST'e Dönüşüm  
-5. Senaryo: İş Süreçlerinin Otomasyonu  
+1. **Senaryo: API Gateway Kullanımı**
+   - API Gateway ile dışa açık API’lerin yönetimi, güvenliği ve izlenmesi
+
+2. **Senaryo: Mikroservis Tabanlı Entegrasyon**
+   - API Gateway ve WSO2 EI ile mikroservislerin entegrasyonu
+
+3. **Senaryo: Kimlik Doğrulama ile API Güvenliği**
+   - OAuth2.0, SSO ile güvenli API çağrıları
+
+4. **Senaryo: SOAP'tan REST'e Dönüşüm**
+   - SOAP hizmetlerini RESTful servislere dönüştürme, WSO2 EI ile dönüşüm
+
+5. **Senaryo: İş Süreçlerinin Otomasyonu**
+   - BPMN ile iş süreçlerinin otomatikleştirilmesi, API ve veri entegrasyonları
 
 ### **8. Proje ve Pratik Uygulamalar**
 
-1. Katılımcıların kendi API’lerini geliştirmesi  
-2. Gerçek hayattaki entegrasyon senaryolarının simülasyonu  
-3. Sorun çözme ve hata giderme çalışmaları  
-4. Mini Proje Teslimi ve Değerlendirme  
+1. **Katılımcıların Kendi API’lerini Geliştirmesi**
+   - API tasarımı, güvenliği ve yayınlanması
+
+2. **Gerçek Hayattaki Entegrasyon Senaryolarının Simülasyonu**
+   - Gerçek dünya projeleri için API ve SSO entegrasyonu simülasyonu
+
+3. **Sorun Çözme ve Hata Giderme Çalışmaları**
+   - Uygulamalı olarak sık karşılaşılan sorunlar ve çözüm yolları
+
+4. **Mini Proje Teslimi ve Değerlendirme**
+   - Katılımcılardan mini projelerin teslimi, değerlendirilmeleri
 
 <div style="page-break-after: always;"></div>
 
