@@ -172,7 +172,7 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 
     4. **Gerçek Dünya Uygulamalarını GitHub Actions ile Pratikte Uygulamak:** Katılımcılar, GitHub Actions iş akışlarını gerçek dünya projelerine uygulayarak öğrendikleri teoriyi pratiğe dökme fırsatı bulurlar.
 
-- **[07 - WSO2 Enterprise Integrator, Api Manager ve Identity Server (AI Destekli)](./wso2/README.md)**
+- **[07 - WSO2 Enterprise Integrator, Api Manager ve Identity Server (AI Destekli)](./wso2/readme.md)**
 
     WSO2 platformu ile yazılım geliştirme süreçlerinde verimliliği artırmak, entegrasyonları optimize etmek ve güvenliği sağlamak, CI/CD (Sürekli Entegrasyon/Sürekli Dağıtım) uygulamaları ile mümkün hale gelir. Bu kapsamlı eğitim, WSO2’nun sunduğu güçlü araçları kullanarak CI/CD süreçlerini optimize etmek, güvenliği pekiştirmek ve uygulama dağıtımını modern container teknolojileriyle entegre etmek isteyen yazılım geliştiriciler, DevOps mühendisleri ve sistem yöneticileri için detaylı bir rehber sunmaktadır.
 
