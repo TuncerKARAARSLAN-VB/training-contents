@@ -1,4 +1,4 @@
-# **Red Hat Linux ve Sanallaştırma Eğitim Paketi**
+# **Red Hat Enterperise Linux Eğitim Paketi**
 
 ![](redhat-1.jpg)
 

@@ -227,8 +227,6 @@ Bu süreçte karşılaşılan bazı yaygın veri işleme sorunları:
    - **Final Projesi**
      - Yüksek trafikli bir sistemin tasarımı ve uygulanması.
 
-Eğitim yöntemi, enerji sektörüne yönelik eğitim içeriği ile ilgili katılımcıların beceri ve bilgilerini geliştirmek için çeşitli stratejileri içermelidir. İşte bu eğitim için önerilen yöntemler:
-
 <div style="page-break-after: always;"></div>
 
 ## **Eğitim Yöntemi**
@@ -367,7 +365,5 @@ Bu eğitim, enerji sektörü profesyonellerinin dijital dönüşüm ve yüksek p
 10. **Veri Güvenliği ve Gizlilik Konusunda Bilinç**
    - Katılımcıların, enerji sektörüyle ilgili veri güvenliği ve gizliliği sağlama konusundaki farkındalıkları yüksek olmalıdır.
    - IoT sistemlerinden ve diğer enerji çözümlerinden elde edilen verilerin güvenliğini sağlamak ve endüstri standartlarına uygun çözümler geliştirmek beklenir.
-
-Bu beklentiler, katılımcıların etkinlikten en verimli şekilde faydalanmasını sağlayacak ve sektördeki gelişmelere katkıda bulunmalarını teşvik edecektir.
 
 [Eğitim Materyalleri (Eğitmenlere Özel)](https://github.com/TuncerKARAARSLAN-VB/training-kit-enerji-firmalari-icin-mimari-gelistirmeler)
