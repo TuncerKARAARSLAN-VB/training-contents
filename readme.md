@@ -647,8 +647,58 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 ![](./images/cyber-security.jpg)
 
 - **[01 - Tüm Kurum Çalışanlarına Siber Güvenlik Eğitimi (AI Destekli)](./kurum-calisanlari-icin-siber-guvenlik-egitimi/readme.md)**
+
+    Günümüzün dijital dünyasında **siber güvenlik**, bireyler ve kurumlar için hayati bir öneme sahiptir. Siber tehditlerin giderek karmaşık hale gelmesi, güvenlik önlemlerinin de aynı oranda gelişmesini zorunlu kılmaktadır. Bu eğitimde, **siber güvenliğin temel ilkelerinden**, **gelişmiş saldırı teknikleri ve savunma stratejilerine** kadar geniş bir yelpazede bilgi sahibi olacak ve güvenlik becerilerinizi ileri seviyeye taşıyacaksınız.  
+
+    **Siber Tehditlere Karşı Güçlü Bir Savunma Oluşturun**  
+    Siber güvenlik, **ağ güvenliği**, **zararlı yazılımlara karşı koruma**, **şifreleme teknikleri**, **penetrasyon testleri** ve **olay müdahale stratejileri** gibi birçok kritik konuyu kapsar. Modern güvenlik yaklaşımlarıyla **saldırıları tespit etme, önleme ve etkilerini minimize etme** yeteneklerinizi geliştirebilirsiniz.  
+
+    - **Siber Güvenlik Temelleri**: Tehdit modelleri, saldırı türleri ve savunma mekanizmaları  
+    - **Ağ Güvenliği**: Firewall, IDS/IPS sistemleri ve VPN teknolojileri  
+    - **Zararlı Yazılımlar ve Savunma Teknikleri**: Malware, ransomware ve antivirüs çözümleri  
+    - **Kimlik ve Erişim Yönetimi**: Multi-Factor Authentication (MFA), IAM ve Zero Trust modeli  
+    - **Şifreleme ve Veri Güvenliği**: AES, RSA, Hashing ve güvenli veri saklama yöntemleri  
+    - **Web Uygulama Güvenliği**: OWASP Top 10, SQL Injection, XSS ve güvenli kod geliştirme  
+    - **Penetrasyon Testleri ve Güvenlik Denetimleri**: Kali Linux, Metasploit ve sızma testi teknikleri  
+    - **Olay Müdahale ve Adli Bilişim**: Log analizi, SIEM sistemleri ve saldırı sonrası süreçler  
+    - **Bulut Güvenliği ve Kubernetes Güvenliği**: Güvenli konteyner yönetimi, IAM politikaları ve veri koruma stratejileri  
+    - **Siber Tehdit İstihbaratı ve Red Team/Blue Team Çalışmaları**: Gerçek dünya saldırı simülasyonları ve tehdit avcılığı  
+
+    **Siber Güvenlik Uzmanı Olma Yolunda Önemli Bir Adım!**  
+    Bu eğitim sayesinde, **siber tehditlere karşı bilinçlenerek güçlü bir savunma mekanizması oluşturmayı** öğrenecek, büyük ölçekli sistemlerin güvenliğini sağlama konusunda uzmanlaşacaksınız. **Geleceğin siber güvenlik profesyonellerinden biri olmak için şimdi harekete geçin** ve dijital dünyada güvenliği sağlayan en yetkin isimlerden biri olun!  
+
 - **[02 - Sistem Güvenlik ve Yazılım Mimarlarına İleri Seviye Siber Güvenlik  Eğitimi (AI Destekli)](./ileri-seviye-siber-guvenlik-egitimi/readme.md)**
+
+    **Günümüzün Dijital Dünyasında Siber Güvenlik: Hayati Bir Gereklilik**  
+    Siber güvenlik, modern dünyada hem bireyler hem de kurumlar için kritik bir öneme sahiptir. Teknolojinin hızla gelişmesi ve siber tehditlerin giderek daha karmaşık hale gelmesi, güvenlik önlemlerinin de sürekli olarak evrilmesini zorunlu kılmaktadır. Bu eğitim, **siber güvenliğin temel ilkelerinden**, **gelişmiş saldırı tekniklerine** ve **savunma stratejilerine** kadar geniş bir yelpazede derinlemesine bilgi ve beceri kazandırarak güvenlik becerilerinizi ileri seviyeye taşıyacaktır.
+
+    **Siber Tehditlere Karşı Güçlü Bir Savunma Oluşturun**  
+    Siber güvenlik, **ağ güvenliği**, **zararlı yazılımlara karşı koruma**, **şifreleme teknikleri**, **penetrasyon testleri** ve **olay müdahale stratejileri** gibi birçok kritik alanı kapsamaktadır. Bu eğitimde, modern güvenlik yaklaşımlarıyla **saldırıları tespit etme, önleme ve etkilerini minimize etme** yeteneklerinizi geliştirecek, siber tehditlerle başa çıkma konusunda donanımlı bir profesyonel olacaksınız.
+
+    **Siber Güvenlik Uzmanı Olma Yolunda Önemli Bir Adım!**  
+    Bu eğitim, **siber tehditlere karşı bilinçlenerek güçlü bir savunma mekanizması oluşturmayı** ve büyük ölçekli sistemlerin güvenliğini sağlama konusunda yetkinlik kazanmanızı sağlayacaktır. **Siber güvenlik alanında uzmanlaşmak isteyen profesyoneller için mükemmel bir fırsat!** Geleceğin siber güvenlik uzmanlarından biri olmak için şimdi harekete geçin ve dijital dünyada güvenliği sağlayan en yetkin isimlerden biri olun!
+
 - **[03 - Yöneticiler için Yapay Zeka Destekli Siber Güvenlik Eğitimi (AI Destekli)](./yoneticiler-icin-yapay-zeka-ve-kurumlari-yarina-hazirlama/readme.md)**
+
+    **Kurumunuzun Geleceğe Hazırlık Sürecini Hızlandırın!**
+
+    Dijital dönüşüm çağında, yöneticiler olarak iş dünyasında fark yaratmak, teknolojiyi etkin kullanmak ve organizasyonel güvenliği sağlamak çok kritik. **Yapay Zeka ve Kurumları Yarına Hazırlama** eğitim programı, sadece siber güvenlik değil, aynı zamanda ileri düzey yapay zeka çözümleriyle kurumlarınıza liderlik etme becerisi kazandıracak!
+
+    **Eğitim Yöntemi:**
+    Bu eğitim, teorik bilgi ve pratik uygulamaları birleştirerek katılımcıların dijital dönüşüm süreçlerine aktif olarak katkı sağlamalarını amaçlar. Katılımcılar, organizasyonel güvenliği sağlama, risk yönetimi süreçlerini optimize etme ve siber tehditlere karşı güçlü savunma stratejileri geliştirme konusunda uzmanlaşacaklardır.
+
+    **Eğitimden Beklenen Çıktılar:**
+    - Katılımcılar, siber güvenlik tehditlerini tanıma ve etkili stratejiler geliştirme becerisi kazanacak.
+    - Etkili bir siber güvenlik yönetimi ile organizasyonel güvenlik güçlendirilecek.
+    - Yapay zeka temelli güvenlik çözümleri ile şirketinize inovasyon kazandırılacak.
+
+    **Hedef Kitle:**
+    - Üst Düzey Yöneticiler (CEO, CTO, CIO)
+    - Birim Yöneticileri ve Departman Liderleri
+    - Teknoloji Liderleri ve İnovasyon Yöneticileri
+    - Risk Yönetimi ve Güvenlik Uzmanları
+
+    Yöneticilere özel bu eğitimle, kurumunuzun güvenlik stratejilerini güçlendirecek, dijital dönüşüm süreçlerine katkı sağlayacak ve güvenlik risklerini minimize etme konusunda gereken bilgi ve becerileri kazanacaksınız.
 
 ### **H - Yapay Zeka Eğitimlerimiz**
 
