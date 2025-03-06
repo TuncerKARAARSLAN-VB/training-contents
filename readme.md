@@ -621,6 +621,27 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
     **Sizde bu dünyada yerinizi almak için bu fırsatı kaçırmayın!**
     Bu eğitim sayesinde, **microservis mimarisi** ve **DevOps süreçlerine** hakim olacak, daha verimli, güvenli ve ölçeklenebilir uygulamalar geliştirme becerisi kazanacaksınız. Hem bireysel kariyerinizde hem de iş yerinizde fark yaratacak bilgiye sahip olabilirsiniz. Şimdi adım atın ve geleceğe hazırlanın!
 
+- **[05 - Advanced PostgreSQL Administration Development Kubernetes Eğitimi)](./advanced-postgre-sql-administration-development-kubernetes/readme.md)**
+
+    Günümüzün veri odaklı dünyasında **PostgreSQL**, güçlü, güvenilir ve ölçeklenebilir bir veritabanı yönetim sistemi olarak öne çıkıyor. Açık kaynaklı olması ve gelişmiş özellikleri sayesinde hem küçük ölçekli projeler hem de büyük kurumsal uygulamalar için ideal bir çözümdür. Bununla birlikte, **Kubernetes** ile entegrasyon sağlandığında, PostgreSQL'in ölçeklenebilirliği, yönetimi ve dayanıklılığı en üst seviyeye çıkar. Bu eğitimde, **PostgreSQL’in temellerinden**, **Kubernetes üzerinde ölçeklenebilir veritabanı yönetimine** kadar her şeyi öğrenecek ve veri yönetim becerilerinizi bir üst seviyeye taşıyacaksınız.
+    
+    **Veri Tabanı Yönetiminde Uzmanlaşın**  
+    PostgreSQL, **ACID uyumluluğu**, **JSON desteği**, **replikasyon mekanizmaları** ve **performans optimizasyonları** ile modern yazılım geliştirme dünyasında kritik bir rol oynar. Kubernetes ile birlikte kullanıldığında, **yüksek erişilebilirlik**, **otomatik ölçeklendirme** ve **self-healing** gibi avantajlardan faydalanarak, güçlü ve esnek bir veri yönetim altyapısı oluşturabilirsiniz.  
+
+    - **PostgreSQL Temelleri**: Kurulum, yapılandırma ve temel SQL komutları  
+    - **Gelişmiş SQL Kullanımı**: JOIN işlemleri, indeksleme ve performans optimizasyonları  
+    - **JSON & NoSQL Desteği**: PostgreSQL ile yarı yapılandırılmış veri yönetimi  
+    - **Stored Procedures & Triggers**: PL/pgSQL ile gelişmiş programlama  
+    - **Performans ve Optimizasyon**: Query tuning, indexing ve EXPLAIN ANALYZE kullanımı  
+    - **Yüksek Erişilebilirlik & Replikasyon**: Streaming replication, failover ve backup stratejileri  
+    - **Güvenlik ve Yetkilendirme**: Role-based access control, SSL ve veri şifreleme yöntemleri  
+    - **Kubernetes Üzerinde PostgreSQL Yönetimi**: StatefulSets, Persistent Volumes ve Operator kullanımı  
+    - **Otomatik Ölçeklendirme ve Yük Dengesi**: Kubernetes Horizontal Pod Autoscaler (HPA) ile esnek veri yönetimi  
+    - **Kesintisiz Çalışma ve Felaket Kurtarma**: Kubernetes ile self-healing, backup ve failover mekanizmaları  
+
+    **Geleceğin Veri Profesyonelleri İçin Kaçırılmayacak Fırsat!**  
+    Bu eğitim sayesinde, **PostgreSQL ile veritabanı yönetimini** öğrenerek büyük ölçekli sistemlerde veri depolama, işleme ve analiz etme konusunda uzmanlaşacak, **Kubernetes ile ölçeklenebilir, dayanıklı ve otomatikleştirilmiş veritabanı altyapıları** oluşturmayı öğreneceksiniz. Hem bireysel kariyerinizde hem de iş yerinizde fark yaratacak bilgiye sahip olmak için şimdi adım atın ve geleceğin veri dünyasına hazırlanın!
+
 ### **G - Siber Güvenlik Eğitimlerimiz**
 
 ![](./images/cyber-security.jpg)
