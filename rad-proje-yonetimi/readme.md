@@ -2,8 +2,8 @@
 
 ![](rad-1.jpg)
 
-- [En güncel eğitimlerimiz için www.vebende.com.tr ziyaret edin](https://www.vebende.com.tr/rad-model-proje-yonetimi)
 - [Güncel PDF'i İndir](https://www.vebende.com.tr/pdfs/rad.pdf)
+- [En güncel eğitimlerimiz için www.vebende.com.tr ziyaret edin](https://www.vebende.com.tr/rad-model-proje-yonetimi)
 
 ## **Eğitim Süresi**
 
