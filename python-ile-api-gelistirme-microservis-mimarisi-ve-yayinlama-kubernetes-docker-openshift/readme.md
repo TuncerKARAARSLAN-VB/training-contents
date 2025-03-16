@@ -2,23 +2,18 @@
 
 ![](python-1.jpg)
 
-[Download PDF Version](./python.pdf)
+- [Güncel PDF'i İndir](https://www.vebende.com.tr/pdfs/python.pdf)
+- [En güncel eğitimlerimiz için www.vebende.com.tr ziyaret edin](https://www.vebende.com.tr/python-microservis-yazilimlari)
 
 ## **Eğitim Süresi**
 
-- **Format 1**
-  - **5 Gün**
-  - **Ders Süresi:** 50 dakika
-  - **Eğitim Saati:** 10:00 - 17:00
+- **Süre:** 5 gün
+- **Ders Süresi:** 50 dakika
+- **Eğitim Saati:** 10:00 - 17:00
 
-- **Format 2**
-  - **12 Gün**
-  - **Ders Süresi:** 50 dakika
-  - **Eğitim Saati:** 10:00 - 17:00
+- > Her iki eğitim formatında eğitimler 50 dakika + 10 dakika moladır. 12:00-13:00 saatleri arasında 1 saat yemek arasındaki verilir. Günde toplam 6 saat eğitim verilir. 5 günlük formatta 30 saat eğitim verilmektedir.
 
-- > Her iki eğitim formatında eğitimler 50 dakika + 10 dakika moladır. 12:00-13:00 saatleri arasında 1 saat yemek arasındaki verilir. Günde toplam 6 saat eğitim verilir. 5 günlük formatta 30 saat eğitim, 12 günlük formatta toplam 72 saat eğitim verilmektedir. 12 saatlik eğitmde katılımcılar kod yazar ve eğitmenle birlikte sorulan sorulara ve taleplere uygun içerikler ve örnekler çalışılır.
-
-- > Eğitimler uzaktan eğitim formatında tasarlanmıştır. Her eğitim için teams linkleri gönderilir. Katılımcılar bu linklere girerek eğitimlere katılırlar. Ayrıca farklı remote çalışma araçları da eğitmen tarafından tüm katılımlara sunulur. Katılımcılar bu araçları kullanarak eğitimlere katılırlar. 
+- > Eğitimler uzaktan eğitim formatında tasarlanmıştır. Her eğitim için teams linkleri gönderilir. Katılımcılar bu linklere girerek eğitimlere katılırlar. Ayrıca farklı remote çalışma araçları da eğitmen tarafından tüm katılımlara sunulur. Katılımcılar bu araçları kullanarak eğitimlere katılırlar.
 
 - > Eğitim içeriğinde github ve codespace kullanılır. Katılımcılar bu platformlar üzerinden örnek projeler oluşturur ve eğitmenle birlikte eğitimlerde sorulan sorulara ve taleplere uygun iceriğe cevap verir. Katılımcılar bu araçlarla eğitimlerde sorulan sorulara ve taleplere uygun iceriğe cevap verir.
 
@@ -29,7 +24,7 @@
 Bu eğitim, microservis mimarisi, Docker, Kubernetes, OpenShift ve uygulama güvenliği gibi konuları kapsayarak, katılımcılara Python ile güçlü ve ölçeklenebilir mikro hizmetler geliştirme yeteneği kazandıracaktır. Eğitim, aşağıdaki temel başlıklarda derinlemesine bilgi sunmaktadır:
 
 1. **Microservis Mimarisi ve Python’a Giriş**: Microservislerin temellerini öğrenip, Python ile hızlı API geliştirme framework'leri (Flask, FastAPI, Django) hakkında bilgi sahibi olacaksınız. Ayrıca, mikro hizmetler için uygun veritabanı tasarımı üzerine de bilgi edinirsiniz.
-   
+
 2. **Docker ve Konteynerleştirme**: Docker ile Python uygulamalarını konteynerleştirmeyi ve çoklu mikro servisi yönetmek için Docker Compose kullanmayı öğreneceksiniz.
 
 3. **Kubernetes ile Orkestrasyon**: Kubernetes üzerinde Python mikro servislerinin nasıl dağıtılacağını, servis yönlendirmeyi, yük dengeleme ve auto-scaling gibi konuları kapsamlı bir şekilde inceleyeceksiniz.

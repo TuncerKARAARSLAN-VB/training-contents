@@ -2,7 +2,8 @@
 
 ![](./energy-2.jpg)
 
-[Download PDF Version](./energy.pdf)
+- [Güncel PDF'i İndir](https://www.vebende.com.tr/pdfs/energy.pdf)
+- [En güncel eğitimlerimiz için www.vebende.com.tr ziyaret edin](https://www.vebende.com.tr/enerji-dagitim-sirketlerine-ozel-yazilim-mimari-egitimi)
 
 ## **Eğitim Süresi**
 
