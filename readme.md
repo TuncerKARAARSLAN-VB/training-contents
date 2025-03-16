@@ -729,6 +729,28 @@ Bu eğitim sayesinde, **Java ile güçlü ve taşınabilir yazılımlar** geliş
     **Geleceğin Yazılımcıları İçin Kaçırılmayacak Bir Fırsat!**  
     Bu eğitim sayesinde, **Java ile güçlü ve taşınabilir yazılımlar** geliştirerek, yazılım pazarında rekabet avantajı yakalayacaksınız. Bireysel projelerinizde ve takım çalışmalarınızda önemli katkılar sağlamak için şimdi harekete geçin ve Java programlama dünyasında kendinizi keşfedin!
 
+- **[09 - İş Analitiği Dökümantasyonları](./is-analitigi/readme.md)**
+
+   Günümüz yazılım dünyasında, **Java** güçlü ve esnek yapısıyla yazılım geliştirme sürecinde en çok tercih edilen dillerden biridir. Web uygulamaları, mobil uygulamalar, büyük veri işleme ve bulut bilişim gibi pek çok alanda yaygın olarak kullanılır. Bu eğitimde, Java dilinin temellerinden başlayarak, gelişmiş özelliklerine ve uygulama senaryolarına kadar kapsamlı bir eğitim alarak yazılım geliştirme becerilerinizi bir üst seviyeye taşıyacaksınız.
+
+    **Yazılım Geliştirme Becerilerinizi Geliştirin**  
+    Java, **nesne yönelimli programlama**, **platform bağımsızlığı** ve **gelişmiş güvenlik özellikleri** ile dikkat çeker. Eğitim sırasında, **veri yapıları**, **çoklu iş parçacığı yönetimi**, **Java Collections Framework**, ve **lambda ifadeleri** gibi konulara derinlemesine dalacak, Java ile etkili ve güvenilir uygulama geliştirme yetkinliği kazanacaksınız.
+
+    - **Java’ya Giriş**: Dilin tarihçesi, temel yapılar ve geliştirme ortamlarının kurulumu
+    - **Temel Girdi/Çıktı İşlemleri**: Konsol girdi/çıktı, dosya işlemleri ve formatlı çıktı
+    - **Veri Türleri ve Operatörler**: Değişkenlerin yönetimi, operatörler ve tip dönüşümleri
+    - **Diziler ve Koleksiyonlar**: Tek boyutlu ve çok boyutlu diziler, ArrayList ve diğer koleksiyonlar
+    - **Kontrol Yapıları**: Koşullu ifadeler, döngüler ve örnek uygulamalar
+    - **Sınıflar ve Nesne Yönelimli Programlama**: Sınıf yapıları, encapsulation, inheritance ve polymorphism
+    - **Çoklu İş Parçacığı Yönetimi**: Java’da paralel programlama ve thread kullanımı
+    - **Lambda İfadeleri ve Fonksiyonel Programlama**: Java 8 ile gelen fonksiyonel programlama özellikleri
+    - **Hata Yönetimi ve İstisna Yönetimi**: Try-catch blokları, özel istisnalar ve hata yönetimi
+    - **Java Collections Framework**: List, Set, Map ve diğer koleksiyon sınıflarının etkin kullanımı
+    - **Java I/O ve Serialization**: Dosya okuma/yazma, nesne serileştirme
+
+    **Geleceğin Yazılımcıları İçin Kaçırılmayacak Bir Fırsat!**  
+    Bu eğitim sayesinde, **Java ile güçlü ve taşınabilir yazılımlar** geliştirerek, yazılım pazarında rekabet avantajı yakalayacaksınız. Bireysel projelerinizde ve takım çalışmalarınızda önemli katkılar sağlamak için şimdi harekete geçin ve Java programlama dünyasında kendinizi keşfedin!
+
 ### **G - Siber Güvenlik Eğitimlerimiz**
 
 ![](./images/cyber-security.jpg)
