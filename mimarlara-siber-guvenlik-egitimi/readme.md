@@ -3,7 +3,7 @@
 ![](./mimarlara-siber-guvenlik-egitimi-1.webp)
 
 - [Güncel PDF'i İndir](https://www.vebende.com.tr/pdfs/mimarlara-siber-guvenlik-egitimi.pdf)
-- [En güncel eğitimlerimiz için www.vebende.com.tr ziyaret edin](https://www.vebende.com.tr/mimarlara-siber-guvenlik-egitimi)
+- [En güncel eğitimlerimiz için www.vebende.com.tr ziyaret edin](https://www.vebende.com.tr/sistem-guvenlik-uzmanlarina-yazilim-gelistiricilere-siber-guvenlik-egitimi)
   
 ## **Eğitim Süresi**
 
