@@ -1,6 +1,6 @@
 # **ASP.NET Core MVC**
 
-![](aspnet-core-mvc-1.webp)
+![](./aspnet-core-mvc-1.webp)
 
 - [Güncel PDF'i İndir](https://www.vebende.com.tr/pdfs/aspnet-core-mvc.pdf)
 - [En güncel eğitimlerimiz için www.vebende.com.tr ziyaret edin](https://www.vebende.com.tr/aspnet-core-mvc)
@@ -54,7 +54,7 @@ Bu eğitim, hem **ASP.NET Core'a yeni başlayanlar** hem de **mevcut bilgilerini
 
 ## **Eğitim İçeriği**  
 
-![](aspnet-core-mvc-2.webp)
+![](./aspnet-core-mvc-2.webp)
 
 ### **ASP.NET Core MVC ile Modern Web Uygulamaları Geliştirme**  
 
@@ -229,4 +229,4 @@ Bu eğitim, hem **ASP.NET Core'a yeni başlayanlar** hem de **mevcut bilgilerini
 - MVC mimarisi ve web uygulamaları geliştirme süreçlerine ilgi duymaları.  
 - Aktif katılım, soru sorma ve öğrenmeye açık bir yaklaşım sergilemeleri.
 - 
-[Eğitim Materyalleri (Eğitmenlere Özel)](https://github.com/TuncerKARAARSLAN-VB/aspnet-core-mvc)
+[Eğitim Materyalleri (Eğitmenlere Özel)](https://github.com/TuncerKARAARSLAN-VB/training-kit-aspnet-core-mvc)

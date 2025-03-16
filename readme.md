@@ -663,6 +663,27 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
     **Geleceğin Web Geliştiricileri İçin Kaçırılmayacak Fırsat!**  
     Bu eğitim sayesinde, **ASP.NET Core MVC ile etkili ve güvenli web uygulamaları** geliştirerek günümüzün gelişen dijital dünyasında öne çıkıp, rekabet avantajı kazanacaksınız. Hem bireysel kariyerinizde hem de takım projelerinde önemli bir katkı sağlayacak bilgiye sahip olmak için şimdi harekete geçin ve gelecekteki web uygulama geliştirme yeteneklerinizi keşfedin!
 
+- **[07 - C Plus Plus C++ ile Geleceği Kodlayın](./cplusplus/readme.md)**
+
+    Günümüz yazılım dünyasında, yüksek performans ve verimlilik sağlayan diller arasında öne çıkan **C++**, sistem programlama, oyun geliştirme ve veri tabanları gibi geniş bir yelpazede önemli uygulamalara sahiptir. Bu eğitimde, C++ dilinin temellerinden başlayarak, gelişmiş özelliklerine ve uygulama senaryolarına kadar kapsamlı bir eğitim alarak yazılım geliştirme becerilerinizi bir üst seviyeye taşıyacaksınız.
+
+    **Yazılım Geliştirme Becerilerinizi Geliştirin**  
+    C++, **nesne yönelimli programlama**, **güçlü bellek yönetimi** ve **yüksek düzeyde performans** özellikleri ile dikkat çeker. Eğitim sırasında, **veri yapıları**, **işaretçiler**, **fonksiyon ve operatör aşırı yükleme**, ve **şablon kullanımı** gibi konulara derinlemesine dalacak, C++ ile etkili ve güvenilir uygulama geliştirmede yetkin hale geleceksiniz.
+
+    - **C++’a Giriş**: Dilin tarihçesi, temel yapılar ve geliştirme ortamlarının kurulumu
+    - **Temel Girdi/Çıktı İşlemleri**: cin, cout, dosya işlemleri ve formatlı çıktı
+    - **Veri Türleri ve Operatörler**: Değişkenlerin yönetimi, operatörler ve tip dönüşümleri
+    - **Diziler ve İşaretçiler**: Tek boyutlu ve çok boyutlu diziler, işaretçi kullanımı
+    - **Kontrol Yapıları**: Koşullu ifadeler, döngüler ve örnek uygulamalar
+    - **Fonksiyonlar, Yapılar ve Bellek Yönetimi**: İşaretçiler, dinamik bellek yönetimi ve veri yapıları
+    - **Fonksiyon ve Operatör Aşırı Yükleme**: Farklı veri türleriyle çalışma yeteneği kazanın
+    - **Şablonlar ve STL Kullanımı**: Gelişmiş programlama teknikleri için şablonlar
+    - **Kalıtım ve Polimorfizm**: Nesne yönelimli programlamanın temel yapı taşları
+    - **Hata Yönetimi ve İstisna Yönetimi**: Uygulamanızın dayanıklılığını artıracak yöntemler
+    - **STL ile Veri Yapıları**: Vektörler, haritalar, küme gibi standart yapıların kullanımı
+
+    **Geleceğin Yazılımcıları İçin Kaçırılmayacak Bir Fırsat!**  
+    Bu eğitim sayesinde, **C++ ile güçlü ve verimli yazılımlar** geliştirerek, günümüz yazılım pazarında rekabet avantajı yakalayacaksınız. Bireysel projelerinizde ve takım çalışmalarınızda önemli katkılar sağlamak için şimdi harekete geçin ve C++ programlama dünyasında kendinizi keşfedin!
 
 ### **G - Siber Güvenlik Eğitimlerimiz**
 
