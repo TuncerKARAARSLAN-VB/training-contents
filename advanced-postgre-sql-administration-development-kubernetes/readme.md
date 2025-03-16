@@ -2,7 +2,8 @@
 
 ![](advanced-posgress-development-kubernetes.webp)
 
-[Download PDF Version](./advanced-posgress-development-kubernetes.pdf)
+- [Güncel PDF'i İndir](https://www.vebende.com.tr/pdfs/advanced-posgress-development-kubernetes.pdf)
+- [En güncel eğitimlerimiz için www.vebende.com.tr ziyaret edin](https://www.vebende.com.tr/postgresql)
 
 ## **Eğitim Süresi**
 
