@@ -1,24 +1,19 @@
-# **İleri Seviye CI/CD Eğitimi ve Kubernetes, Docker, OpenShift Deployment**
+# **İleri Seviye CI/CD Eğitimi ve Kubernetes, Docker Deployment**
 
 ![](ileri-seviye-ci-cd.webp)
 
-[Download PDF Version](./sistemciler-icin-ci-cd.pdf)
+- [Güncel PDF'i İndir](https://www.vebende.com.tr/pdfs/sistemciler-icin-ci-cd.pdf)
+- [En güncel eğitimlerimiz için www.vebende.com.tr ziyaret edin](https://www.vebende.com.tr/sistem-yoneticileri-icin-ci-cd-egitimi)
 
 ## **Eğitim Süresi**
 
-- **Format 1**
-  - **5 Gün**
-  - **Ders Süresi:** 50 dakika
-  - **Eğitim Saati:** 10:00 - 17:00
+- **10 Gün**
+- **Ders Süresi:** 50 dakika
+- **Eğitim Saati:** 10:00 - 17:00
 
-- **Format 2**
-  - **12 Gün**
-  - **Ders Süresi:** 50 dakika
-  - **Eğitim Saati:** 10:00 - 17:00
+- > Eğitim formatında eğitimler 50 dakika + 10 dakika moladır. 12:00-13:00 saatleri arasında 1 saat yemek arasındaki verilir. Günde toplam 6 saat eğitim verilir. 10 günlük formatta 60 saat eğitim verilmektedir.
 
-- > Her iki eğitim formatında eğitimler 50 dakika + 10 dakika moladır. 12:00-13:00 saatleri arasında 1 saat yemek arasındaki verilir. Günde toplam 6 saat eğitim verilir. 5 günlük formatta 30 saat eğitim, 12 günlük formatta toplam 72 saat eğitim verilmektedir. 12 saatlik eğitmde katılımcılar kod yazar ve eğitmenle birlikte sorulan sorulara ve taleplere uygun içerikler ve örnekler çalışılır.
-
-- > Eğitimler uzaktan eğitim formatında tasarlanmıştır. Her eğitim için teams linkleri gönderilir. Katılımcılar bu linklere girerek eğitimlere katılırlar. Ayrıca farklı remote çalışma araçları da eğitmen tarafından tüm katılımlara sunulur. Katılımcılar bu araçları kullanarak eğitimlere katılırlar. 
+- > Eğitimler uzaktan eğitim formatında tasarlanmıştır. Her eğitim için teams linkleri gönderilir. Katılımcılar bu linklere girerek eğitimlere katılırlar. Ayrıca farklı remote çalışma araçları da eğitmen tarafından tüm katılımlara sunulur. Katılımcılar bu araçları kullanarak eğitimlere katılırlar.
 
 - > Eğitim içeriğinde github ve codespace kullanılır. Katılımcılar bu platformlar üzerinden örnek projeler oluşturur ve eğitmenle birlikte eğitimlerde sorulan sorulara ve taleplere uygun iceriğe cevap verir. Katılımcılar bu araçlarla eğitimlerde sorulan sorulara ve taleplere uygun iceriğe cevap verir.
 

@@ -2,21 +2,16 @@
 
 ![](./wso2.jpg)
 
-[Download PDF Version](./wso2.pdf)
+- [Güncel PDF'i İndir](https://www.vebende.com.tr/pdfs/wso2.pdf)
+- [En güncel eğitimlerimiz için www.vebende.com.tr ziyaret edin](https://www.vebende.com.tr/wso2)
 
 ## **Eğitim Süresi**
 
-- **Format 1**
-  - **5 Gün**
-  - **Ders Süresi:** 50 dakika
-  - **Eğitim Saati:** 10:00 - 17:00
+- **3 Gün**
+- **Ders Süresi:** 50 dakika
+- **Eğitim Saati:** 10:00 - 17:00
 
-- **Format 2**
-  - **12 Gün**
-  - **Ders Süresi:** 50 dakika
-  - **Eğitim Saati:** 10:00 - 17:00
-
-- > Her iki eğitim formatında eğitimler 50 dakika + 10 dakika moladır. 12:00-13:00 saatleri arasında 1 saat yemek arasındaki verilir. Günde toplam 6 saat eğitim verilir. 5 günlük formatta 30 saat eğitim, 12 günlük formatta toplam 72 saat eğitim verilmektedir. 12 saatlik eğitmde katılımcılar kod yazar ve eğitmenle birlikte sorulan sorulara ve taleplere uygun içerikler ve örnekler çalışılır.
+- > Eğitim formatında eğitimler 50 dakika + 10 dakika moladır. 12:00-13:00 saatleri arasında 1 saat yemek arasındaki verilir. Günde toplam 6 saat eğitim verilir. 3 günlük formatta 18 saat eğitim verilmektedir.
 
 - > Eğitimler uzaktan eğitim formatında tasarlanmıştır. Her eğitim için teams linkleri gönderilir. Katılımcılar bu linklere girerek eğitimlere katılırlar. Ayrıca farklı remote çalışma araçları da eğitmen tarafından tüm katılımlara sunulur. Katılımcılar bu araçları kullanarak eğitimlere katılırlar.
 
