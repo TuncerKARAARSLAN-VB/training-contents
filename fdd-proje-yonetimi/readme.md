@@ -3,7 +3,7 @@
 ![](fdd.webp)
 
 - [Güncel PDF'i İndir](https://www.vebende.com.tr/pdfs/fdd.pdf)
-- [En güncel eğitimlerimiz için www.vebende.com.tr ziyaret edin](https://www.vebende.com.tr/sifirdan-zirveye-dockerla-sanallastirma)
+- [En güncel eğitimlerimiz için www.vebende.com.tr ziyaret edin](https://www.vebende.com.tr/fdd-proje-yonetimi)
 
 ## **Eğitim Süresi**
 
