@@ -642,6 +642,28 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
     **Geleceğin Veri Profesyonelleri İçin Kaçırılmayacak Fırsat!**  
     Bu eğitim sayesinde, **PostgreSQL ile veritabanı yönetimini** öğrenerek büyük ölçekli sistemlerde veri depolama, işleme ve analiz etme konusunda uzmanlaşacak, **Kubernetes ile ölçeklenebilir, dayanıklı ve otomatikleştirilmiş veritabanı altyapıları** oluşturmayı öğreneceksiniz. Hem bireysel kariyerinizde hem de iş yerinizde fark yaratacak bilgiye sahip olmak için şimdi adım atın ve geleceğin veri dünyasına hazırlanın!
 
+- **[06 - Açık Kaynak ile Web Gelişimi: ASP.NET Core MVC Eğitimi](./aspnet-core-mvc/readme.md)**
+
+    Günümüzün dinamik web uygulamalarının arkasında yatan güçlü platformlardan biri olan **ASP.NET Core MVC**, modern, hızlı ve esnek web uygulamaları geliştirmek için ideal bir seçenektir. **Model-View-Controller** (MVC) mimarisi ile uygulama geliştirme sürecini daha modüler hale getirirken, performansı ve bakım kolaylığını artırır. Bu eğitimde, **ASP.NET Core MVC’nin temellerinden**, gelişmiş özelliklerine kadar her şeyi öğrenerek web geliştirme becerilerinizi bir üst seviyeye taşıyacaksınız.
+
+    **Web Geliştirme Becerilerinizi Geliştirin**  
+    ASP.NET Core, **çapraz platform desteği**, **yüksek performans**, **gelişmiş güvenlik imkanları** ve **güçlü veri yapıları** ile modern web dünyasında önemli bir yere sahiptir. Eğitim boyunca, **RESTful API geliştirme**, **ORM (Entity Framework Core)** ile veri erişimi ve **güvenlik uygulamaları** gibi konulara derinlemesine girecek, web geliştirme alanında yetkin hale geleceksiniz.
+
+    - **ASP.NET Core’a Giriş**: Kurulum, yapılandırma ve temel yapı taşları
+    - **MVC Yapısı ve Veri İşleme**: Kontrolcüler, modeller ve görünümler
+    - **Routing ve URL Yapısı**: RESTful API tasarımı ve URL yönlendirme
+    - **ORM ve Veri Erişimi**: Entity Framework Core ile veri yönetimi ve migrasyon
+    - **Güvenlik Uygulamaları**: Kimlik doğrulama, yetkilendirme ve parolaların güvenliği
+    - **Form İşleme ve Model Binding**: Kullanıcı giriş verilerinin yönetimi
+    - **Javascript ve Frontend Entegrasyonu**: Ajax, jQuery ve frontend kütüphaneleri ile etkileşim
+    - **Web API Geliştirme**: RESTful servisler ve JSON ile veri iletimi
+    - **Hata Ayıklama ve Performans İyileştirme**: Uygulama performansını artırma stratejileri
+    - **Deployment ve Bulut Servisleri**: Uygulamaları dağıtma ve bulut tabanlı altyapılarla entegrasyon
+
+    **Geleceğin Web Geliştiricileri İçin Kaçırılmayacak Fırsat!**  
+    Bu eğitim sayesinde, **ASP.NET Core MVC ile etkili ve güvenli web uygulamaları** geliştirerek günümüzün gelişen dijital dünyasında öne çıkıp, rekabet avantajı kazanacaksınız. Hem bireysel kariyerinizde hem de takım projelerinde önemli bir katkı sağlayacak bilgiye sahip olmak için şimdi harekete geçin ve gelecekteki web uygulama geliştirme yeteneklerinizi keşfedin!
+
+
 ### **G - Siber Güvenlik Eğitimlerimiz**
 
 ![](./images/cyber-security.jpg)
