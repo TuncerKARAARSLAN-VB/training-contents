@@ -1,4 +1,4 @@
-# **YAPAY ZEKA MÜHENDİSLİĞİ KAMPI - YAPAY ZEKAYA İLK ADIM**
+# **YAPAY ZEKA MÜHENDİSLİĞİ KAMPI - AI TEKNOLOJİLERİNE DERİN DALIŞ**
 
 ![](./yapay-zeka-kampi-seviye-2-1.webp)
 
