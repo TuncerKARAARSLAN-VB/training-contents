@@ -1,4 +1,4 @@
-# **KURUMSAL EĞİTİM, SİBER GÜVENLİK VE AĞ GÜVENLİĞİ**
+# **KURUMSAL EĞİTİM, YÖNETİCİLERE ÖZEL SİBER GÜVENLİK**
 
 ![](./yoneticilere-siber-guvenlik-egitimi-1.webp)
 
