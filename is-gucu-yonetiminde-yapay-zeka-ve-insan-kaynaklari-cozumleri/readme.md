@@ -2,7 +2,7 @@
 
 ![](hr-1.jpg)
 
-- [Download PDF Version](./hr.pdf)
+- [Download PDF Version](https://www.vebende.com.tr/pdfs/hr.pdf)
 - [En güncel eğitimlerimiz için www.vebende.com.tr ziyaret edin](https://www.vebende.com.tr/is-gucu-yonetiminde-yapay-zeka-ve-insan-kanyaklari-cozumleri-egitimi)
 
 ## **Eğitim Süresi**
