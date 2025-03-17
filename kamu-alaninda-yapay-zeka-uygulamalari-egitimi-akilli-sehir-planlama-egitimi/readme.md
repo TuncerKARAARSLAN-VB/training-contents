@@ -2,7 +2,7 @@
 
 ![](./kamuda-yapayzeka-1.webp)
 
-- [Download PDF Version](https://www.vebende.com.tr/pdfs/kamu-alaninda-yapay-zeka-uygulamalari-egitimi-akilli-sehir-planlama-egitimi.pdf)
+- [Download PDF Version](https://www.vebende.com.tr/pdfs/is-gucu-yonetiminde-yapay-zeka-ve-insan-kanyaklari-cozumleri-egitimi.pdf)
 - [En güncel eğitimlerimiz için www.vebende.com.tr ziyaret edin](https://www.vebende.com.tr/kamu-alaninda-yapay-zeka-uygulamalari-egitimi-akilli-sehir-planlama-egitimi)
 
 ## **Eğitim Süresi**
