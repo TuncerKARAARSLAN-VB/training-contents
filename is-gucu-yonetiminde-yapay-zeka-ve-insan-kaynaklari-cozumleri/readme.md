@@ -2,21 +2,16 @@
 
 ![](hr-1.jpg)
 
-[Download PDF Version](./hr.pdf)
+- [Download PDF Version](./hr.pdf)
+- [En güncel eğitimlerimiz için www.vebende.com.tr ziyaret edin](https://www.vebende.com.tr/is-gucu-yonetiminde-yapay-zeka-ve-insan-kanyaklari-cozumleri-egitimi)
 
 ## **Eğitim Süresi**
 
-- **Format 1**
-  - **5 Gün**
+  - **Süre:** 3 Gün
   - **Ders Süresi:** 50 dakika
   - **Eğitim Saati:** 10:00 - 17:00
 
-- **Format 2**
-  - **12 Gün**
-  - **Ders Süresi:** 50 dakika
-  - **Eğitim Saati:** 10:00 - 17:00
-
-- > Her iki eğitim formatında eğitimler 50 dakika + 10 dakika moladır. 12:00-13:00 saatleri arasında 1 saat yemek arasındaki verilir. Günde toplam 6 saat eğitim verilir. 5 günlük formatta 30 saat eğitim, 12 günlük formatta toplam 72 saat eğitim verilmektedir. 12 saatlik eğitmde katılımcılar kod yazar ve eğitmenle birlikte sorulan sorulara ve taleplere uygun içerikler ve örnekler çalışılır.
+- > Her iki eğitim formatında eğitimler 50 dakika + 10 dakika moladır. 12:00-13:00 saatleri arasında 1 saat yemek arasındaki verilir. Günde toplam 6 saat eğitim verilir. 3 günlük formatta 18 saat eğitim verilmektedir.
 
 - > Eğitimler uzaktan eğitim formatında tasarlanmıştır. Her eğitim için teams linkleri gönderilir. Katılımcılar bu linklere girerek eğitimlere katılırlar. Ayrıca farklı remote çalışma araçları da eğitmen tarafından tüm katılımlara sunulur. Katılımcılar bu araçları kullanarak eğitimlere katılırlar. 
 
@@ -57,8 +52,6 @@ Günümüz iş dünyası hızla değişirken, İnsan Kaynakları (İK) birimleri
 - **İnsan Kaynakları Yönetimi (HRM) Nedir?**  
   - İşe alım süreçleri, yetenek yönetimi, çalışan memnuniyeti.  
 
----
-
 ### **2. İşe Alım Süreçlerinde Yapay Zeka**
 
 - **Otomatik CV Tarama Sistemleri**  
@@ -89,8 +82,6 @@ Günümüz iş dünyası hızla değişirken, İnsan Kaynakları (İK) birimleri
   - Çalışan yetkinlik boşluklarının belirlenmesi için performans ve yetkinlik puantaj sistemleri.  
   - Eksikliklere yönelik kişiselleştirilmiş eğitim planlarının yapay zeka yardımıyla tasarlanması ve uygulanması.  
 
----
-
 ### **3. Yetenek Yönetimi ve Performans Değerlendirme**
 
 - **Çalışan Veri Analitiği ve Tahmine Dayalı Modeller**  
@@ -102,8 +93,6 @@ Günümüz iş dünyası hızla değişirken, İnsan Kaynakları (İK) birimleri
 - **Eğitim ve Gelişim Planlamasında AI**  
   - Çalışanlara özel öğrenme yollarının oluşturulması.  
   - Gamification (oyunlaştırma) ve mikro-öğrenme yöntemleri.  
-
----
 
 ### **4. Çalışan Verimliliğini Artırmada Yapay Zeka**
 
@@ -145,8 +134,6 @@ Günümüz iş dünyası hızla değişirken, İnsan Kaynakları (İK) birimleri
 - **Görev Rotasyonu ve Deneyim Çeşitlendirme**  
   - Çalışanların farklı görevlerde deneyim kazanmasını sağlayacak rotasyon planlarının AI ile optimize edilmesi.  
 
----
-
 ### **5. Etik ve Yasal Çerçeve**
 
 - **AI Etiği ve İnsan Kaynaklarında Uygulamalar**  
@@ -154,8 +141,6 @@ Günümüz iş dünyası hızla değişirken, İnsan Kaynakları (İK) birimleri
 - **Veri Güvenliği ve GDPR Uyumu**  
   - Çalışan verilerinin korunması.  
   - Yasal gerekliliklerin uygulanması.  
-
----
 
 ### **6. Yapay Zeka Araçları ve Platformları**
 
@@ -166,8 +151,6 @@ Günümüz iş dünyası hızla değişirken, İnsan Kaynakları (İK) birimleri
   - Python ve R ile basit modeller geliştirme.  
   - Önceden eğitilmiş modellerin kullanımı.  
 
----
-
 ### **7. Uygulamalı Proje ve Simülasyonlar**
 
 - **İşe Alım Simülasyonu**  
@@ -176,8 +159,6 @@ Günümüz iş dünyası hızla değişirken, İnsan Kaynakları (İK) birimleri
   - Tahmine dayalı analitik modellerle çalışan değerlendirme.  
 - **Çalışan Bağlılığı İçin Yapay Zeka Çözümleri**  
   - Memnuniyet ve bağlılık ölçümü için chatbot geliştirme.  
-
----
 
 ### **8. İleri Konular**
 
@@ -188,8 +169,6 @@ Günümüz iş dünyası hızla değişirken, İnsan Kaynakları (İK) birimleri
 - **Geleceğin İK Trendleri**  
   - Hyper-personalization (hiper kişiselleştirme).  
   - Metaverse ve sanal gerçeklik iş gücü yönetimi.  
-
----
 
 ### **9. Sertifikasyon ve Sürekli Eğitim**
 
