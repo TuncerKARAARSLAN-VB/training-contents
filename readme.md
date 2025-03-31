@@ -196,6 +196,31 @@ Lütfen eğitim içeriklerini detaylıca incelemek için eğitimlere tıklayın�
 
     Bu eğitim, WSO2 platformu ile modern yazılım geliştirme ve dağıtım süreçlerini optimize etmek, güvenliği sağlamak ve yüksek verimli CI/CD pipeline’ları oluşturmak isteyen profesyoneller için eşsiz bir fırsat sunuyor.
 
+- **[08 - Apache Kafka Eğitimi](./apache-kafka/readme.md)**
+
+Günümüzün veri odaklı dünyasında, büyük ölçekli sistemlerde veri akışlarını yönetmek kritik bir beceri haline geldi. Apache Kafka, dünya çapında dev şirketlerin kullandığı en güçlü dağıtık mesaj kuyruğu sistemlerinden biridir. Peki, siz bu teknolojiyi en etkin şekilde kullanmayı öğrenmek istemez misiniz?
+
+Eğitimimize Katılarak Neler Kazanacaksınız?
+✅ Apache Kafka’nın temellerinden ileri seviye konularına kadar kapsamlı bir eğitim
+✅ Gerçek dünya senaryoları ile uygulamalı öğrenme fırsatı
+✅ Kafka Streams ve Kafka Connect ile büyük veri işleme yetenekleri
+✅ Yüksek performanslı sistemler kurma ve yönetme becerisi
+✅ Kafka’nın güvenlik, performans optimizasyonu ve izleme araçlarını kullanma yetkinliği
+✅ Sertifikasyon ve kariyer fırsatları hakkında rehberlik
+
+Kimler Katılmalı?
+🚀 Yazılım geliştiriciler ve mimarlar
+🚀 Büyük veri analistleri ve mühendisleri
+🚀 Veri tabanı yöneticileri ve sistem yöneticileri
+🚀 Gerçek zamanlı veri işleme projelerinde çalışan profesyoneller
+🚀 Kafka’yı sistemlerine entegre etmek isteyen şirketler
+
+Neden Bu Eğitimi Almalısınız?
+🔹 En güncel Apache Kafka versiyonları ile eğitim
+🔹 Deneyimli eğitmenlerden pratik bilgiler ve gerçek dünya örnekleri
+🔹 Kendi hızınıza göre ilerleyebileceğiniz, derinlemesine içerik
+🔹 Sektördeki en çok aranan becerilerden biriyle fark yaratma şansı
+
 ### **B - Yazılım Süreçleri Eğitimlerimiz**
 
 ![](./images/yazilim-surec.jpg)
