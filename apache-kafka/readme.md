@@ -1,4 +1,4 @@
-# **Advanced PostgreSQL Administration Development Kubernetes Eğitimi**
+# **Apache Kafka Eğitimi**
 
 ![](apache-kafka-1.webp)
 
